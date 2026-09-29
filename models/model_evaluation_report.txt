@@ -1,0 +1,47 @@
+=== TorqueIQ Model Evaluation Report ===
+
+== CAR MODEL ==
+Algorithms Tested: Baseline (Median), Random Forest, Extra Trees
+Train Records: 1422 | Test Records: 356
+Note: High cardinality in Car_Model limits generalization, but Random Forest captured existing distributions effectively.
+
+Baseline (Median):
+  MAE: INR 1,201,083.44
+  RMSE: INR 2,416,078.81
+  R²: -0.1429
+Random Forest:
+  MAE: INR 364,131.04
+  RMSE: INR 937,627.35
+  R²: 0.8279
+Extra Trees:
+  MAE: INR 275,400.94
+  RMSE: INR 805,927.90
+  R²: 0.8728
+
+Selected Car Model: Extra Trees (Reason: Highest R² metric indicating best fit for the available high-cardinality data)
+
+== BIKE MODEL ==
+Algorithms Tested: Baseline (Median), Random Forest, Extra Trees
+Train Records: 5854 | Test Records: 1464
+Data Limitations: 6 suspicious rows with highly implausible km_driven (>500,000) were successfully excluded from training as they are clear data entry errors.
+
+Baseline (Median):
+  MAE: INR 60,368.09
+  RMSE: INR 151,165.84
+  R²: -0.0687
+Random Forest:
+  MAE: INR 13,880.48
+  RMSE: INR 50,247.52
+  R²: 0.8819
+Extra Trees:
+  MAE: INR 13,786.71
+  RMSE: INR 51,581.29
+  R²: 0.8756
+
+Selected Bike Model: Random Forest (Reason: Highest R² metric and lowest error metrics)
+
+=== Artifact Generation ===
+Model files successfully generated and verified loadable.
+Paths:
+- models/car_price_model.joblib
+- models/bike_price_model.joblib

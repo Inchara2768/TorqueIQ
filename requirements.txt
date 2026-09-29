@@ -1,0 +1,8 @@
+# Streamlit Community Cloud Requirements
+streamlit==1.64.0
+pandas==3.0.6
+plotly==7.1.0
+
+# Machine Learning & Model Loading
+joblib==1.6.0
+scikit-learn==1.9.1

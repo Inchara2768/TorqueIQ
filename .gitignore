@@ -1,0 +1,33 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+.env
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# macOS / OS Specific
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Web temporary files
+node_modules/
+package-lock.json
+
+# DO NOT ignore models/ or data/ directories. They are required for deployment.

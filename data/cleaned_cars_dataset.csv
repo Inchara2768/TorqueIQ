@@ -1,0 +1,1779 @@
+Car_Year,Car_Model,Car_Price,Car_Kms,Car_Fuel,Car_Location,Brand
+2019,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],12500000,22000,Diesel,Delhi,Land Rover
+2012,BMW 5 Series 520d Sedan,1190000,56000,Diesel,Delhi,BMW
+2018,Hyundai Creta SX 1.6 CRDi (O),1200000,42426,Diesel,Delhi,Hyundai
+2013,Hyundai Eon 1.0 Kappa Magna + [2014-2016],230000,64717,Petrol,Noida Delivery available in Delhi,Hyundai
+2015,Maruti Suzuki Celerio VXi AMT ABS,345000,49000,Petrol,Delhi,Maruti Suzuki
+2020,MG Hector Smart 1.5 DCT Petrol [2019-2020],1695000,10300,Petrol,Delhi,MG
+2010,Honda City 1.5 V MT,310000,73000,Petrol,Delhi,Honda
+2018,Mercedes-Benz CLA 200 D Urban Sport,2600000,17500,Diesel,Delhi,Mercedes-Benz
+2013,Maruti Suzuki Estilo LXi BS-IV,215000,56567,Petrol,Delhi,Maruti Suzuki
+2019,Tata Tiago Revotron XZ,475000,11733,Petrol,Delhi,Tata
+2015,Toyota Innova 2.5 G BS IV 7 STR,925000,790000,Diesel,Delhi,Toyota
+2009,Hyundai Santro Xing GLS,150000,43000,Petrol,Delhi,Hyundai
+2014,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],365000,51000,Petrol,Delhi,Hyundai
+2018,Maruti Suzuki Dzire VXi,595000,19013,Petrol,Ghaziabad Delivery available in Delhi,Maruti Suzuki
+2013,Hyundai i20 Magna 1.4 CRDI,265000,68010,Diesel,Ghaziabad Delivery available in Delhi,Hyundai
+2017,Maruti Suzuki Ciaz Zeta 1.4 MT,735000,42000,Petrol,Delhi,Maruti Suzuki
+2016,Ford EcoSport Titanium 1.5L TDCi,550000,49153,Diesel,Delhi,Ford
+2016,Datsun redi-GO T [2016-2019],245000,40822,Petrol,Delhi,Datsun
+2015,Maruti Suzuki Alto K10 VXi (O) [2014-2019],270000,28765,Petrol,Delhi,Maruti Suzuki
+2012,Honda Brio S MT,295000,41000,Petrol,Noida Delivery available in Delhi,Honda
+2017,Volkswagen Polo Allstar 1.2 (P),525000,27168,Petrol,Delhi,Volkswagen
+2014,Maruti Suzuki Swift DZire VDI,375000,57000,Diesel,Delhi,Maruti Suzuki
+2016,Maruti Suzuki Celerio ZXi AMT [2019-2020],400000,33577,Petrol,Delhi,Maruti Suzuki
+2015,Honda Jazz V Petrol,485000,42000,Petrol,Noida Delivery available in Delhi,Honda
+2014,Ford EcoSport Titanium 1.5 TDCi,495000,78000,Diesel,Noida Delivery available in Delhi,Ford
+2019,Hyundai Elite i20 Asta 1.2 (O) CVT [2019-2020],880000,5000,Petrol,Delhi,Hyundai
+2014,Maruti Suzuki Alto 800 Vxi,250000,4800,Petrol,Delhi,Maruti Suzuki
+2018,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],1595000,82569,Diesel,Delhi,Toyota
+2017,Maruti Suzuki Dzire ZXi Plus,585000,14500,Petrol,Delhi,Maruti Suzuki
+2016,Volkswagen Polo GT TSI,625000,48000,Petrol,Delhi,Volkswagen
+2012,Hyundai Elantra 1.8 SX MT,500000,70000,Petrol,Delhi,Hyundai
+2016,Hyundai i10 1.1L iRDE Magna Special Edition,375000,61000,Petrol,Delhi,Hyundai
+2015,Volkswagen Vento Highline Diesel AT,599000,67000,Diesel,Faridabad Delivery available in Delhi,Volkswagen
+2015,Mahindra XUV500 W8 [2015-2017],699000,80000,Diesel,Faridabad Delivery available in Delhi,Mahindra
+2013,Hyundai Verna Fluidic 1.6 VTVT SX,450000,41931,Petrol,Delhi,Hyundai
+2012,Honda Brio S MT,275000,53000,Petrol,Delhi,Honda
+2015,Maruti Suzuki Ciaz VXi,625000,48288,Petrol,Delhi,Maruti Suzuki
+2017,BMW 5 Series 520d Luxury Line [2017-2019],4350000,13000,Diesel,Delhi,BMW
+2014,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],365000,40000,Petrol,Noida Delivery available in Delhi,Hyundai
+2019,Hyundai Verna EX 1.4 CRDi,965000,8000,Diesel,Delhi,Hyundai
+2010,Maruti Suzuki Wagon R 1.0 VXi,165000,70000,Petrol,Delhi,Maruti Suzuki
+2016,Renault Duster 110 PS RXL 4X2 AMT [2016-2017],599000,68000,Diesel,Faridabad Delivery available in Delhi,Renault
+2016,Renault Kwid RXT [2015-2019],265000,66170,Petrol,Noida Delivery available in Delhi,Renault
+2017,Maruti Suzuki Wagon R 1.0 VXI,375000,77000,Petrol,Delhi,Maruti Suzuki
+2014,Nissan Terrano XV D THP 110 PS,550000,65000,Diesel,Delhi,Nissan
+2013,Honda Brio VX AT,370000,62000,Petrol,Delhi,Honda
+2017,Mercedes-Benz GLS 350 d,6500000,57000,Diesel,Lucknow Delivery available in Delhi,Mercedes-Benz
+2014,Mercedes-Benz M-Class ML 350 CDI,2399000,70000,Diesel,Faridabad Delivery available in Delhi,Mercedes-Benz
+2019,Volkswagen Ameo Trendline 1.2L (P),495000,38000,Petrol,Noida Delivery available in Delhi,Volkswagen
+2021,MG Hector Sharp 1.5 Petrol CVT,1950000,4000,Petrol,Delhi,MG
+2015,Mercedes-Benz S-Class S 350 CDI,5491000,20000,Diesel,Delhi,Mercedes-Benz
+2015,Maruti Suzuki Baleno Delta 1.2,485000,58000,Petrol,Noida Delivery available in Delhi,Maruti Suzuki
+2018,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],660000,4008,Petrol,Delhi,Hyundai
+2014,Mercedes-Benz E-Class E250 CDI Avantgarde,1875000,56000,Diesel,Delhi,Mercedes-Benz
+2014,BMW 5 Series 520d Luxury Line,1950000,55000,Diesel,Delhi,BMW
+2020,Maruti Suzuki Swift LXi,576000,3800,Petrol,Ghaziabad Delivery available in Delhi,Maruti Suzuki
+2017,Mercedes-Benz E-Class E 350 d Exclusive [2017-2019],5200000,22000,Diesel,Delhi,Mercedes-Benz
+2019,Honda City VX (O) MT BL,1145000,21963,Petrol,Delhi,Honda
+2016,Skoda Rapid 1.5 TDI CR Style Plus AT,675000,41000,Diesel,Delhi,Skoda
+2012,Toyota Corolla Altis 1.8 G,500000,84734,Petrol,Pune Delivery available in Delhi,Toyota
+2012,Maruti Suzuki SX4 VXi,295000,70000,Petrol,Noida Delivery available in Delhi,Maruti Suzuki
+2013,Mercedes-Benz M-Class ML 350 CDI,1950000,71000,Diesel,Delhi,Mercedes-Benz
+2017,Mercedes-Benz C-Class C 220 CDI Style,3350000,40000,Diesel,Lucknow Delivery available in Delhi,Mercedes-Benz
+2015,Honda Amaze 1.2 S i-VTEC,390000,58000,Petrol,Delhi,Honda
+2020,Audi A6 45 TFSI Technology,4800000,15000,Petrol,Delhi,Audi
+2014,Audi A4 2.0 TDI (143bhp),1475000,16940,Diesel,Delhi,Audi
+2020,Audi A3 35 TDI Premium Plus + Sunroof,2800000,24000,Diesel,Delhi,Audi
+2016,Toyota Fortuner 3.0 4x2 MT,1990000,53840,Diesel,Delhi,Toyota
+2018,Mahindra Scorpio S7 140 2WD 7 STR,1325000,33000,Diesel,Ghaziabad Delivery available in Delhi,Mahindra
+2014,Ford EcoSport Trend 1.5 TDCi,415000,66500,Diesel,Delhi,Ford
+2016,Hyundai Verna 1.6 CRDI SX (O) AT,775000,37555,Diesel,Delhi,Hyundai
+2018,Maruti Suzuki Vitara Brezza ZDi Plus AGS,950000,16000,Diesel,Delhi,Maruti Suzuki
+2019,Hyundai Santro Magna [2018-2020],495000,32957,Petrol,Delhi,Hyundai
+2020,Land Rover Range Rover Velar 2.0 R-Dynamic SE Diesel 180,7200000,42000,Diesel,Delhi,Land Rover
+2009,Audi A6 3.0 TDI quattro Premium,990000,45000,Diesel,Delhi,Audi
+2016,Ford Mustang GT Fastback 5.0L v8,7300000,23000,Petrol,Delhi,Ford
+2014,Maruti Suzuki Ertiga VDi,550000,98500,Diesel,Lucknow Delivery available in Delhi,Maruti Suzuki
+2020,Mercedes-Benz C-Class C 220d Progressive [2018-2019],4199000,20600,Diesel,Gurgaon Delivery available in Delhi,Mercedes-Benz
+2017,Mercedes-Benz GLE 250 d,4500000,45000,Diesel,Delhi,Mercedes-Benz
+2019,Hyundai Creta E Plus 1.6 Petrol,1000000,16000,Petrol,Delhi,Hyundai
+2014,Mercedes-Benz B-Class B180 Sports,1375000,38000,Petrol,Delhi,Mercedes-Benz
+2017,Mahindra XUV500 W4 1.99,875000,65000,Diesel,Delhi,Mahindra
+2014,Toyota Fortuner 4x2 AT,1440000,137000,Diesel,Delhi,Toyota
+2012,Honda City 1.5 V MT,425000,56000,Petrol,Delhi,Honda
+2014,Audi A3 40 TFSI Premium,1575000,48000,Petrol,Delhi,Audi
+2013,Maruti Suzuki Alto 800 Lxi,225000,41360,Petrol,Noida Delivery available in Delhi,Maruti Suzuki
+2015,Maruti Suzuki Swift VXi,425000,54000,Petrol,Delhi,Maruti Suzuki
+2018,Hyundai Creta 1.6 SX Plus Petrol,1300000,15000,Petrol,Delhi,Hyundai
+2018,Skoda Octavia 1.8 TSI L&K,1900000,42000,Petrol,Delhi,Skoda
+2019,Audi A4 35 TDI Premium Plus,3195000,4000,Diesel,Delhi,Audi
+2018,Renault Kwid RXL [2015-2019],290000,12996,Petrol,Delhi,Renault
+2019,Ford Endeavour Titanium Plus 3.2 4x4 AT,3200000,28000,Diesel,Delhi,Ford
+2015,Honda City V Diesel,540000,52000,Diesel,Delhi,Honda
+2020,Mercedes-Benz E-Class E 220d Exclusive [2019-2019],6600000,5600,Diesel,Delhi,Mercedes-Benz
+2019,Ford Endeavour Titanium 3.2 4x4 AT,3000000,33000,Diesel,Delhi,Ford
+2013,Toyota Etios Liva G SP*,325000,40000,Petrol,Delhi,Toyota
+2012,Mahindra Scorpio VLX 4WD BS-III,350000,93000,Diesel,Faridabad Delivery available in Delhi,Mahindra
+2021,Audi Q8 55 TFSI quattro,12500000,2900,Petrol,Delhi,Audi
+2018,Ford EcoSport Titanium 1.5 TDCi (Opt),900000,30000,Diesel,Delhi,Ford
+2012,Land Rover Range Rover Evoque Prestige SD4,1900000,127000,Diesel,Dehradun Delivery available in Delhi,Land Rover
+2010,Toyota Camry W4 AT,565000,49000,Petrol,Delhi,Toyota
+2008,BMW 5 Series 523i Sedan,485000,64000,Petrol,Delhi,BMW
+2016,Maruti Suzuki Ciaz VDi SHVS,599000,53357,Diesel,Ghaziabad Delivery available in Delhi,Maruti Suzuki
+2013,Honda Amaze 1.5 S i-DTEC,300000,63000,Diesel,Noida Delivery available in Delhi,Honda
+2018,Hyundai Elite i20 Magna Executive 1.2,600000,35000,Petrol,Delhi,Hyundai
+2019,Audi Q7 45 TDI Technology Pack,7200000,9000,Diesel,Delhi,Audi
+2019,Lexus NX 300h Luxury [2017-2020],5200000,30000,Petrol,Delhi,Lexus
+2020,Renault Triber RXZ [2019-2020],675000,15000,Petrol,Delhi,Renault
+2010,Maruti Suzuki Wagon R 1.0 VXi,175000,49000,Petrol,Delhi,Maruti Suzuki
+2017,Hyundai Creta SX Plus 1.6 CRDI,950000,67000,Diesel,Delhi,Hyundai
+2018,MINI Countryman Cooper S [2020-2021],3699000,18000,Petrol,Pune Delivery available in Delhi,MINI
+2020,Mercedes-Benz GLS 350 d,8400000,14800,Diesel,Delhi,Mercedes-Benz
+2020,Maruti Suzuki Wagon R 1.0 VXI+ (O),565000,7823,Petrol,Delhi,Maruti Suzuki
+2016,Toyota Corolla Altis VL AT Petrol,1100000,45000,Petrol,Delhi,Toyota
+2017,Skoda Octavia 1.8 TSI Style Plus AT [2017],1950000,24000,Petrol,Delhi,Skoda
+2013,Toyota Innova 2.5 GX 7 STR BS-III,565000,82000,Diesel,Delhi,Toyota
+2014,Toyota Fortuner 3.0 4x2 AT,1475000,121000,Diesel,Delhi,Toyota
+2018,Volvo S90 Inscription D4 [2016-2020],4200000,29000,Diesel,Delhi,Volvo
+2016,Skoda Superb L&K TSI AT,1670000,60000,Petrol,Gurgaon Delivery available in Delhi,Skoda
+2018,BMW 5 Series 530i Sport Line,4000000,40000,Petrol,Delhi,BMW
+2017,Honda Jazz SV Petrol,575000,28000,Petrol,Delhi,Honda
+2017,Tata Tiago Revotron XZA [2017-2019],395000,32445,Petrol,Delhi,Tata
+2020,BMW 3 Series 320d Luxury Line,4599000,201,Diesel,Delhi,BMW
+2015,MINI Countryman Cooper D,2300000,40614,Diesel,Pune Delivery available in Delhi,MINI
+2016,Volvo V40 Cross Country D3 Inscription,1800000,48000,Diesel,Delhi,Volvo
+2019,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],12300000,17000,Diesel,Delhi,Land Rover
+2014,Renault Duster 85 PS RxL Diesel,470000,40000,Diesel,Delhi,Renault
+2021,Mercedes-Benz GLC Coupe 43 AMG [2017-2019],8300000,7000,Petrol,Delhi,Mercedes-Benz
+2020,Hyundai Venue SX 1.0 Petrol [2019-2020],1050000,3571,Petrol,Delhi,Hyundai
+2016,Mahindra Scorpio S4 Plus,805000,54179,Diesel,Delhi,Mahindra
+2018,Porsche 718 Cayman [2017-2020],8600000,4000,Petrol,Faridabad Delivery available in Delhi,Porsche
+2010,Honda City 1.5 S MT,310000,72000,Petrol,Noida Delivery available in Delhi,Honda
+2014,Maruti Suzuki Ertiga Vxi,515000,65000,Petrol,Faridabad Delivery available in Delhi,Maruti Suzuki
+2011,Land Rover Range Rover Sport 5.0 Supercharged V8,3400000,74000,Petrol,Delhi,Land Rover
+2017,Jeep Compass Limited 2.0 Diesel [2017-2020],1475000,50000,Diesel,Delhi,Jeep
+2015,Audi Q3 35 TDI Technology,1800000,82000,Diesel,Lucknow Delivery available in Delhi,Audi
+2016,Honda Amaze 1.2 S i-VTEC,525000,20000,Petrol,Delhi,Honda
+2010,Honda City 1.5 V MT,345000,22000,Petrol,Delhi,Honda
+2019,Volvo S90 Momentum D4 [2018-2020],4350000,5000,Diesel,Delhi,Volvo
+2010,Maruti Suzuki Swift Dzire VXi 1.2 BS-IV,225000,65200,Petrol,Delhi,Maruti Suzuki
+2018,Audi Q3 35 TDI quattro Premium Plus,2750000,37000,Diesel,Ghaziabad Delivery available in Delhi,Audi
+2017,Mercedes-Benz SLC 43 AMG,6000000,11500,Petrol,Delhi,Mercedes-Benz
+2014,Audi Q5 30 TDI Sports Edition,2000000,33000,Diesel,Delhi,Audi
+2014,Maruti Suzuki Celerio LXi,325002,60660,Petrol,Ghaziabad Delivery available in Delhi,Maruti Suzuki
+2017,Maruti Suzuki Celerio VXi AMT [2017-2019],370000,66000,Petrol,Agra Delivery available in Delhi,Maruti Suzuki
+2019,Hyundai Venue SX 1.0 Turbo iMT,990000,15000,Petrol,Delhi,Hyundai
+2012,Porsche Cayenne Diesel,2551000,63000,Diesel,Delhi,Porsche
+2017,Hyundai Tucson 2WD AT GLS Diesel,1350000,76000,Diesel,Delhi,Hyundai
+2017,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],1650000,93000,Diesel,Lucknow Delivery available in Delhi,Toyota
+2012,Lamborghini Gallardo India Ltd Edition LP 550-2,12500000,14500,Petrol,Dehradun Delivery available in Delhi,Lamborghini
+2012,Volkswagen Passat Highline DSG,590000,88000,Diesel,Delhi,Volkswagen
+2019,Mercedes-Benz E-Class E 220 d Avantgarde,5350000,18000,Diesel,Delhi,Mercedes-Benz
+2016,Toyota Camry 2.5L AT,1675000,79000,Petrol,Delhi,Toyota
+2020,Hyundai Creta S 1.5 Petrol,1325000,16000,Petrol,Delhi,Hyundai
+2017,BMW X5 xDrive35i Pure Experience (5 seater),4700000,47000,Petrol,Delhi,BMW
+2020,Mercedes-Benz C-Class C 200 Avantgarde,4291000,19000,Petrol,Delhi,Mercedes-Benz
+2017,Audi A4 30 TFSI Technology Pack,2980000,26000,Petrol,Gurgaon Delivery available in Delhi,Audi
+2012,Maruti Suzuki Wagon R 1.0 LXi,245000,56000,Petrol,Delhi,Maruti Suzuki
+2021,Audi RS5 Coupe,9780000,1500,Petrol,Gurgaon Delivery available in Delhi,Audi
+2020,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,1275000,13000,Petrol,Delhi,Hyundai
+2009,Maruti Suzuki Swift Dzire LXi,215000,55000,Petrol,Delhi,Maruti Suzuki
+2018,Maruti Suzuki Baleno Delta 1.2 AT,690000,27000,Petrol,Delhi,Maruti Suzuki
+2009,Honda Civic 1.8V AT,275000,65000,Petrol,Delhi,Honda
+2016,Ford EcoSport Ambiente 1.5L TDCi,560000,56000,Diesel,Delhi,Ford
+2012,Audi Q7 3.0 TDI quattro Premium Plus,1650000,65000,Diesel,Delhi,Audi
+2012,Volvo XC60 Summum D4,1050000,51000,Diesel,Delhi,Volvo
+2018,Ford EcoSport Trend + 1.5L TDCi,645000,106460,Diesel,Ghaziabad Delivery available in Delhi,Ford
+2019,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],1750000,39000,Diesel,Ghaziabad Delivery available in Delhi,Kia
+2019,Maruti Suzuki Vitara Brezza VDi AGS,850000,43000,Diesel,Faridabad Delivery available in Delhi,Maruti Suzuki
+2018,Maruti Suzuki Vitara Brezza LDi (O) [2016-2018],675000,81000,Diesel,Delhi,Maruti Suzuki
+2017,Maruti Suzuki Swift Lxi ABS [2014-2017],460000,26000,Petrol,Ghaziabad Delivery available in Delhi,Maruti Suzuki
+2015,Maruti Suzuki Wagon R 1.0 VXI,315000,23900,Petrol,Delhi,Maruti Suzuki
+2019,Audi A3 35 TFSI Premium Plus,2590000,11000,Petrol,Delhi,Audi
+2013,Mercedes-Benz M-Class ML 250 CDI,1990000,80000,Diesel,Delhi,Mercedes-Benz
+2018,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],910000,34000,Petrol,Delhi,Maruti Suzuki
+2014,Maruti Suzuki Ertiga VDi,485000,57000,Diesel,Delhi,Maruti Suzuki
+2013,Toyota Innova 2.5 VX 7 STR BS-III,675000,65000,Diesel,Delhi,Toyota
+2019,Maruti Suzuki Vitara Brezza ZDi,875000,23000,Diesel,Delhi,Maruti Suzuki
+2018,Land Rover Range Rover Evoque SE Dynamic,4800000,29500,Diesel,Dehradun Delivery available in Delhi,Land Rover
+2018,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],790000,39000,Diesel,Delhi,Maruti Suzuki
+2015,Honda City VX Diesel,650000,67000,Diesel,Delhi,Honda
+2014,Skoda Rapid Elegance 1.6 MPI MT,440000,65000,Petrol,Delhi,Skoda
+2011,BMW 3 Series 320d,615000,55000,Diesel,Delhi,BMW
+2017,Lexus RX Luxury,5900000,63300,Petrol,Delhi,Lexus
+2012,Honda Brio E MT,275000,42412,Petrol,Delhi,Honda
+2013,Toyota Fortuner 3.0 4x2 AT,1300000,98000,Diesel,Delhi,Toyota
+2014,Hyundai Verna Fluidic 1.6 CRDi SX AT,525000,80000,Diesel,Delhi,Hyundai
+2017,Mercedes-Benz C-Class C 220 CDI Avantgarde,2900000,44000,Diesel,Delhi,Mercedes-Benz
+2012,Maruti Suzuki Swift DZire LXI,355000,20000,Petrol,Delhi,Maruti Suzuki
+2014,Ford EcoSport Titanium 1.5 TDCi,475000,80000,Diesel,Faridabad Delivery available in Delhi,Ford
+2012,Audi A4 2.0 TDI (143 bhp),1200000,84000,Diesel,Panchkula Delivery available in Delhi,Audi
+2020,Kia Seltos HTX 1.5 Dual Tone [2019-2020],1550000,1700,Petrol,Delhi,Kia
+2010,Honda City 1.5 S MT,310000,68000,Petrol,Noida Delivery available in Delhi,Honda
+2016,Mercedes-Benz GLE 250 d,4191000,51000,Diesel,Delhi,Mercedes-Benz
+2018,Honda Jazz V CVT Petrol,750000,25000,Petrol,Delhi,Honda
+2013,Jaguar XF 2.2 Diesel,2375000,14000,Diesel,Delhi,Jaguar
+2009,Hyundai i10 Magna,145000,57000,Petrol,Delhi,Hyundai
+2017,Ford EcoSport Titanium 1.5L Ti-VCT AT,725000,40000,Petrol,Delhi,Ford
+2009,Mercedes-Benz E-Class 350 AT,950000,65000,Petrol,Delhi,Mercedes-Benz
+2018,Land Rover Discovery Sport SE 7-Seater,3800000,32000,Diesel,Delhi,Land Rover
+2012,BMW 5 Series 525d Sedan,1290000,52000,Diesel,Delhi,BMW
+2017,Mercedes-Benz C-Class C 200 Avantgarde,3375000,9000,Petrol,Delhi,Mercedes-Benz
+2012,Audi Q7 35 TDI Technology Pack,1750000,74500,Diesel,Delhi,Audi
+2013,Volkswagen Polo Highline1.2L (D),325000,48000,Diesel,Delhi,Volkswagen
+2013,Audi Q5 2.0 TDI quattro Premium Plus,1549000,89000,Diesel,Delhi,Audi
+2011,BMW 5 Series 520d Modern Line,1200000,78600,Diesel,Panchkula Delivery available in Delhi,BMW
+2014,Audi A4 2.0 TDI (177bhp) Premium Sport,1600000,65200,Diesel,Panchkula Delivery available in Delhi,Audi
+2020,Ford Endeavour Titanium 2.0 4x2 AT,3490000,16000,Diesel,Delhi,Ford
+2017,Porsche Cayenne GTS,12000000,27000,Petrol,Delhi,Porsche
+2020,Toyota Innova Crysta 2.4 GX 7 STR,2075000,9143,Diesel,Delhi,Toyota
+2017,BMW 7 Series 730Ld DPE Signature,7300000,24328,Diesel,Pune Delivery available in Delhi,BMW
+2017,Maruti Suzuki Baleno Delta 1.2,525000,60893,Petrol,Delhi,Maruti Suzuki
+2019,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2391000,21000,Diesel,Delhi,Toyota
+2020,MG Hector Sharp 1.5 DCT Petrol [2019-2020],1890000,12573,Petrol,Gurgaon Delivery available in Delhi,MG
+2015,Volkswagen Polo Highline Exquisite (P),450000,45000,Petrol,Delhi,Volkswagen
+2015,Audi Q3 35 TDI Premium + Sunroof,1625000,81000,Diesel,Delhi,Audi
+2015,Honda City SV CVT,685000,45000,Petrol,Delhi,Honda
+2019,Mahindra Thar CRDe 4x4 AC,965000,24000,Diesel,Delhi,Mahindra
+2013,Hyundai Eon 1.0 Kappa Magna + [2014-2016],230000,64717,Petrol,Noida Delivery available in Gurgaon,Hyundai
+2014,Mercedes-Benz M-Class ML 350 CDI,2399000,70000,Diesel,Faridabad Delivery available in Gurgaon,Mercedes-Benz
+2020,Hyundai Creta SX (O) 1.4 Turbo 7 DCT,1850000,14700,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2020,MG Hector Smart 1.5 DCT Petrol [2019-2020],1695000,10300,Petrol,Delhi Delivery available in Gurgaon,MG
+2016,Renault Duster 110 PS RXL 4X2 AMT [2016-2017],599000,68000,Diesel,Faridabad Delivery available in Gurgaon,Renault
+2014,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],365000,40000,Petrol,Noida Delivery available in Gurgaon,Hyundai
+2019,Mercedes-Benz C-Class C 200 Progressive [2018-2020],4350000,9000,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2014,Nissan Terrano XV D THP 110 PS,550000,65000,Diesel,Delhi Delivery available in Gurgaon,Nissan
+2015,Mahindra XUV500 W8 [2015-2017],699000,80000,Diesel,Faridabad Delivery available in Gurgaon,Mahindra
+2015,Volkswagen Vento Highline Diesel AT,599000,67000,Diesel,Faridabad Delivery available in Gurgaon,Volkswagen
+2017,Renault Kwid 1.0 RXT AMT Opt [2016-2019],349000,17000,Petrol,Faridabad Delivery available in Gurgaon,Renault
+2013,Honda Brio VX AT,370000,62000,Petrol,Delhi Delivery available in Gurgaon,Honda
+2013,Mercedes-Benz E-Class E250 CDI Avantgarde,1075000,90000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2014,Mercedes-Benz M-Class ML 350 CDI,2490000,51000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2009,Honda City 1.5 S MT,275000,74000,Petrol,Delhi Delivery available in Gurgaon,Honda
+2013,Audi Q5 2.0 TDI quattro Premium,1290000,80000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2012,Lamborghini Gallardo India Ltd Edition LP 550-2,12500000,14500,Petrol,Dehradun Delivery available in Gurgaon,Lamborghini
+2020,MINI Countryman Cooper S [2020-2021],3850000,6517,Petrol,Dehradun Delivery available in Gurgaon,MINI
+2014,Mercedes-Benz C-Class C 200 Avantgarde,2700000,22000,Petrol,Dehradun Delivery available in Gurgaon,Mercedes-Benz
+2017,Mercedes-Benz C-Class C 220 CDI Avantgarde,2900000,44000,Diesel,Dehradun Delivery available in Gurgaon,Mercedes-Benz
+2015,BMW 7 Series 730Ld Eminence,3700000,66000,Diesel,Dehradun Delivery available in Gurgaon,BMW
+2015,BMW 7 Series 730Ld Prestige,3700000,48000,Diesel,Dehradun Delivery available in Gurgaon,BMW
+2013,BMW 7 Series 730Ld Sedan,2900000,59000,Diesel,Dehradun Delivery available in Gurgaon,BMW
+2018,BMW X1 sDrive20d Expedition,2500000,33500,Diesel,Dehradun Delivery available in Gurgaon,BMW
+2016,BMW Z4 sDrive 35i,4850000,26700,Petrol,Dehradun Delivery available in Gurgaon,BMW
+2017,Jaguar F-Pace Prestige [2016-2017],3700000,45700,Diesel,Dehradun Delivery available in Gurgaon,Jaguar
+2018,Jaguar XE Prestige Diesel,3500000,23500,Diesel,Dehradun Delivery available in Gurgaon,Jaguar
+2018,Audi A6 35 TDI Matrix,3750000,22000,Diesel,Dehradun Delivery available in Gurgaon,Audi
+2016,Mercedes-Benz S-Class (W222) S 350D [2018-2020],5700000,56500,Diesel,Dehradun Delivery available in Gurgaon,Mercedes-Benz
+2012,Land Rover Range Rover Evoque Prestige SD4,1900000,127000,Diesel,Dehradun Delivery available in Gurgaon,Land Rover
+2018,Land Rover Range Rover Evoque SE Dynamic,4900000,19500,Diesel,Dehradun Delivery available in Gurgaon,Land Rover
+2016,Renault Kwid RXT [2015-2019],265000,66170,Petrol,Noida Delivery available in Gurgaon,Renault
+2013,Maruti Suzuki Alto 800 Lxi,225000,41360,Petrol,Noida Delivery available in Gurgaon,Maruti Suzuki
+2013,Land Rover Range Rover Evoque Dynamic SD4,2250000,58000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2014,Toyota Fortuner 4x2 AT,1440000,137000,Diesel,Delhi Delivery available in Gurgaon,Toyota
+2019,Hyundai Creta E Plus 1.6 Petrol,1000000,16000,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2018,Land Rover Range Rover Evoque SE Dynamic,4800000,29500,Diesel,Dehradun Delivery available in Gurgaon,Land Rover
+2012,BMW 5 Series 525d Sedan,1290000,52000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2020,Mercedes-Benz C-Class C 220d Progressive [2018-2019],4275000,19000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2020,BMW 7 Series 740Li DPE Signature,12100000,12000,Petrol,Delhi Delivery available in Gurgaon,BMW
+2018,BMW X3 xDrive-20d xLine,4175000,43000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2012,BMW 5 Series 520d Sedan,1190000,56000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2013,Mercedes-Benz C-Class 200 CGI,1350000,66000,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2019,Maruti Suzuki Vitara Brezza VDi AGS,850000,43000,Diesel,Faridabad Delivery available in Gurgaon,Maruti Suzuki
+2018,Audi Q5 40 TDI Premium Plus,4200000,27500,Diesel,Delhi Delivery available in Gurgaon,Audi
+2016,BMW 3 Series GT 320d Luxury Line [2014-2016],2650000,44000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2019,Lexus NX 300h Luxury [2017-2020],5200000,30000,Petrol,Delhi Delivery available in Gurgaon,Lexus
+2012,Hyundai Verna Fluidic 1.6 CRDi SX Opt AT,450000,60000,Diesel,Delhi Delivery available in Gurgaon,Hyundai
+2012,Volkswagen Passat Highline DSG,590000,88000,Diesel,Delhi Delivery available in Gurgaon,Volkswagen
+2017,Hyundai Tucson 2WD AT GLS Diesel,1350000,76000,Diesel,Delhi Delivery available in Gurgaon,Hyundai
+2013,Maruti Suzuki Wagon R 1.0 LXI CNG (O),310000,50000,CNG,Faridabad Delivery available in Gurgaon,Maruti Suzuki
+2015,Maruti Suzuki Celerio VXi AMT ABS,345000,49000,Petrol,Delhi Delivery available in Gurgaon,Maruti Suzuki
+2009,Audi A6 3.0 TDI quattro Premium,990000,45000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2011,Land Rover Range Rover Sport 5.0 Supercharged V8,3100000,73000,Petrol,Delhi Delivery available in Gurgaon,Land Rover
+2017,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],525000,6000,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2015,Maruti Suzuki Swift DZire LDI,367000,70445,Diesel,Gurgaon,Maruti Suzuki
+2013,Toyota Fortuner 3.0 4x2 AT,1300000,98000,Diesel,Delhi Delivery available in Gurgaon,Toyota
+2016,Honda Jazz S MT [2015-2016],490000,81075,Petrol,Delhi Delivery available in Gurgaon,Honda
+2017,Hyundai Creta 1.6 SX Plus AT Petrol,1075000,31000,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2012,Mercedes-Benz E-Class E220 CDI Blue Efficiency,1250000,82000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2012,Jaguar XF 3.0 V6 Premium Luxury,2050000,27300,Diesel,Panchkula Delivery available in Gurgaon,Jaguar
+2019,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],12300000,17000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2017,Mercedes-Benz C-Class C 220 CDI Avantgarde,2900000,44000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2015,Audi Q3 35 TDI Premium + Sunroof,1625000,81000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2016,Skoda Superb L&K TSI AT,1670000,60000,Petrol,Gurgaon,Skoda
+2018,Mercedes-Benz GLE 250 d,5750000,22000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2017,Toyota Fortuner 2.7 4x2 AT [2016-2020],2690000,34000,Petrol,Delhi Delivery available in Gurgaon,Toyota
+2016,Mercedes-Benz GLE Coupe 43 AMG 4Matic 2016,5975000,39990,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2021,Maruti Suzuki XL6 Alpha AT Petrol,1235000,15000,Petrol,Delhi Delivery available in Gurgaon,Maruti Suzuki
+2020,Mercedes-Benz E-Class E 220d Exclusive [2019-2019],6600000,5600,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2013,Toyota Fortuner 3.0 4x2 MT,1280000,100735,Diesel,Gurgaon,Toyota
+2013,Hyundai i10 Sportz 1.2 AT Kappa2,350000,22000,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2019,Mercedes-Benz GLE Coupe 43 4MATIC [2017-2019],6975000,22950,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2012,Audi Q7 35 TDI Technology Pack,1750000,74500,Diesel,Delhi Delivery available in Gurgaon,Audi
+2012,Audi A6 2.0 TDI Premium,1250000,93000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2020,Audi A6 45 TFSI Technology,4800000,15000,Petrol,Delhi Delivery available in Gurgaon,Audi
+2013,Maruti Suzuki Wagon R 1.0 LXi CNG,275000,47000,CNG,Delhi Delivery available in Gurgaon,Maruti Suzuki
+2014,Mercedes-Benz E-Class E250 CDI Avantgarde,1950000,50000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2020,Toyota Glanza G,725000,11000,Petrol,Delhi Delivery available in Gurgaon,Toyota
+2021,Audi RS5 Coupe,9780000,1500,Petrol,Gurgaon,Audi
+2018,Land Rover Range Rover 3.0 V6 Diesel Vogue,14700000,25000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2014,Audi Q5 30 TDI Sports Edition,2000000,33000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2021,Mahindra Thar CRDe 4x4 AC,1650000,9000,Diesel,Delhi Delivery available in Gurgaon,Mahindra
+2019,Audi A3 35 TFSI Premium Plus,2590000,11000,Petrol,Delhi Delivery available in Gurgaon,Audi
+2009,Mercedes-Benz E-Class 350 AT,950000,65000,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2015,Honda City V,650000,35000,Petrol,Delhi Delivery available in Gurgaon,Honda
+2015,MINI Countryman Cooper D,2300000,40614,Diesel,Pune Delivery available in Gurgaon,MINI
+2012,Skoda Rapid Active 1.6 MPI MT,380000,30000,Petrol,Delhi Delivery available in Gurgaon,Skoda
+2017,Mercedes-Benz GLE 250 d,4500000,45000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2012,Audi Q7 3.0 TDI quattro Premium,2000000,90000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2018,Porsche 718 Cayman [2017-2020],8600000,4000,Petrol,Faridabad Delivery available in Gurgaon,Porsche
+2018,Volvo XC40 D4 R-Design,3600000,10800,Diesel,Delhi Delivery available in Gurgaon,Volvo
+2015,Hyundai Elite i20 Asta 1.4 CRDI,475000,43000,Diesel,Faridabad Delivery available in Gurgaon,Hyundai
+2019,Jeep Compass Limited Plus Petrol AT [2018-2020],1950000,6570,Petrol,Delhi Delivery available in Gurgaon,Jeep
+2020,BMW 3 Series 320d Luxury Line,4599000,201,Diesel,Delhi Delivery available in Gurgaon,BMW
+2016,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],1725000,16000,Diesel,Delhi Delivery available in Gurgaon,Toyota
+2018,Maruti Suzuki Vitara Brezza ZDi Plus AGS,950000,16000,Diesel,Delhi Delivery available in Gurgaon,Maruti Suzuki
+2019,Hyundai Venue SX 1.0 Turbo iMT,990000,15000,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2019,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],12500000,22000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2014,Porsche 911 Carrera S Cabriolet,9000000,20000,Petrol,Faridabad Delivery available in Gurgaon,Porsche
+2018,Jaguar XE Prestige Diesel,2850000,51200,Diesel,Panchkula Delivery available in Gurgaon,Jaguar
+2018,Jeep Compass Limited Plus Petrol AT [2018-2020],1580000,23000,Petrol,Gurgaon,Jeep
+2019,Mercedes-Benz E-Class E 220 d Avantgarde,5350000,18000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2012,Porsche Cayenne Diesel,2551000,63000,Diesel,Delhi Delivery available in Gurgaon,Porsche
+2015,Volkswagen Polo GT TSI,525000,67000,Petrol,Delhi Delivery available in Gurgaon,Volkswagen
+2011,Land Rover Freelander 2 HSE,975000,80000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2017,Porsche 718 Cayman [2017-2020],9000000,11000,Petrol,Faridabad Delivery available in Gurgaon,Porsche
+2017,Ford Endeavour Titanium 3.2 4x4 AT,2890000,22340,Diesel,Delhi Delivery available in Gurgaon,Ford
+2020,MG Hector Sharp 1.5 DCT Petrol [2019-2020],1890000,12573,Petrol,Gurgaon,MG
+2017,Toyota Innova Crysta 2.7 VX 7 STR [2016-2020],1625000,22000,Petrol,Delhi Delivery available in Gurgaon,Toyota
+2012,Toyota Fortuner 3.0 4x4 MT,1190000,78600,Diesel,Agra Delivery available in Gurgaon,Toyota
+2017,Maruti Suzuki Baleno Delta 1.2,490000,74000,Petrol,Faridabad Delivery available in Gurgaon,Maruti Suzuki
+2021,Mercedes-Benz GLC Coupe 43 AMG [2017-2019],8300000,7000,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2020,Land Rover Range Rover Velar 2.0 R-Dynamic SE Diesel 180,7200000,42000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2016,Mercedes-Benz GLE 250 d,4191000,51000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2018,Mercedes-Benz GLA 220 d 4MATIC,2850000,55000,Diesel,Lucknow Delivery available in Gurgaon,Mercedes-Benz
+2017,Mercedes-Benz SLC 43 AMG,6000000,11500,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2019,BMW M2 Competition,8000000,2905,Petrol,Pune Delivery available in Gurgaon,BMW
+2016,Honda City V,750000,30000,Petrol,Delhi Delivery available in Gurgaon,Honda
+2014,Audi A4 2.0 TDI (177bhp) Premium Sport,1600000,65200,Diesel,Panchkula Delivery available in Gurgaon,Audi
+2014,Mercedes-Benz GL 350 CDI,3350000,98000,Diesel,Lucknow Delivery available in Gurgaon,Mercedes-Benz
+2012,Audi A6 2.0 TDI Premium,1190000,80000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2018,BMW 5 Series 520d Luxury Line [2017-2019],3950000,55000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2018,Land Rover Range Rover Evoque SE Dynamic,4800000,29500,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2016,Ford Mustang GT Fastback 5.0L v8,7300000,23000,Petrol,Delhi Delivery available in Gurgaon,Ford
+2017,Hyundai Tucson GL 2WD AT Petrol,1475000,31500,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2013,Mercedes-Benz E-Class E220 CDI Blue Efficiency,1075000,90000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2020,Mercedes-Benz GLC 200 Progressive [2019-2021],5500000,7000,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2020,Land Rover Range Rover Velar 2.0 R-Dynamic SE Diesel 180,7200000,40000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2019,Mahindra Scorpio S3 2WD 9 STR,1095000,26000,Diesel,Delhi Delivery available in Gurgaon,Mahindra
+2017,Lexus RX Luxury,5900000,63500,Petrol,Dehradun Delivery available in Gurgaon,Lexus
+2020,Mercedes-Benz C-Class C 200 Avantgarde,4291000,19000,Petrol,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2011,Land Rover Discovery 4 3.0 TDV6 HSE,2199000,77000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2013,Audi Q7 3.0 TDI quattro Premium Plus,1675000,50000,Diesel,Delhi Delivery available in Gurgaon,Audi
+2017,Maruti Suzuki Celerio VXi AMT [2017-2019],370000,66000,Petrol,Agra Delivery available in Gurgaon,Maruti Suzuki
+2018,Toyota Fortuner 2.8 4x2 MT [2016-2020],2500000,99000,Diesel,Delhi Delivery available in Gurgaon,Toyota
+2015,Mercedes-Benz E-Class E 250 CDI Avantgarde,1600000,87000,Diesel,Delhi Delivery available in Gurgaon,Mercedes-Benz
+2018,Hyundai Creta 1.6 SX Plus Petrol,1300000,15000,Petrol,Delhi Delivery available in Gurgaon,Hyundai
+2016,Volvo V40 D3 R-Design,1750000,78000,Diesel,Delhi Delivery available in Gurgaon,Volvo
+2018,BMW 7 Series 730Ld DPE,6950000,31000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2013,Land Rover Freelander 2 HSE SD4,1265000,102000,Diesel,Delhi Delivery available in Gurgaon,Land Rover
+2013,Mercedes-Benz GL 350 CDI,2650000,68000,Diesel,Faridabad Delivery available in Gurgaon,Mercedes-Benz
+2019,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2391000,21000,Diesel,Delhi Delivery available in Gurgaon,Toyota
+2017,BMW 5 Series 520d Luxury Line [2017-2019],4350000,13000,Diesel,Delhi Delivery available in Gurgaon,BMW
+2016,BMW 5 Series 530d M Sport [2013-2017],3750000,49004,Diesel,Pune Delivery available in Gurgaon,BMW
+2018,Volvo S90 Inscription D4 [2016-2020],4200000,29000,Diesel,Delhi Delivery available in Gurgaon,Volvo
+2014,Maruti Suzuki Ertiga VDi,550000,98500,Diesel,Lucknow Delivery available in Gurgaon,Maruti Suzuki
+2017,Mercedes-Benz GLS 350 d,6500000,57000,Diesel,Lucknow Delivery available in Gurgaon,Mercedes-Benz
+2010,Honda City 1.5 S MT,350000,88000,Petrol,Chandigarh,Honda
+2014,Toyota Etios Liva VD,465000,85000,Diesel,Chandigarh,Toyota
+2016,Audi A3 Cabriolet 40 TFSI,3500000,24500,Petrol,Chandigarh,Audi
+2017,Maruti Suzuki Swift VXi,530000,37000,Petrol,Chandigarh,Maruti Suzuki
+2011,BMW 5 Series 520d Modern Line,1250000,67000,Diesel,Chandigarh,BMW
+2013,BMW 3 Series 320d Luxury Line,1565000,79000,Diesel,Chandigarh,BMW
+2017,BMW X1 xDrive20d M Sport,2700000,18500,Diesel,Chandigarh,BMW
+2018,Maruti Suzuki Ertiga VXi,775000,320000,Petrol,Chandigarh,Maruti Suzuki
+2007,Mitsubishi Lancer LXd 2.0,165000,125000,Diesel,Chandigarh,Mitsubishi
+2019,Toyota Innova Crysta 2.4 GX 7 STR,1725000,19000,Diesel,Chandigarh,Toyota
+2018,Mahindra Bolero Power Plus SLE [2016-2019],670000,55000,Diesel,Chandigarh,Mahindra
+2015,Toyota Etios Liva G,435000,65000,Petrol,Chandigarh,Toyota
+2011,Toyota Innova 2.5 G4 8 STR,525000,150000,Diesel,Chandigarh,Toyota
+2017,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],1685000,65000,Diesel,Chandigarh,Toyota
+2018,Ford Endeavour Titanium 3.2 4x4 AT,2975000,80000,Diesel,Chandigarh,Ford
+2019,Ford Endeavour Titanium 3.2 4x4 AT,3275000,48000,Diesel,Chandigarh,Ford
+2017,Audi A6 35 TDI Matrix,3100000,48000,Diesel,Chandigarh,Audi
+2012,Toyota Fortuner 3.0 4x2 AT,1250000,88000,Diesel,Chandigarh,Toyota
+2017,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],750000,55000,Diesel,Chandigarh,Maruti Suzuki
+2018,BMW 7 Series 730Ld,8000000,23000,Diesel,Chandigarh,BMW
+2010,Skoda Laura Elegance 1.9 TDI MT,360000,100000,Diesel,Chandigarh,Skoda
+2018,Maruti Suzuki Dzire VDi,680000,70000,Diesel,Chandigarh,Maruti Suzuki
+2015,Maruti Suzuki Ciaz ZDi+ SHVS,640000,70000,Diesel,Chandigarh,Maruti Suzuki
+2018,Honda City V,860000,65000,Petrol,Chandigarh,Honda
+2013,Maruti Suzuki Swift VDi,450000,90000,Diesel,Chandigarh,Maruti Suzuki
+2017,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],1590000,37000,Diesel,Chandigarh,Toyota
+2012,Maruti Suzuki Swift VDi,265000,84000,Diesel,Chandigarh,Maruti Suzuki
+2010,Maruti Suzuki Swift VDi ABS,199000,87000,Diesel,Chandigarh,Maruti Suzuki
+2010,Mahindra Bolero SLX 2WD,260000,92000,Diesel,Chandigarh,Mahindra
+2010,Mercedes-Benz E-Class 250 D (W124),1100000,47000,Diesel,Chandigarh,Mercedes-Benz
+2017,Honda City S Petrol,725000,42000,Petrol,Chandigarh,Honda
+2007,Mitsubishi Montero 3.2 GLS,675000,200000,Diesel,Chandigarh,Mitsubishi
+2011,Hyundai i10 Magna 1.2 Kappa2,280000,70000,Petrol,Chandigarh,Hyundai
+2019,Mahindra Thar CRDe 4x4 Non AC,880000,34000,Diesel,Chandigarh,Mahindra
+2012,Toyota Fortuner 3.0 4x2 AT,1250000,136000,Diesel,Chandigarh,Toyota
+2017,Ford EcoSport Titanium 1.5L TDCi,750000,30000,Diesel,Chandigarh,Ford
+2012,Toyota Fortuner 3.0 4x2 AT,1350000,122000,Diesel,Chandigarh,Toyota
+2021,Audi Q8 55 TFSI quattro,12500000,3100,Petrol,Chandigarh,Audi
+2007,Mitsubishi Montero 3.2 GLS,750000,130000,Diesel,Chandigarh,Mitsubishi
+2012,Audi Q3 2.0 TDI quattro Premium,1280000,99000,Diesel,Chandigarh,Audi
+2015,Chevrolet Tavera LS 9 STR,370000,98000,Diesel,Chandigarh,Chevrolet
+2012,Toyota Fortuner 3.0 4x2 MT,1276000,99000,Diesel,Chandigarh,Toyota
+2017,Hyundai Elite i20 Sportz 1.2,625000,65000,Petrol,Chandigarh,Hyundai
+2014,Maruti Suzuki Swift DZire LDI,425000,93000,Diesel,Chandigarh,Maruti Suzuki
+2012,BMW 3 Series 320d Luxury Plus,1525000,70000,Diesel,Chandigarh,BMW
+2017,Mercedes-Benz E-Class E 220 d Avantgarde,4100000,19000,Diesel,Chandigarh,Mercedes-Benz
+2016,Volvo V40 Cross Country D3 Inscription,1650000,48000,Diesel,Chandigarh,Volvo
+2018,Toyota Etios GD,675000,35000,Diesel,Chandigarh,Toyota
+2016,BMW 5 Series 520d Luxury Line,2300000,95000,Diesel,Chandigarh,BMW
+2017,Toyota Fortuner 2.8 4x2 MT [2016-2020],2650000,115000,Diesel,Chandigarh,Toyota
+2012,Maruti Suzuki Alto K10 LXi,250000,70000,Petrol,Chandigarh,Maruti Suzuki
+2014,Maruti Suzuki Alto 800 Lxi,270000,52000,Petrol,Chandigarh,Maruti Suzuki
+2012,Ford Fiesta Style Diesel [2011-2014],280000,90000,Diesel,Chandigarh,Ford
+2014,Honda City 1.5 S MT,635000,52000,Petrol,Chandigarh,Honda
+2018,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],1651000,46000,Diesel,Chandigarh,Toyota
+2016,Renault Duster 110 PS RXL 4X2 AMT [2016-2017],599000,68000,Diesel,Faridabad Delivery available in Noida,Renault
+2015,Mahindra XUV500 W8 [2015-2017],699000,80000,Diesel,Faridabad Delivery available in Noida,Mahindra
+2013,Maruti Suzuki Alto 800 Lxi,225000,41360,Petrol,Noida,Maruti Suzuki
+2013,Honda Brio VX AT,370000,62000,Petrol,Delhi Delivery available in Noida,Honda
+2010,Honda City 1.5 S MT,310000,68000,Petrol,Noida,Honda
+2018,Maruti Suzuki Swift ZXi AMT [2018-2019],690000,23599,Petrol,Gurgaon Delivery available in Noida,Maruti Suzuki
+2016,Renault Kwid RXT [2015-2019],265000,66170,Petrol,Noida,Renault
+2016,Volkswagen Polo Comfortline 1.5L (D),465000,76258,Diesel,Delhi Delivery available in Noida,Volkswagen
+2013,Hyundai i20 Magna 1.4 CRDI,265000,68010,Diesel,Ghaziabad Delivery available in Noida,Hyundai
+2018,Maruti Suzuki Dzire VXi,595000,19013,Petrol,Ghaziabad Delivery available in Noida,Maruti Suzuki
+2012,Honda Brio S MT,295000,41000,Petrol,Noida,Honda
+2015,Honda Jazz V Petrol,485000,42000,Petrol,Noida,Honda
+2014,Ford EcoSport Titanium 1.5 TDCi,495000,78000,Diesel,Noida,Ford
+2015,Volkswagen Vento Highline Diesel AT,599000,67000,Diesel,Faridabad Delivery available in Noida,Volkswagen
+2017,Renault Kwid 1.0 RXT AMT Opt [2016-2019],349000,17000,Petrol,Faridabad Delivery available in Noida,Renault
+2010,Volkswagen Vento Highline Petrol AT,350000,55000,Petrol,Delhi Delivery available in Noida,Volkswagen
+2018,Maruti Suzuki Dzire ZDi Plus AMT,790000,25372,Diesel,Delhi Delivery available in Noida,Maruti Suzuki
+2013,Mercedes-Benz E-Class E250 CDI Avantgarde,1075000,90000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2009,Honda City 1.5 S MT,275000,74000,Petrol,Delhi Delivery available in Noida,Honda
+2013,Hyundai Eon 1.0 Kappa Magna + [2014-2016],230000,64717,Petrol,Noida,Hyundai
+2013,Maruti Suzuki Ertiga VDi,450000,65000,Diesel,Ghaziabad Delivery available in Noida,Maruti Suzuki
+2016,Skoda Superb L&K TSI AT,1675000,37000,Petrol,Delhi Delivery available in Noida,Skoda
+2014,Mercedes-Benz M-Class ML 350 CDI,2490000,51000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2018,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],660000,4008,Petrol,Delhi Delivery available in Noida,Hyundai
+2017,Hyundai Elite i20 Sportz 1.2,625000,36035,Petrol,Delhi Delivery available in Noida,Hyundai
+2013,Honda Brio VX MT,325000,64000,Petrol,Noida,Honda
+2015,Honda Brio VX MT,370000,78000,Petrol,Noida,Honda
+2013,Audi Q5 2.0 TDI quattro Premium,1290000,80000,Diesel,Delhi Delivery available in Noida,Audi
+2016,Honda Jazz S MT [2015-2016],490000,81075,Petrol,Delhi Delivery available in Noida,Honda
+2016,Maruti Suzuki Ciaz VDi SHVS,599000,53357,Diesel,Ghaziabad Delivery available in Noida,Maruti Suzuki
+2014,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016],365000,40000,Petrol,Noida,Hyundai
+2017,Hyundai Tucson GL 2WD AT Petrol,1475000,31500,Petrol,Delhi Delivery available in Noida,Hyundai
+2016,Honda City V,750000,30000,Petrol,Delhi Delivery available in Noida,Honda
+2012,Hyundai Verna Fluidic 1.6 CRDi SX Opt AT,450000,60000,Diesel,Delhi Delivery available in Noida,Hyundai
+2020,Land Rover Range Rover Velar 2.0 R-Dynamic SE Diesel 180,7200000,42000,Diesel,Delhi Delivery available in Noida,Land Rover
+2019,Mercedes-Benz E-Class E 220d Exclusive [2019-2019],5400000,25000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2014,Nissan Terrano XV D THP 110 PS,550000,65000,Diesel,Delhi Delivery available in Noida,Nissan
+2013,Mercedes-Benz M-Class ML 350 CDI,1950000,71000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2015,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],375000,57000,Petrol,Delhi Delivery available in Noida,Hyundai
+2014,Honda Amaze 1.5 S i-DTEC,325000,65000,Diesel,Kanpur Delivery available in Noida,Honda
+2012,Honda City 1.5 V MT,385000,68000,Petrol,Noida,Honda
+2018,Maruti Suzuki Baleno Delta 1.2 AT,690000,27000,Petrol,Delhi Delivery available in Noida,Maruti Suzuki
+2018,Mercedes-Benz GLA 220 d 4MATIC,2850000,55000,Diesel,Lucknow Delivery available in Noida,Mercedes-Benz
+2016,Hyundai Verna 1.6 CRDI SX (O) AT,775000,37555,Diesel,Delhi Delivery available in Noida,Hyundai
+2018,Land Rover Range Rover 3.0 V6 Diesel Vogue,14700000,25000,Diesel,Delhi Delivery available in Noida,Land Rover
+2021,Tata Safari XZA Plus,2190000,5500,Diesel,Delhi Delivery available in Noida,Tata
+2016,BMW 3 Series GT 320d Luxury Line [2014-2016],2650000,44000,Diesel,Delhi Delivery available in Noida,BMW
+2012,Volkswagen Passat Highline DSG,590000,88000,Diesel,Delhi Delivery available in Noida,Volkswagen
+2014,Maruti Suzuki Swift VDi,395000,86011,Diesel,Kanpur Delivery available in Noida,Maruti Suzuki
+2014,Mercedes-Benz M-Class ML 350 CDI,2399000,70000,Diesel,Faridabad Delivery available in Noida,Mercedes-Benz
+2012,BMW 5 Series 525d Sedan,1290000,52000,Diesel,Delhi Delivery available in Noida,BMW
+2012,BMW 5 Series 520d Sedan,1190000,56000,Diesel,Delhi Delivery available in Noida,BMW
+2015,Maruti Suzuki Baleno Delta 1.2,485000,58000,Petrol,Noida,Maruti Suzuki
+2012,Toyota Fortuner 3.0 4x4 MT,1190000,78600,Diesel,Agra Delivery available in Noida,Toyota
+2013,Maruti Suzuki Wagon R 1.0 LXi CNG,275000,47000,CNG,Delhi Delivery available in Noida,Maruti Suzuki
+2016,Hyundai Grand i10 Sportz U2 1.2 CRDi,425000,64000,Diesel,Delhi Delivery available in Noida,Hyundai
+2018,Hyundai Verna 1.6 VTVT SX (O),1025000,34000,Petrol,Delhi Delivery available in Noida,Hyundai
+2020,BMW 3 Series 320d Luxury Line,4599000,201,Diesel,Delhi Delivery available in Noida,BMW
+2020,Mercedes-Benz C-Class C 220d Progressive [2018-2019],4199000,20600,Diesel,Gurgaon Delivery available in Noida,Mercedes-Benz
+2016,Skoda Superb Style TSI AT,1485000,46000,Petrol,Delhi Delivery available in Noida,Skoda
+2012,Maruti Suzuki Swift DZire VXI,320000,80000,Petrol,Delhi Delivery available in Noida,Maruti Suzuki
+2016,Volkswagen Ameo Trendline 1.2L (P),380000,87000,Petrol,Ghaziabad Delivery available in Noida,Volkswagen
+2010,Honda City 1.5 S MT,310000,72000,Petrol,Noida,Honda
+2015,Maruti Suzuki Swift Lxi (O) [2014-2017],425000,48000,Petrol,Delhi Delivery available in Noida,Maruti Suzuki
+2021,Mercedes-Benz GLC Coupe 43 AMG [2017-2019],8300000,7000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2018,Hyundai Creta SX Plus 1.6 AT CRDI,1145000,45000,Diesel,Delhi Delivery available in Noida,Hyundai
+2020,Ford Endeavour Titanium 2.0 4x2 AT,3490000,16000,Diesel,Delhi Delivery available in Noida,Ford
+2012,Honda Accord 2.4 MT,585000,75000,Petrol,Delhi Delivery available in Noida,Honda
+2017,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,444000,32212,Petrol,Gurgaon Delivery available in Noida,Hyundai
+2018,Porsche 718 Cayman [2017-2020],8600000,4000,Petrol,Faridabad Delivery available in Noida,Porsche
+2012,Audi Q7 35 TDI Technology Pack,1750000,74500,Diesel,Delhi Delivery available in Noida,Audi
+2019,Audi A4 35 TDI Premium Plus,3195000,4000,Diesel,Delhi Delivery available in Noida,Audi
+2012,Nissan Micra XL Petrol,165000,62000,Petrol,Kanpur Delivery available in Noida,Nissan
+2020,Toyota Glanza G,725000,11000,Petrol,Delhi Delivery available in Noida,Toyota
+2017,Maruti Suzuki Wagon R 1.0 VXI,375000,77000,Petrol,Delhi Delivery available in Noida,Maruti Suzuki
+2015,MINI Countryman Cooper D,2300000,40614,Diesel,Pune Delivery available in Noida,MINI
+2011,Land Rover Range Rover Sport 5.0 Supercharged V8,3100000,73000,Petrol,Delhi Delivery available in Noida,Land Rover
+2018,Ford EcoSport Titanium 1.5 TDCi (Opt),900000,30000,Diesel,Delhi Delivery available in Noida,Ford
+2017,Toyota Fortuner 2.7 4x2 AT [2016-2020],2690000,34000,Petrol,Delhi Delivery available in Noida,Toyota
+2018,Mahindra Thar CRDe 4x4 AC,1500000,13000,Diesel,Lucknow Delivery available in Noida,Mahindra
+2009,Hyundai i10 Era,175000,69000,Petrol,Agra Delivery available in Noida,Hyundai
+2015,Maruti Suzuki Swift DZire LDI,367000,70445,Diesel,Gurgaon Delivery available in Noida,Maruti Suzuki
+2017,Hyundai Tucson 2WD AT GLS Diesel,1350000,76000,Diesel,Delhi Delivery available in Noida,Hyundai
+2012,Audi A6 2.0 TDI Premium,1190000,80000,Diesel,Delhi Delivery available in Noida,Audi
+2014,Hyundai Verna Fluidic 1.6 CRDi SX AT,525000,80000,Diesel,Delhi Delivery available in Noida,Hyundai
+2019,Maruti Suzuki Vitara Brezza ZDi,885000,37000,Diesel,Delhi Delivery available in Noida,Maruti Suzuki
+2013,Mahindra Scorpio VLX 2WD BS-IV,475000,68000,Diesel,Delhi Delivery available in Noida,Mahindra
+2013,Mercedes-Benz E-Class E200 CGI Blue Efficiency,1450000,52000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2017,Honda WR-V S MT Petrol,725000,19000,Petrol,Noida,Honda
+2018,Mahindra XUV500 W5 [2018-2020],1250000,18170,Diesel,Agra Delivery available in Noida,Mahindra
+2017,Mercedes-Benz SLC 43 AMG,6000000,11500,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2013,Hyundai i10 Sportz 1.2 AT Kappa2,350000,22000,Petrol,Delhi Delivery available in Noida,Hyundai
+2018,Audi Q5 40 TDI Premium Plus,4200000,27500,Diesel,Delhi Delivery available in Noida,Audi
+2016,Mercedes-Benz GLE 250 d,4191000,51000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2016,MINI Countryman Cooper D,2249000,20500,Diesel,Delhi Delivery available in Noida,MINI
+2012,BMW 6 Series 640d Coupe,2990000,50000,Diesel,Delhi Delivery available in Noida,BMW
+2016,Maruti Suzuki Vitara Brezza ZDi,650002,48000,Diesel,Ghaziabad Delivery available in Noida,Maruti Suzuki
+2016,Toyota Camry 2.5L AT,1675000,79000,Petrol,Delhi Delivery available in Noida,Toyota
+2012,Porsche Cayenne Diesel,2551000,63000,Diesel,Delhi Delivery available in Noida,Porsche
+2012,Audi A6 2.0 TDI Premium,1190000,53000,Diesel,Delhi Delivery available in Noida,Audi
+2013,Hyundai Verna Fluidic 1.6 CRDi SX Opt AT,485000,62000,Diesel,Delhi Delivery available in Noida,Hyundai
+2019,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2391000,21000,Diesel,Delhi Delivery available in Noida,Toyota
+2017,Hyundai Creta SX Plus 1.6 CRDI,950000,67000,Diesel,Delhi Delivery available in Noida,Hyundai
+2012,BMW 5 Series 520d Sedan,1150000,52000,Diesel,Delhi Delivery available in Noida,BMW
+2020,Mercedes-Benz GLC 200 Progressive [2019-2021],5500000,7000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2020,MG Hector Smart 1.5 DCT Petrol [2019-2020],1695000,10300,Petrol,Delhi Delivery available in Noida,MG
+2008,Honda City ZX EXi,250000,75000,Petrol,Agra Delivery available in Noida,Honda
+2019,Volkswagen Ameo Trendline 1.2L (P),495000,38000,Petrol,Noida,Volkswagen
+2017,Jaguar XF 2.2 Diesel Luxury,3500000,14000,Diesel,Delhi Delivery available in Noida,Jaguar
+2018,Maruti Suzuki Dzire VDi,675000,22000,Diesel,Delhi Delivery available in Noida,Maruti Suzuki
+2018,Mercedes-Benz GLE 250 d,5750000,22000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2012,Hyundai i10 Era 1.1 iRDE2 [2010-2017],255000,82000,Petrol,Noida,Hyundai
+2012,Honda Brio S MT,235000,65000,Petrol,Noida,Honda
+2019,Jeep Compass Limited Plus Petrol AT [2018-2020],1950000,6570,Petrol,Delhi Delivery available in Noida,Jeep
+2017,Volvo S60 Momentum [2015-2020],2075000,35000,Diesel,Delhi Delivery available in Noida,Volvo
+2017,Volkswagen Polo Comfortline 1.2L (P),510000,65000,Petrol,Ghaziabad Delivery available in Noida,Volkswagen
+2011,Land Rover Discovery 4 3.0 TDV6 HSE,2199000,77000,Diesel,Delhi Delivery available in Noida,Land Rover
+2019,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],1750000,39000,Diesel,Ghaziabad Delivery available in Noida,Kia
+2014,Mercedes-Benz E-Class E250 CDI Avantgarde,1875000,56000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2019,Audi Q7 45 TDI Technology Pack,7200000,9000,Diesel,Delhi Delivery available in Noida,Audi
+2014,Toyota Fortuner 3.0 4x2 MT,1450000,70258,Diesel,Delhi Delivery available in Noida,Toyota
+2018,Tata Tiago Revotron XE [2016-2019],350000,27000,Petrol,Delhi Delivery available in Noida,Tata
+2020,Toyota Innova Crysta 2.4 GX 7 STR,2075000,9143,Diesel,Delhi Delivery available in Noida,Toyota
+2019,Audi A3 35 TFSI Premium Plus,2590000,11000,Petrol,Delhi Delivery available in Noida,Audi
+2014,Audi Q5 30 TDI Sports Edition,2000000,33000,Diesel,Delhi Delivery available in Noida,Audi
+2017,Mercedes-Benz C-Class C 220 CDI Style,3350000,40000,Diesel,Lucknow Delivery available in Noida,Mercedes-Benz
+2014,Mercedes-Benz C-Class C 220 CDI Avantgarde,1299000,65000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2019,Mercedes-Benz C-Class C 200 Progressive [2018-2020],4350000,9000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2020,Jeep Compass Limited Plus 2.0 Diesel 4x4 AT,2400000,17000,Diesel,Delhi Delivery available in Noida,Jeep
+2018,Toyota Fortuner 2.8 4x2 MT [2016-2020],2500000,99000,Diesel,Delhi Delivery available in Noida,Toyota
+2013,Mercedes-Benz C-Class 200 CGI,1350000,66000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2021,Mahindra Thar LX 4-STR Convertible Diesel AT,1950000,5500,Diesel,Delhi Delivery available in Noida,Mahindra
+2015,Porsche Panamera 3.0 Diesel,5700000,30000,Diesel,Delhi Delivery available in Noida,Porsche
+2015,Maruti Suzuki Celerio VXi AMT ABS,345000,49000,Petrol,Delhi Delivery available in Noida,Maruti Suzuki
+2019,Mercedes-Benz E-Class E 220 d Avantgarde,5350000,18000,Diesel,Delhi Delivery available in Noida,Mercedes-Benz
+2014,Maruti Suzuki Swift VDi,317000,96732,Diesel,Gurgaon Delivery available in Noida,Maruti Suzuki
+2009,Audi A6 3.0 TDI quattro Premium,990000,45000,Diesel,Delhi Delivery available in Noida,Audi
+2012,Toyota Innova 2.5 G4 8 STR,590000,156000,Diesel,Delhi Delivery available in Noida,Toyota
+2012,Audi Q7 3.0 TDI quattro Premium,2000000,90000,Diesel,Delhi Delivery available in Noida,Audi
+2016,Mercedes-Benz GLE Coupe 43 AMG 4Matic 2016,5500000,41000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2018,Hyundai Creta 1.6 SX Plus Petrol,1300000,15000,Petrol,Delhi Delivery available in Noida,Hyundai
+2013,BMW X6 xDrive 30d,2090000,55000,Diesel,Delhi Delivery available in Noida,BMW
+2017,Maruti Suzuki Celerio VXi AMT [2017-2019],385000,65000,Petrol,Agra Delivery available in Noida,Maruti Suzuki
+2010,Honda City 1.5 V MT,345000,22000,Petrol,Delhi Delivery available in Noida,Honda
+2014,Porsche 911 Carrera S Cabriolet,9000000,20000,Petrol,Faridabad Delivery available in Noida,Porsche
+2021,Land Rover Discovery Sport R-Dynamic SE,6300000,8000,Diesel,Delhi Delivery available in Noida,Land Rover
+2018,Maruti Suzuki S-Cross Zeta 1.6,890000,41000,Diesel,Delhi Delivery available in Noida,Maruti Suzuki
+2020,Jaguar XF Prestige Diesel CBU,3475000,33400,Diesel,Delhi Delivery available in Noida,Jaguar
+2018,Volvo S90 Inscription D4 [2016-2020],4200000,29000,Diesel,Delhi Delivery available in Noida,Volvo
+2021,Mahindra Thar CRDe 4x4 AC,1650000,9000,Diesel,Delhi Delivery available in Noida,Mahindra
+2011,Toyota Land Cruiser Prado VX L,2850000,76000,Diesel,Delhi Delivery available in Noida,Toyota
+2019,Mahindra Thar CRDe 4x4 AC1,950000,30000,Diesel,Delhi Delivery available in Noida,Mahindra
+2017,Hyundai Creta 1.6 SX Plus AT Petrol,1075000,31000,Petrol,Delhi Delivery available in Noida,Hyundai
+2012,Volvo XC60 Summum D4,1050000,51000,Diesel,Delhi Delivery available in Noida,Volvo
+2021,Audi Q8 55 TFSI quattro,12500000,2900,Petrol,Delhi Delivery available in Noida,Audi
+2017,Porsche Cayenne GTS,12000000,27000,Petrol,Delhi Delivery available in Noida,Porsche
+2011,Mercedes-Benz R-Class R350 4MATIC,1499000,36000,Petrol,Delhi Delivery available in Noida,Mercedes-Benz
+2020,BMW 7 Series 740Li DPE Signature,12100000,12000,Petrol,Delhi Delivery available in Noida,BMW
+2014,Maruti Suzuki Celerio LXi,325002,60660,Petrol,Ghaziabad Delivery available in Noida,Maruti Suzuki
+2011,Mercedes-Benz C-Class 200 CGI Avantgarde,1258000,66700,Petrol,Mumbai,Mercedes-Benz
+2012,Nissan Sunny XV Diesel,325000,119120,Diesel,Mumbai,Nissan
+2014,Volkswagen Vento TSI,485000,65327,Petrol,Mumbai,Volkswagen
+2014,Volkswagen Cross Polo 1.2 TDI,350000,97000,Diesel,Mumbai,Volkswagen
+2015,Honda Jazz VX Diesel,590000,81104,Diesel,Thane,Honda
+2017,Mercedes-Benz E-Class E 220d Expression [2019-2019],4195000,25000,Diesel,Mumbai,Mercedes-Benz
+2015,Maruti Suzuki Wagon R 1.0 VXI+ AMT,370000,48160,Petrol,Mumbai,Maruti Suzuki
+2014,Ford Endeavour 2.5L 4x2,550000,183023,Diesel,Thane,Ford
+2017,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],565000,44329,Petrol,Mumbai,Hyundai
+2015,Maruti Suzuki Swift Dzire ZXI,510000,48286,Petrol,Mumbai,Maruti Suzuki
+2018,Honda WR-V S MT Petrol,749000,24975,Petrol,Mumbai,Honda
+2016,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],1485000,59758,Diesel,Mumbai,Toyota
+2016,Renault Pulse RxL Petrol [2015-2017],365000,22625,Petrol,Mumbai,Renault
+2017,Maruti Suzuki Baleno Zeta 1.2 AT,699000,16540,Petrol,Mumbai,Maruti Suzuki
+2016,Honda Brio S MT,425000,10046,Petrol,Mumbai,Honda
+2016,Hyundai Xcent S AT 1.2 (O),595000,41280,Petrol,Mumbai,Hyundai
+2010,Maruti Suzuki Ritz VXI BS-IV,265000,24000,Petrol,Mumbai,Maruti Suzuki
+2013,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],340000,44380,Petrol,Mumbai,Hyundai
+2017,Honda WR-V VX MT Petrol,749000,28771,Petrol,Mumbai,Honda
+2012,BMW 3 Series 320d Prestige,925000,74460,Diesel,Mumbai,BMW
+2016,Skoda Rapid Style 1.5 TDI AT,675000,58000,Diesel,Mumbai,Skoda
+2016,Honda City V Diesel,685000,69380,Diesel,Mumbai,Honda
+2016,Maruti Suzuki Celerio VXi AMT ABS,445000,39500,Petrol,Mumbai,Maruti Suzuki
+2017,Mercedes-Benz GLE 250 d,4550000,42442,Diesel,Mumbai,Mercedes-Benz
+2016,Tata Nano Twist XT,215000,2814,Petrol,Mumbai,Tata
+2015,Volkswagen Polo Highline1.2L (P),475000,29390,Petrol,Mumbai,Volkswagen
+2011,Audi Q7 3.0 TDI quattro Premium Plus,1550000,107000,Diesel,Mumbai,Audi
+2021,Mahindra Thar LX 4-STR Hard Top Petrol AT,1900000,3000,Petrol,Mumbai,Mahindra
+2016,Hyundai Creta 1.6 SX Plus Petrol,951000,19511,Petrol,Thane,Hyundai
+2017,Tata Tiago Revotron XZA [2017-2019],475000,33000,Petrol,Mumbai,Tata
+2015,Ford EcoSport Titanium 1.5L Ti-VCT AT,645000,44000,Petrol,Mumbai,Ford
+2019,Maruti Suzuki Ertiga ZDi Plus 1.5 Diesel,1125000,19000,Diesel,Mumbai,Maruti Suzuki
+2017,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],1495000,83597,Diesel,Thane,Toyota
+2012,Toyota Innova 2.5 G 8 STR BS-IV,650000,133862,Diesel,Thane,Toyota
+2014,Maruti Suzuki Ertiga Vxi CNG,658000,71304,CNG,Mumbai,Maruti Suzuki
+2015,Hyundai Santa Fe 4WD AT [2014-2017],1425000,75000,Diesel,Mumbai,Hyundai
+2014,BMW 3 Series 320d Prestige,1550000,78792,Diesel,Mumbai,BMW
+2019,Maruti Suzuki Vitara Brezza ZDi Plus AGS,1100000,13000,Diesel,Mumbai,Maruti Suzuki
+2020,Maruti Suzuki Vitara Brezza ZDi,1045000,36000,Diesel,Mumbai,Maruti Suzuki
+2021,Hyundai Creta SX (O) 1.5 Diesel Automatic,2095000,7500,Diesel,Mumbai,Hyundai
+2018,Maruti Suzuki S-Cross Zeta 1.6,925000,41000,Diesel,Mumbai,Maruti Suzuki
+2014,Maruti Suzuki Ertiga Vxi CNG,669000,116000,CNG,Navi Mumbai,Maruti Suzuki
+2017,Lexus RX Luxury,5900000,63500,Petrol,Dehradun Delivery available in Mumbai,Lexus
+2011,Mahindra Scorpio LX BS-IV,415000,88258,Diesel,Thane,Mahindra
+2015,Toyota Innova 2.5 ZX BS III 7 STR,1245000,80000,Diesel,Mumbai,Toyota
+2012,BMW 3 Series 320d Luxury Line,1295000,80000,Diesel,Mumbai,BMW
+2018,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],1699000,98000,Diesel,Mumbai,Toyota
+2015,Toyota Innova 2.5 ZX BS III 7 STR,1245001,80000,Diesel,Mumbai,Toyota
+2016,Maruti Suzuki S-Cross Sigma 1.3,735000,98000,Diesel,Mumbai,Maruti Suzuki
+2018,Honda Jazz VX CVT Petrol,775000,16000,Petrol,Mumbai,Honda
+2018,Maruti Suzuki Baleno Zeta 1.2,675000,19976,Petrol,Mumbai,Maruti Suzuki
+2012,Renault Duster 110 PS RxZ Diesel,390000,117000,Diesel,Mumbai,Renault
+2015,Maruti Suzuki Baleno Sigma 1.2,510000,60157,Petrol,Mumbai,Maruti Suzuki
+2015,Hyundai Grand i10 Era 1.2 Kappa VTVT [2016-2017],400000,24123,Petrol,Thane,Hyundai
+2010,Maruti Suzuki Estilo VXi,145000,78500,Petrol,Mumbai,Maruti Suzuki
+2020,Hyundai Creta SX (O) 1.5 Diesel Automatic,1990000,7800,Diesel,Mumbai,Hyundai
+2012,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2014-2019],279000,69549,Petrol,Mumbai,Maruti Suzuki
+2011,Hyundai i10 Sportz 1.2 Kappa2,285000,84000,Petrol,Thane,Hyundai
+2019,Maruti Suzuki Ertiga VXI,990000,19900,Petrol,Mumbai,Maruti Suzuki
+2017,Maruti Suzuki Dzire VXi AMT,615000,20342,Petrol,Mumbai,Maruti Suzuki
+2016,Mahindra Bolero SLE BS III,565000,79962,Diesel,Mumbai,Mahindra
+2010,Bentley Continental Flying Spur W12,7600000,49000,Petrol,Mumbai,Bentley
+2015,Honda City SV Diesel,640000,32000,Diesel,Mumbai,Honda
+2012,Toyota Corolla Altis 1.8 G,500000,84734,Petrol,Pune Delivery available in Mumbai,Toyota
+2016,Skoda Rapid 1.5 TDI CR Style Plus AT,725000,50667,Diesel,Thane,Skoda
+2015,Audi Q3 35 TDI Premium + Sunroof,2585000,26178,Diesel,Mumbai,Audi
+2018,Mahindra Bolero Power Plus SLE [2016-2019],655000,85000,Diesel,Mumbai,Mahindra
+2015,Toyota Innova 2.5 G BS IV 7 STR,1030000,156334,Diesel,Thane,Toyota
+2015,Audi Q3 2.0 TDI quattro Premium Plus,2075000,23000,Diesel,Mumbai,Audi
+2016,Honda Jazz S MT [2015-2016],500000,45027,Petrol,Thane,Honda
+2019,Ford EcoSport Titanium 1.5L Ti-VCT,911000,11234,Petrol,Thane,Ford
+2013,Mercedes-Benz C-Class 220 BlueEfficiency,1015000,92000,Diesel,Mumbai,Mercedes-Benz
+2017,Honda Jazz V AT Petrol,745000,21451,Petrol,Mumbai,Honda
+2016,Audi Q3 35 TDI Premium + Sunroof,1875000,61000,Diesel,Mumbai,Audi
+2019,BMW 5 Series 520d Luxury Line [2017-2019],4975000,25000,Diesel,Mumbai,BMW
+2019,BMW X1 xDrive20d M Sport,3499000,26000,Diesel,Mumbai,BMW
+2013,Hyundai i10 Sportz 1.2 Kappa2,325000,29708,Petrol,Mumbai,Hyundai
+2020,Mercedes-Benz E-Class E 200 Exclusive [2019-2019],6250000,18000,Petrol,Mumbai,Mercedes-Benz
+2019,BMW X3 xDrive 20d Luxury Line [2018-2020],5400000,11000,Diesel,Mumbai,BMW
+2019,Maruti Suzuki Vitara Brezza LDi,850000,32000,Diesel,Mumbai,Maruti Suzuki
+2013,Audi A6 2.0 TFSi Premium,1350000,53162,Petrol,Mumbai,Audi
+2016,Maruti Suzuki Alto 800 Lxi CNG,325000,39000,CNG,Thane,Maruti Suzuki
+2013,Maruti Suzuki Ritz Zxi BS-IV,355000,67000,Petrol,Thane,Maruti Suzuki
+2010,Honda Accord 2.4 Elegance AT,475000,73000,Petrol,Mumbai,Honda
+2010,BMW Z4 Roadster sDrive35i,2900000,48000,Petrol,Mumbai,BMW
+2016,Maruti Suzuki Ertiga VXI,695000,60000,Petrol,Thane,Maruti Suzuki
+2015,Maruti Suzuki Wagon R 1.0 LXI CNG (O),395000,45000,CNG,Badlapur,Maruti Suzuki
+2018,Maruti Suzuki S-Cross Zeta 1.3,875000,46000,Diesel,Mumbai,Maruti Suzuki
+2017,Hyundai Elite i20 Sportz 1.2,675000,6748,Petrol,Mumbai,Hyundai
+2016,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],1495000,55000,Diesel,Thane,Toyota
+2019,Mahindra TUV300 T8 AMT mHAWK100,888000,25000,Diesel,Mumbai,Mahindra
+2019,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2019-2020],525000,42000,Petrol,Thane,Maruti Suzuki
+2012,Land Rover Range Rover Evoque Dynamic SD4,2300000,80000,Diesel,Navi Mumbai,Land Rover
+2018,Mercedes-Benz GLC 220 d Progressive,4500000,29000,Diesel,Mumbai,Mercedes-Benz
+2018,Tata Hexa XTA 4x2 7 STR,1235000,70000,Diesel,Mumbai,Tata
+2020,BMW X1 sDrive20i SportX,3500000,5550,Petrol,Mumbai,BMW
+2014,Skoda Octavia Elegance 2.0 TDI AT,1020000,46000,Diesel,Mumbai,Skoda
+2016,Volkswagen Polo Highline1.5L (D),600000,55000,Diesel,Mumbai,Volkswagen
+2015,Toyota Etios Liva G,370000,26132,Petrol,Mumbai,Toyota
+2020,Mercedes-Benz GLE 400d 4MATIC LWB,9995000,16500,Diesel,Mumbai,Mercedes-Benz
+2012,Lamborghini Gallardo India Ltd Edition LP 550-2,12500000,14500,Petrol,Dehradun Delivery available in Mumbai,Lamborghini
+2015,BMW 5 Series 520d Luxury Line,2800000,51500,Diesel,Mumbai,BMW
+2013,Hyundai Elantra 1.6 SX AT,675000,62812,Diesel,Thane,Hyundai
+2013,BMW 6 Series 650i Coupe,4500000,30000,Petrol,Chennai Delivery available in Mumbai,BMW
+2019,Maruti Suzuki Swift ZXi AMT [2018-2019],785000,35000,Petrol,Mumbai,Maruti Suzuki
+2012,Hyundai Verna Fluidic 1.6 VTVT SX,445000,73000,Petrol,Thane,Hyundai
+2018,Maruti Suzuki Ertiga ZXi Plus,875000,25000,Petrol,Mumbai,Maruti Suzuki
+2011,Bentley Continental GT Coupe,12500000,10500,Petrol,Pune Delivery available in Mumbai,Bentley
+2017,Volkswagen Tiguan - 2020 Comfortline TDI,2385000,37216,Diesel,Mumbai,Volkswagen
+2019,Hyundai Venue SX Plus 1.0 Turbo DCT,1165000,19000,Petrol,Mumbai,Hyundai
+2016,Maruti Suzuki Wagon R 1.0 VXI AMT,425000,85000,Petrol,Thane,Maruti Suzuki
+2014,Skoda Rapid Elegance 1.6 MPI AT,491000,62000,Petrol,Mumbai,Skoda
+2020,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],1995000,15700,Diesel,Thane,Kia
+2016,BMW X6 xDrive40d M Sport,5645000,25000,Diesel,Mumbai,BMW
+2019,Mercedes-Benz CLA 200 Petrol Sport,2850000,11200,Petrol,Mumbai,Mercedes-Benz
+2019,Toyota Innova Crysta 2.4 G 8 STR [2016-2017],1800000,14200,Diesel,Mumbai,Toyota
+2015,Hyundai Elite i20 Sportz 1.2,575000,15000,Petrol,Mumbai,Hyundai
+2009,Toyota Innova 2.5 V 8 STR,525000,65000,Diesel,Mumbai,Toyota
+2018,Ford EcoSport Titanium 1.5 Ti-VCT AT,940000,30000,Petrol,Mumbai,Ford
+2016,Skoda Superb Style TSI AT,1700000,62355,Petrol,Mumbai,Skoda
+2014,Mahindra XUV500 W6,680000,60481,Diesel,Thane,Mahindra
+2020,MG Hector Plus Sharp 1.5 Petrol Turbo DCT 6-STR,1975000,5600,Petrol,Mumbai,MG
+2017,Mercedes-Benz E-Class E200 CGI Blue Efficiency,4150000,13000,Petrol,Mumbai,Mercedes-Benz
+2020,BMW X1 sDrive20d xLine,4490000,3000,Diesel,Mumbai,BMW
+2007,Mercedes-Benz S-Class 500,1285000,35199,Petrol,Mumbai,Mercedes-Benz
+2019,Toyota Glanza G CVT,785000,15700,Petrol,Thane,Toyota
+2017,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],1675000,89000,Diesel,Mumbai,Toyota
+2018,Mahindra Bolero Power Plus SLE [2016-2019],675000,58000,Diesel,Mumbai,Mahindra
+2013,Maruti Suzuki Ritz Zxi BS-IV,365000,32893,Petrol,Thane,Maruti Suzuki
+2017,Mercedes-Benz GLS 350 d,7450000,33000,Diesel,Navi Mumbai,Mercedes-Benz
+2021,Mahindra Thar CRDe 4x4 AC,1745000,5500,Diesel,Mumbai,Mahindra
+2017,Toyota Innova Crysta 2.7 GX 7 STR [2016-2020],1550000,82000,Petrol,Mumbai,Toyota
+2017,Toyota Corolla Altis VL AT Petrol,1485000,27000,Petrol,Mumbai,Toyota
+2016,Maruti Suzuki Ertiga VDI SHVS,785000,62949,Diesel,Mumbai,Maruti Suzuki
+2020,Maruti Suzuki Vitara Brezza ZXi Plus,1025000,13000,Petrol,Mumbai,Maruti Suzuki
+2019,Hyundai Elite i20 Sportz 1.2,725000,12000,Petrol,Mumbai,Hyundai
+2015,Hyundai Verna Fluidic 1.6 VTVT SX AT,690000,16000,Petrol,Mumbai,Hyundai
+2016,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],470000,72516,Petrol,Thane,Hyundai
+2019,BMW X4 xDrive30i M Sport X [2019-2019],5710000,14000,Petrol,Mumbai,BMW
+2018,Maruti Suzuki Ertiga VXI CNG,879000,40000,CNG,Navi Mumbai,Maruti Suzuki
+2019,Toyota Innova Crysta 2.5 VX BS-IV,1950000,23100,Diesel,Mumbai,Toyota
+2015,Maruti Suzuki Ertiga ZDi,774000,70062,Diesel,Mumbai,Maruti Suzuki
+2010,Maruti Suzuki A-Star Lxi,160000,70000,Petrol,Mumbai,Maruti Suzuki
+2017,Maruti Suzuki Baleno Sigma 1.2,525000,10783,Petrol,Mumbai,Maruti Suzuki
+2012,Maruti Suzuki Ritz Vxi (ABS) BS-IV,289000,69000,Petrol,Mumbai,Maruti Suzuki
+2012,Land Rover Range Rover Evoque Prestige SD4,1900000,127000,Diesel,Dehradun Delivery available in Mumbai,Land Rover
+2017,Toyota Fortuner 2.8 4x2 AT [2016-2020],2840000,73000,Diesel,Mumbai,Toyota
+2016,BMW 7 Series 730Ld,5300000,53326,Diesel,Mumbai,BMW
+2012,Volkswagen Polo Trendline 1.2L (D),298000,96047,Diesel,Mumbai,Volkswagen
+2013,Ford EcoSport Titanium 1.5 TDCi (Opt),474000,85000,Diesel,Mumbai,Ford
+2018,MINI Countryman Cooper D,3445000,3900,Diesel,Mumbai,MINI
+2015,Audi A3 35 TDI Premium,1585111,55000,Diesel,Mumbai,Audi
+2016,Audi Q7 45 TDI Technology Pack,4750000,47800,Diesel,Mumbai,Audi
+2014,Mercedes-Benz C-Class Edition C,1399000,105000,Diesel,Pune Delivery available in Mumbai,Mercedes-Benz
+2014,Volkswagen Cross Polo 1.2 MPI,425000,51254,Petrol,Mumbai,Volkswagen
+2012,Toyota Fortuner 3.0 4x2 AT,1325000,129000,Diesel,Mumbai,Toyota
+2013,BMW 6 Series Gran Coupe 640d Gran Coupe,3200000,34000,Diesel,Navi Mumbai,BMW
+2021,Mahindra Thar LX 4-STR Hard Top Petrol AT,2049999,7500,Petrol,Mumbai,Mahindra
+2018,Maruti Suzuki Baleno Zeta 1.2 AT,740000,21000,Petrol,Mumbai,Maruti Suzuki
+2020,Kia Seltos GTX AT 1.4,1845000,3000,Petrol,Mumbai,Kia
+2013,BMW 3 Series 320d Luxury Line,1435000,43000,Diesel,Mumbai,BMW
+2016,Skoda Octavia 2.0 TDI CR Ambition,1099000,56000,Diesel,Mumbai,Skoda
+2017,Hyundai Santa Fe 2WD AT [2014-2017],1845000,56000,Diesel,Mumbai,Hyundai
+2018,Maruti Suzuki Ignis Alpha 1.2 AMT,615000,9500,Petrol,Navi Mumbai,Maruti Suzuki
+2019,Maruti Suzuki S-Cross Zeta 1.3,985000,33997,Diesel,Thane,Maruti Suzuki
+2010,Mercedes-Benz E-Class E350,1050000,55000,Petrol,Mumbai,Mercedes-Benz
+2016,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],440000,6000,Petrol,Mumbai,Hyundai
+2016,Hyundai Creta 1.6 SX Plus AT Petrol,1065000,28000,Petrol,Mumbai,Hyundai
+2015,MINI Countryman Cooper D,2300000,40614,Diesel,Pune Delivery available in Mumbai,MINI
+2017,Mitsubishi Pajero Sport 2.5 AT,1875000,49000,Diesel,Mumbai,Mitsubishi
+2014,Skoda Rapid Ambition 1.6 TDI CR MT,450000,42000,Diesel,Mumbai,Skoda
+2017,BMW X1 xDrive20d xLine,2651000,44000,Diesel,Mumbai,BMW
+2012,Chevrolet Beat LS Diesel,210000,70258,Diesel,Thane,Chevrolet
+2018,Honda WR-V VX MT Petrol,825000,9000,Petrol,Mumbai,Honda
+2014,Audi Q7 35 TDI Premium Plus + Sunroof,3000000,60252,Diesel,Mumbai,Audi
+2013,Maruti Suzuki Alto K10 VXi,240000,11000,Petrol,Mumbai,Maruti Suzuki
+2017,Hyundai Grand i10 Sportz AT 1.2 Kappa VTVT,575000,54000,Petrol,Mumbai,Hyundai
+2015,Maruti Suzuki Ciaz VDi SHVS,600000,79350,Diesel,Mumbai,Maruti Suzuki
+2014,Mercedes-Benz C-Class C 220 CDI Avantgarde,1575000,15314,Diesel,Mumbai,Mercedes-Benz
+2019,Tata Nexon XZA Plus Petrol,950000,5000,Petrol,Mumbai,Tata
+2017,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],600000,27000,Petrol,Thane,Hyundai
+2020,Hyundai Creta SX 1.5 Diesel,1755000,18000,Diesel,Mumbai,Hyundai
+2018,Ford Endeavour Titanium 3.2 4x4 AT,2650000,36000,Diesel,Mumbai,Ford
+2018,Mercedes-Benz C-Class C 250 d,3350000,28500,Diesel,Mumbai,Mercedes-Benz
+2016,Renault Pulse RxL Petrol [2015-2017],365000,22625,Petrol,Mumbai Delivery available in Thane,Renault
+2011,Mercedes-Benz S-Class 350 CDI L,2500000,51086,Diesel,Mumbai Delivery available in Thane,Mercedes-Benz
+2011,Toyota Etios G,350000,55122,Petrol,Navi Mumbai Delivery available in Thane,Toyota
+2011,Mercedes-Benz C-Class 200 CGI Avantgarde,1258000,66700,Petrol,Mumbai Delivery available in Thane,Mercedes-Benz
+2012,Hyundai i10 Sportz 1.2 AT Kappa2,300000,65161,Petrol,Navi Mumbai Delivery available in Thane,Hyundai
+2014,Volkswagen Cross Polo 1.2 TDI,350000,97000,Diesel,Mumbai Delivery available in Thane,Volkswagen
+2016,Renault Kwid RXL [2015-2019],325000,26500,Petrol,Thane,Renault
+2018,Honda WR-V S MT Petrol,749000,24975,Petrol,Mumbai Delivery available in Thane,Honda
+2017,Maruti Suzuki Baleno Zeta 1.2 AT,699000,16540,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2016,Honda Brio S MT,425000,10046,Petrol,Mumbai Delivery available in Thane,Honda
+2016,Hyundai Xcent S AT 1.2 (O),595000,41280,Petrol,Mumbai Delivery available in Thane,Hyundai
+2010,Maruti Suzuki Ritz VXI BS-IV,265000,24000,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2017,Honda WR-V VX MT Petrol,749000,28771,Petrol,Mumbai Delivery available in Thane,Honda
+2015,Volkswagen Polo Highline1.2L (P),475000,29390,Petrol,Mumbai Delivery available in Thane,Volkswagen
+2007,Maruti Suzuki Wagon R LXi Minor,125000,61694,Petrol,Thane,Maruti Suzuki
+2015,Maruti Suzuki Ciaz VDi + [2014-2015],600000,85347,Diesel,Thane,Maruti Suzuki
+2015,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],445000,20100,Petrol,Mumbai Delivery available in Thane,Hyundai
+2012,Maruti Suzuki A-Star Vxi,275000,46646,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2013,Maruti Suzuki Swift DZire VDI,449000,67664,Diesel,Mumbai Delivery available in Thane,Maruti Suzuki
+2016,Mahindra XUV500 W10 AT,1275000,72000,Diesel,Mumbai Delivery available in Thane,Mahindra
+2018,Hyundai Creta 1.4 S Plus,1245000,21153,Diesel,Mumbai Delivery available in Thane,Hyundai
+2012,Toyota Fortuner 3.0 4x2 AT,1500000,66453,Diesel,Mumbai Delivery available in Thane,Toyota
+2011,Maruti Suzuki Wagon R 1.0 VXi,265000,41117,Petrol,Thane,Maruti Suzuki
+2015,Maruti Suzuki Swift DZire VXI,510000,65637,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2013,Maruti Suzuki Wagon R 1.0 VXi,290000,39271,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2016,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],1629000,111000,Diesel,Mumbai Delivery available in Thane,Toyota
+2014,Ford EcoSport Titanium 1.5 Ti-VCT AT,555000,79000,Petrol,Mumbai Delivery available in Thane,Ford
+2015,Toyota Camry Hybrid,1599000,95000,Petrol,Mumbai Delivery available in Thane,Toyota
+2014,Volkswagen Vento TSI,485000,65327,Petrol,Mumbai Delivery available in Thane,Volkswagen
+2016,Maruti Suzuki Swift Dzire VXI,535000,54178,Petrol,Thane,Maruti Suzuki
+2011,Toyota Corolla Altis 1.8 VL AT,439000,79000,Petrol,Navi Mumbai Delivery available in Thane,Toyota
+2010,Skoda Laura Ambiente 1.9 TDI MT,375000,52000,Diesel,Thane,Skoda
+2010,Maruti Suzuki Swift VXi,285000,12321,Petrol,Thane,Maruti Suzuki
+2015,Mercedes-Benz GLA 200 CDI Sport,1650000,33000,Diesel,Navi Mumbai Delivery available in Thane,Mercedes-Benz
+2017,Maruti Suzuki Dzire VXi AMT,615000,20342,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2014,Maruti Suzuki Ertiga Vxi CNG,669000,116000,CNG,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2015,Maruti Suzuki Ertiga ZDi,774000,70062,Diesel,Mumbai Delivery available in Thane,Maruti Suzuki
+2014,Maruti Suzuki Swift VXi,415000,30730,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2007,Maruti Suzuki Estilo LXi,149000,56634,Petrol,Thane,Maruti Suzuki
+2013,BMW 5 Series 520d Luxury Line,1845000,26000,Diesel,Navi Mumbai Delivery available in Thane,BMW
+2010,Mitsubishi Outlander 2.4 MIVEC,375000,116160,Petrol,Thane,Mitsubishi
+2018,Honda Amaze 1.2 V CVT Petrol [2018-2020],795000,15371,Petrol,Thane,Honda
+2011,Jaguar XJ L 3.0 Diesel,2495000,46000,Diesel,Mumbai Delivery available in Thane,Jaguar
+2013,Toyota Fortuner 3.0 4x2 MT,1451000,118114,Diesel,Thane,Toyota
+2019,Maruti Suzuki S-Presso Vxi Plus,450000,9800,Petrol,Thane,Maruti Suzuki
+2013,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,445000,56750,Petrol,Mumbai Delivery available in Thane,Hyundai
+2018,Maruti Suzuki Ertiga VXI CNG,879000,40000,CNG,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2012,Hyundai i10 Magna 1.2 Kappa2,325000,80000,Petrol,Thane,Hyundai
+2013,Maruti Suzuki Alto K10 VXi,240000,11000,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2019,Hyundai Venue SX Plus 1.0 Turbo DCT,1115000,15000,Petrol,Navi Mumbai Delivery available in Thane,Hyundai
+2011,Audi Q5 2.0 TDI quattro,1365000,37000,Diesel,Navi Mumbai Delivery available in Thane,Audi
+2015,Maruti Suzuki Wagon R 1.0 VXI+ AMT,370000,48160,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2017,Toyota Fortuner 2.8 4x4 AT [2016-2020],2799000,73000,Diesel,Navi Mumbai Delivery available in Thane,Toyota
+2017,Maruti Suzuki Baleno Sigma 1.2,525000,10783,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2015,Maruti Suzuki Swift DZire VXI,562999,35000,Petrol,Thane,Maruti Suzuki
+2018,Maruti Suzuki Baleno Zeta 1.2,630000,87521,Petrol,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2018,Maruti Suzuki Eeco 5 STR WITH A/C+HTR CNG [2019],460000,75000,CNG,Thane,Maruti Suzuki
+2021,Mahindra Thar LX 4-STR Convertible Petrol AT,1881000,1600,Petrol,Mumbai Delivery available in Thane,Mahindra
+2012,Maruti Suzuki Swift DZire VXI,399999,48200,Petrol,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2016,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],1775000,69614,Diesel,Thane,Toyota
+2016,Maruti Suzuki Celerio ZDi [2015-2017],435000,84992,Diesel,Thane,Maruti Suzuki
+2013,Toyota Corolla Altis Aero Ltd Petrol,500000,650000,Petrol,Mumbai Delivery available in Thane,Toyota
+2017,Honda City V Petrol [2017-2019],821000,47197,Petrol,Thane,Honda
+2017,Honda Jazz V AT Petrol,701000,21000,Petrol,Thane,Honda
+2014,Mahindra Quanto C6,355000,76000,Diesel,Thane,Mahindra
+2011,Volkswagen Vento Highline Petrol,356199,54000,Petrol,Thane,Volkswagen
+2016,Mercedes-Benz E-Class E 220 D,4650000,16000,Diesel,Navi Mumbai Delivery available in Thane,Mercedes-Benz
+2016,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],525000,44000,Petrol,Thane,Hyundai
+2015,Hyundai Grand i10 Sports Edition 1.1 CRDi,475000,67000,Diesel,Thane,Hyundai
+2015,Volkswagen Vento Highline Petrol,521000,62618,Petrol,Mumbai Delivery available in Thane,Volkswagen
+2013,Maruti Suzuki SX4 ZXi,399000,47284,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2017,Maruti Suzuki Ertiga VXI,725000,91572,Petrol,Thane,Maruti Suzuki
+2021,Maruti Suzuki Wagon R LXi 1.0 CNG [2019-2020],691000,350,CNG,Thane,Maruti Suzuki
+2013,Hyundai Verna EX 1.6 VTVT [2017-2018],421000,37106,Petrol,Thane,Hyundai
+2011,Maruti Suzuki SX4 ZXi,295000,85380,Petrol,Mumbai Delivery available in Thane,Maruti Suzuki
+2016,Mercedes-Benz E-Class E 250 CDI Avantgarde,2150000,87937,Diesel,Navi Mumbai Delivery available in Thane,Mercedes-Benz
+2016,Maruti Suzuki Swift Dzire VXI,575000,54367,Petrol,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2016,Honda Amaze 1.5 S i-DTEC,475000,57249,Diesel,Navi Mumbai Delivery available in Thane,Honda
+2015,Hyundai Verna Fluidic 1.6 VTVT SX,725000,37399,Petrol,Thane,Hyundai
+2012,Toyota Fortuner 3.0 4x2 AT,1269000,164000,Diesel,Navi Mumbai Delivery available in Thane,Toyota
+2013,Volkswagen Vento Comfortline Diesel,340000,77744,Diesel,Mumbai Delivery available in Thane,Volkswagen
+2014,BMW 3 Series GT 320d Luxury Line [2014-2016],2000000,85000,Diesel,Navi Mumbai Delivery available in Thane,BMW
+2016,Mercedes-Benz GL 350 CDI,4800000,31000,Diesel,Navi Mumbai Delivery available in Thane,Mercedes-Benz
+2015,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,655000,58000,Petrol,Thane,Hyundai
+2013,Honda Brio S MT,350000,71535,Petrol,Thane,Honda
+2010,Maruti Suzuki Estilo VXi,240000,22617,Petrol,Thane,Maruti Suzuki
+2017,Mercedes-Benz GLS 350 d,7450000,33000,Diesel,Navi Mumbai Delivery available in Thane,Mercedes-Benz
+2016,Mahindra XUV500 W10 AWD,1050000,130000,Diesel,Navi Mumbai Delivery available in Thane,Mahindra
+2010,Toyota Innova 2.5 VX 8 STR BS-IV,525000,179814,Diesel,Thane,Toyota
+2017,Mahindra XUV500 W10 AT,1485000,39700,Diesel,Thane,Mahindra
+2018,Maruti Suzuki Alto 800 Lxi CNG,321000,46000,CNG,Thane,Maruti Suzuki
+2019,Maruti Suzuki Dzire VXi,720000,19968,Petrol,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2020,Maruti Suzuki Vitara Brezza ZXi,900000,72922,Petrol,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2019,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],2021000,21795,Diesel,Thane,Toyota
+2018,Maruti Suzuki Vitara Brezza ZDi Plus AGS,999000,44706,Diesel,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2017,Volkswagen Cross Polo 1.5 TDI,625000,22018,Diesel,Thane,Volkswagen
+2020,Maruti Suzuki Baleno Delta 1.2,700000,12000,Petrol,Navi Mumbai Delivery available in Thane,Maruti Suzuki
+2011,Mercedes-Benz C-Class 200 CGI Avantgarde,1258000,66700,Petrol,Mumbai Delivery available in Navi Mumbai,Mercedes-Benz
+2014,Volkswagen Vento TSI,485000,65327,Petrol,Mumbai Delivery available in Navi Mumbai,Volkswagen
+2016,Renault Pulse RxL Petrol [2015-2017],365000,22625,Petrol,Mumbai Delivery available in Navi Mumbai,Renault
+2014,Mahindra XUV500 W6,680000,60481,Diesel,Thane Delivery available in Navi Mumbai,Mahindra
+2016,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],1495000,55000,Diesel,Thane Delivery available in Navi Mumbai,Toyota
+2013,Toyota Corolla Altis Aero Ltd Petrol,500000,650000,Petrol,Mumbai Delivery available in Navi Mumbai,Toyota
+2013,Maruti Suzuki Alto K10 VXi,240000,11000,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2019,Maruti Suzuki Dzire VXi,720000,19968,Petrol,Navi Mumbai,Maruti Suzuki
+2018,Honda WR-V S MT Petrol,749000,24975,Petrol,Mumbai Delivery available in Navi Mumbai,Honda
+2017,Maruti Suzuki Baleno Zeta 1.2 AT,699000,16540,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2016,Honda Brio S MT,425000,10046,Petrol,Mumbai Delivery available in Navi Mumbai,Honda
+2016,Hyundai Xcent S AT 1.2 (O),595000,41280,Petrol,Mumbai Delivery available in Navi Mumbai,Hyundai
+2010,Maruti Suzuki Ritz VXI BS-IV,265000,24000,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2017,Honda WR-V VX MT Petrol,749000,28771,Petrol,Mumbai Delivery available in Navi Mumbai,Honda
+2015,Volkswagen Polo Highline1.2L (P),475000,29390,Petrol,Mumbai Delivery available in Navi Mumbai,Volkswagen
+2016,Hyundai Creta 1.6 SX Plus Petrol,951000,19511,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2007,Maruti Suzuki Wagon R LXi Minor,125000,61694,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Maruti Suzuki Ciaz VDi + [2014-2015],600000,85347,Diesel,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],445000,20100,Petrol,Mumbai Delivery available in Navi Mumbai,Hyundai
+2012,Maruti Suzuki A-Star Vxi,275000,46646,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2013,Maruti Suzuki Swift DZire VDI,449000,67664,Diesel,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2016,Mahindra XUV500 W10 AT,1275000,72000,Diesel,Mumbai Delivery available in Navi Mumbai,Mahindra
+2018,Hyundai Creta 1.4 S Plus,1245000,21153,Diesel,Mumbai Delivery available in Navi Mumbai,Hyundai
+2012,Toyota Fortuner 3.0 4x2 AT,1500000,66453,Diesel,Mumbai Delivery available in Navi Mumbai,Toyota
+2011,Maruti Suzuki Wagon R 1.0 VXi,265000,41117,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Maruti Suzuki Swift DZire VXI,510000,65637,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2013,Maruti Suzuki Wagon R 1.0 VXi,290000,39271,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2016,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],1629000,111000,Diesel,Mumbai Delivery available in Navi Mumbai,Toyota
+2014,Ford EcoSport Titanium 1.5 Ti-VCT AT,555000,79000,Petrol,Mumbai Delivery available in Navi Mumbai,Ford
+2015,Toyota Camry Hybrid,1599000,95000,Petrol,Mumbai Delivery available in Navi Mumbai,Toyota
+2011,Mercedes-Benz S-Class 350 CDI L,2500000,51086,Diesel,Mumbai Delivery available in Navi Mumbai,Mercedes-Benz
+2013,Maruti Suzuki SX4 ZXi,399000,47284,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2019,Ford EcoSport Titanium 1.5L Ti-VCT,911000,11234,Petrol,Thane Delivery available in Navi Mumbai,Ford
+2012,Toyota Fortuner 3.0 4x2 AT,1269000,164000,Diesel,Navi Mumbai,Toyota
+2021,Mahindra Thar LX 4-STR Convertible Petrol AT,1881000,1600,Petrol,Mumbai Delivery available in Navi Mumbai,Mahindra
+2017,Maruti Suzuki Dzire VXi AMT,615000,20342,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2016,Honda Jazz S MT [2015-2016],500000,45027,Petrol,Thane Delivery available in Navi Mumbai,Honda
+2011,Mahindra Scorpio LX BS-IV,415000,88258,Diesel,Thane Delivery available in Navi Mumbai,Mahindra
+2013,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,445000,56750,Petrol,Mumbai Delivery available in Navi Mumbai,Hyundai
+2016,Mercedes-Benz E-Class E 220 D,4650000,16000,Diesel,Navi Mumbai,Mercedes-Benz
+2013,BMW 5 Series 520d Luxury Line,1845000,26000,Diesel,Navi Mumbai,BMW
+2017,Maruti Suzuki Baleno Sigma 1.2,525000,10783,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2011,Volkswagen Vento Highline Petrol,356199,54000,Petrol,Thane Delivery available in Navi Mumbai,Volkswagen
+2016,Maruti Suzuki Ertiga VXI,695000,60000,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Hyundai Grand i10 Era 1.2 Kappa VTVT [2016-2017],400000,24123,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2015,Maruti Suzuki Ertiga ZDi,774000,70062,Diesel,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Maruti Suzuki Swift DZire VXI,562999,35000,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2020,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],1995000,15700,Diesel,Thane Delivery available in Navi Mumbai,Kia
+2015,Maruti Suzuki Ertiga VDi,649000,73617,Diesel,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2010,Maruti Suzuki Swift VXi,285000,12321,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2018,Maruti Suzuki Baleno Delta 1.2,625000,2700,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2020,Maruti Suzuki Dzire ZXi Plus,725000,42810,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2019,Maruti Suzuki Baleno Sigma,650000,19000,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2016,Maruti Suzuki Alto 800 Lxi CNG,325000,39000,CNG,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2013,Maruti Suzuki Ritz Zxi BS-IV,355000,67000,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2019,Maruti Suzuki S-Cross Zeta 1.3,985000,33997,Diesel,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Toyota Innova 2.5 G BS IV 7 STR,1030000,156334,Diesel,Thane Delivery available in Navi Mumbai,Toyota
+2017,Jeep Compass Longitude (O) 2.0 Diesel [2017-2020],1399000,46706,Diesel,Navi Mumbai,Jeep
+2017,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],1495000,83597,Diesel,Thane Delivery available in Navi Mumbai,Toyota
+2014,Maruti Suzuki Wagon R 1.0 LXI CNG (O),340000,79000,CNG,Navi Mumbai,Maruti Suzuki
+2015,Hyundai Elite i20 Sportz 1.2,575000,27749,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2015,Honda Jazz VX Diesel,590000,81104,Diesel,Thane Delivery available in Navi Mumbai,Honda
+2011,Audi Q5 2.0 TDI quattro,1365000,37000,Diesel,Navi Mumbai,Audi
+2013,Honda Brio S MT,350000,71535,Petrol,Thane Delivery available in Navi Mumbai,Honda
+2005,Toyota Corolla H3 1.8G,135000,112000,Petrol,Mumbai Delivery available in Navi Mumbai,Toyota
+2014,Volkswagen Cross Polo 1.2 TDI,350000,97000,Diesel,Mumbai Delivery available in Navi Mumbai,Volkswagen
+2016,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],470000,72516,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2012,Chevrolet Beat LS Diesel,210000,70258,Diesel,Thane Delivery available in Navi Mumbai,Chevrolet
+2012,Maruti Suzuki Swift DZire VXI,399999,48200,Petrol,Navi Mumbai,Maruti Suzuki
+2020,Maruti Suzuki Vitara Brezza ZXi,900000,72922,Petrol,Navi Mumbai,Maruti Suzuki
+2015,Maruti Suzuki Wagon R 1.0 VXI+ AMT,370000,48160,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2011,Jaguar XJ L 3.0 Diesel,2495000,46000,Diesel,Mumbai Delivery available in Navi Mumbai,Jaguar
+2014,Maruti Suzuki Swift VXi,415000,30730,Petrol,Mumbai Delivery available in Navi Mumbai,Maruti Suzuki
+2015,Honda Brio VX  (O) AT,425000,40350,Petrol,Thane Delivery available in Navi Mumbai,Honda
+2017,Mahindra XUV500 W10 AT,1485000,39700,Diesel,Thane Delivery available in Navi Mumbai,Mahindra
+2010,Toyota Land Cruiser Prado VX L,2995000,156000,Diesel,Mumbai Delivery available in Navi Mumbai,Toyota
+2016,Skoda Rapid 1.5 TDI CR Style Plus AT,725000,50667,Diesel,Thane Delivery available in Navi Mumbai,Skoda
+2018,Maruti Suzuki Baleno Zeta 1.2,630000,87521,Petrol,Navi Mumbai,Maruti Suzuki
+2015,Hyundai Verna Fluidic 1.6 VTVT SX,725000,37399,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2012,Hyundai i10 Sportz 1.2 AT Kappa2,300000,65161,Petrol,Navi Mumbai,Hyundai
+2011,Toyota Corolla Altis 1.8 VL AT,439000,79000,Petrol,Navi Mumbai,Toyota
+2011,Toyota Etios G,350000,55122,Petrol,Navi Mumbai,Toyota
+2017,Honda City V Petrol [2017-2019],821000,47197,Petrol,Thane Delivery available in Navi Mumbai,Honda
+2016,Maruti Suzuki Celerio ZDi [2015-2017],435000,84992,Diesel,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2010,Skoda Laura Ambiente 1.9 TDI MT,375000,52000,Diesel,Thane Delivery available in Navi Mumbai,Skoda
+2013,Maruti Suzuki Ritz Zxi BS-IV,365000,32893,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2013,Volkswagen Vento Comfortline Diesel,340000,77744,Diesel,Mumbai Delivery available in Navi Mumbai,Volkswagen
+2014,Toyota Etios Liva G SP*,350000,31913,Petrol,Thane Delivery available in Navi Mumbai,Toyota
+2010,Mahindra Xylo E4 BS-IV,335000,42200,Diesel,Thane Delivery available in Navi Mumbai,Mahindra
+2016,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],1675000,73131,Diesel,Thane Delivery available in Navi Mumbai,Toyota
+2016,Honda Amaze 1.5 S i-DTEC,475000,57249,Diesel,Navi Mumbai,Honda
+2018,Honda Amaze 1.2 V CVT Petrol [2018-2020],795000,15371,Petrol,Thane Delivery available in Navi Mumbai,Honda
+2016,Maruti Suzuki Swift Dzire VXI,575000,54367,Petrol,Navi Mumbai,Maruti Suzuki
+2018,Maruti Suzuki Celerio VXi [2017-2019],460000,14697,Petrol,Navi Mumbai,Maruti Suzuki
+2007,Maruti Suzuki Estilo LXi,149000,56634,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2016,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],525000,44000,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2019,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],2021000,21795,Diesel,Thane Delivery available in Navi Mumbai,Toyota
+2016,Audi Q3 35 TDI Premium + Sunroof,1950000,79000,Diesel,Navi Mumbai,Audi
+2018,Tata Nexon XMA Petrol,799000,36988,Petrol,Thane Delivery available in Navi Mumbai,Tata
+2016,Ford Figo Titanium1.5 TDCi,575000,31566,Diesel,Navi Mumbai,Ford
+2019,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2019-2020],525000,42000,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2012,Hyundai Verna Fluidic 1.6 VTVT SX,445000,73000,Petrol,Thane Delivery available in Navi Mumbai,Hyundai
+2017,Toyota Fortuner 2.8 4x4 AT [2016-2020],2799000,73000,Diesel,Navi Mumbai,Toyota
+2015,Mercedes-Benz GLA 200 CDI Sport,1650000,33000,Diesel,Navi Mumbai,Mercedes-Benz
+2010,Maruti Suzuki Swift Dzire VXi,295000,76090,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2010,Maruti Suzuki Estilo VXi,240000,22617,Petrol,Thane Delivery available in Navi Mumbai,Maruti Suzuki
+2017,Ford Aspire Titanium1.5 TDCi,510000,68000,Diesel,Navi Mumbai,Ford
+2013,Hyundai Elantra 1.6 SX AT,675000,62812,Diesel,Thane Delivery available in Navi Mumbai,Hyundai
+2015,Volkswagen Vento Highline Petrol,521000,62618,Petrol,Mumbai Delivery available in Navi Mumbai,Volkswagen
+2018,Mahindra XUV500 W7 [2018-2020],1425000,53636,Diesel,Bangalore,Mahindra
+2016,Maruti Suzuki Swift Dzire VXI AT ABS,695000,47057,Petrol,Bangalore,Maruti Suzuki
+2018,Hyundai Creta SX 1.6 Petrol,1285000,10100,Petrol,Bangalore,Hyundai
+2006,Honda City ZX GXi,325000,133938,Petrol,Bangalore,Honda
+2015,Renault Scala RxL Diesel,575000,58000,Diesel,Bangalore,Renault
+2008,Toyota Corolla Altis 1.8 VL AT,520000,57000,Petrol,Bangalore,Toyota
+2018,Toyota Yaris J CVT [2018-2020],870000,14122,Petrol,Bangalore,Toyota
+2015,Hyundai Elite i20 Magna 1.2,569000,13065,Petrol,Bangalore,Hyundai
+2018,Hyundai Creta SX 1.6 (O) Petrol,1345000,36994,Petrol,Bangalore,Hyundai
+2016,Hyundai Creta 1.6 SX Plus Special Edition,1250000,35084,Diesel,Bangalore,Hyundai
+2018,Maruti Suzuki Vitara Brezza VDi,935000,30366,Diesel,Bangalore,Maruti Suzuki
+2017,Hyundai Creta SX Plus 1.6  Petrol,1175000,31663,Petrol,Bangalore,Hyundai
+2017,Hyundai Creta 1.6 SX Plus Petrol,1145000,61315,Petrol,Bangalore,Hyundai
+2018,Hyundai Creta SX 1.6 CRDi (O),1395000,55699,Diesel,Bangalore,Hyundai
+2018,Hyundai Creta 1.6 SX Plus AT Petrol,1395000,36412,Petrol,Bangalore,Hyundai
+2018,Mahindra XUV500 W10,1595000,54583,Diesel,Bangalore,Mahindra
+2017,Hyundai Creta 1.6 S Plus AT,1345000,52165,Diesel,Bangalore,Hyundai
+2017,Maruti Suzuki Baleno Alpha 1.2,735000,33984,Petrol,Bangalore,Maruti Suzuki
+2017,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],599000,35876,Petrol,Bangalore,Hyundai
+2017,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],585000,27805,Petrol,Bangalore,Hyundai
+2018,Hyundai Creta SX 1.6 AT Petrol,1450000,26966,Petrol,Bangalore,Hyundai
+2013,Honda CR-V 2.4L 4WD AVN,1399000,94055,Petrol,Bangalore,Honda
+2019,Maruti Suzuki Swift VXi AMT,745000,18680,Petrol,Bangalore,Maruti Suzuki
+2015,Toyota Corolla Altis VL AT Petrol,1265000,25112,Petrol,Bangalore,Toyota
+2017,Hyundai Creta SX Plus 1.6  Petrol,1145000,61307,Petrol,Bangalore,Hyundai
+2018,Mahindra XUV500 W11 AT,1795000,53769,Diesel,Bangalore,Mahindra
+2015,Skoda Rapid 1.5 TDI CR Elegance AT,745000,61003,Diesel,Bangalore,Skoda
+2013,Honda CR-V 2.4L 4WD AVN,1399000,94030,Petrol,Bangalore,Honda
+2019,Hyundai Elite i20 Asta 1.2 [2016-2017],805000,20495,Petrol,Bangalore,Hyundai
+2013,Porsche Panamera 3.0 Diesel,4700000,42000,Diesel,Bangalore,Porsche
+2020,Ford EcoSport Titanium 1.5L TDCi,1045000,10701,Diesel,Bangalore,Ford
+2019,Maruti Suzuki Alto VXI,418000,18208,Petrol,Bangalore,Maruti Suzuki
+2017,Volkswagen Vento Highline Plus 1.2 (P) AT 16 Alloy,945000,28787,Petrol,Bangalore,Volkswagen
+2007,Honda City ZX VTEC,325000,76890,Petrol,Bangalore,Honda
+2013,BMW 7 Series 730Ld Sedan,2600000,66000,Diesel,Bangalore,BMW
+2021,MG Hector Sharp 2.0 Diesel [2019-2020],2150000,10867,Diesel,Bangalore,MG
+2015,Honda City V,715000,58800,Petrol,Bangalore,Honda
+2013,Maruti Suzuki Wagon R 1.0 LXI CNG (O),280000,193912,CNG,Bangalore,Maruti Suzuki
+2014,Toyota Corolla Altis 1.8 G AT,895000,61873,Petrol,Bangalore,Toyota
+2015,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],535000,58671,Petrol,Bangalore,Hyundai
+2018,Maruti Suzuki Baleno Zeta,750000,23000,Petrol,Bangalore,Maruti Suzuki
+2017,Toyota Fortuner 2.8 4x2 AT [2016-2020],2900000,28000,Diesel,Bangalore,Toyota
+2018,Maruti Suzuki Ignis Delta 1.2 MT,590000,13904,Petrol,Bangalore,Maruti Suzuki
+2014,Toyota Corolla Altis 1.8 VL AT,1075000,77000,Petrol,Bangalore,Toyota
+2017,Maruti Suzuki Wagon R 1.0 VXI+ (O),475000,49800,Petrol,Bangalore,Maruti Suzuki
+2017,Maruti Suzuki Alto 800 Vxi,345000,42305,Petrol,Bangalore,Maruti Suzuki
+2016,Hyundai Elite i20 Sportz 1.2 [2016-2017],600000,47120,Petrol,Bangalore,Hyundai
+2018,Maruti Suzuki Baleno Delta 1.2,699000,37422,Petrol,Bangalore,Maruti Suzuki
+2016,Audi A6 35 TDI Matrix,3420000,55000,Diesel,Bangalore,Audi
+2018,Toyota Fortuner 2.8 4x4 AT [2016-2020],3600000,30000,Diesel,Bangalore,Toyota
+2016,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,540000,40307,Petrol,Bangalore,Hyundai
+2018,Maruti Suzuki Vitara Brezza VDi AGS,935000,31000,Diesel,Bangalore,Maruti Suzuki
+2013,Skoda Octavia Ambition 2.0 TDI,1195000,54184,Diesel,Bangalore,Skoda
+2016,Honda Jazz S AT [2015-2016],625000,42123,Petrol,Bangalore,Honda
+2012,Maruti Suzuki Ertiga ZDi,665000,58300,Diesel,Bangalore,Maruti Suzuki
+2009,Honda Accord 2.4 MT,575000,61939,Petrol,Bangalore,Honda
+2020,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],2100000,8000,Diesel,Bangalore,Kia
+2013,Maruti Suzuki Ertiga ZDi,650000,56000,Diesel,Bangalore,Maruti Suzuki
+2018,Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],1050000,24000,Petrol,Bangalore,Maruti Suzuki
+2018,Maruti Suzuki Dzire VDi,770000,70000,Diesel,Bangalore,Maruti Suzuki
+2015,Land Rover Range Rover Evoque Dynamic SD4,2600000,97442,Diesel,Bangalore,Land Rover
+2017,Hyundai Elite i20 Sportz 1.2,695000,50000,Petrol,Bangalore,Hyundai
+2020,Kia Seltos HTX Plus 1.5 Diesel [2020-2021],1645000,34953,Diesel,Bangalore,Kia
+2020,Kia Sonet HTK Plus 1.2 [2020-2021],985000,9044,Petrol,Bangalore,Kia
+2017,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],1845000,35798,Diesel,Bangalore,Toyota
+2019,Hyundai Grand i10 Nios Asta 1.2 Kappa VTVT,770000,18000,Petrol,Bangalore,Hyundai
+2020,Hyundai Venue SX 1.0 Petrol [2019-2020],1100000,12250,Petrol,Bangalore,Hyundai
+2019,Renault Kwid CLIMBER 1.0 AMT,465000,21622,Petrol,Bangalore,Renault
+2019,Kia Seltos HTX Plus AT 1.5 Diesel [2019-2020],1900000,22000,Diesel,Bangalore,Kia
+2018,Lexus NX 300h Exquisite,6395000,7622,Hybrid,Bangalore,Lexus
+2018,Hyundai Creta SX 1.6 Petrol,1275000,25078,Petrol,Bangalore,Hyundai
+2014,Maruti Suzuki Alto 800 Lxi,290000,43476,Petrol,Bangalore,Maruti Suzuki
+2020,Renault Kwid RXT Opt [2015-2019],455000,15938,Petrol,Bangalore,Renault
+2011,Audi A6 2.0 TDI Premium,1650000,63000,Diesel,Bangalore,Audi
+2011,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2014-2019],275000,95000,Petrol,Bangalore,Maruti Suzuki
+2014,Hyundai Eon Era +,280000,73348,Petrol,Bangalore,Hyundai
+2014,Land Rover Range Rover Evoque Pure SD4 (CBU),2850000,117000,Diesel,Bangalore,Land Rover
+2019,Maruti Suzuki Baleno Delta 1.2,750000,50113,Petrol,Bangalore,Maruti Suzuki
+2016,Hyundai Creta E Plus 1.6 Petrol,950000,51000,Petrol,Bangalore,Hyundai
+2016,Hyundai Xcent S AT 1.2,585000,38473,Petrol,Bangalore,Hyundai
+2015,Renault Kwid RXT [2015-2019],340000,54806,Petrol,Bangalore,Renault
+2017,Hyundai Elite i20 Magna 1.4 AT [2016-2017],725000,45000,Petrol,Bangalore,Hyundai
+2016,Audi A6 2.0 TDI Premium,2250000,79000,Diesel,Bangalore,Audi
+2018,Lexus NX 300h F-Sport [2017-2020],4975000,16552,Petrol,Bangalore,Lexus
+2014,Hyundai Xcent S AT 1.2 (O),515000,43046,Petrol,Bangalore,Hyundai
+2011,Mercedes-Benz E-Class E250 Elegance,1550000,40000,Petrol,Bangalore,Mercedes-Benz
+2015,Audi Q5 30 TDI Design Edition,1750000,67000,Diesel,Bangalore,Audi
+2012,Hyundai i10 Magna 1.2 Kappa2,315000,81980,Petrol,Bangalore,Hyundai
+2008,Toyota Innova 2.5 G BS IV 8 STR,535000,159856,Diesel,Bangalore,Toyota
+2017,Mahindra XUV500 W10 AT,1525000,42000,Diesel,Bangalore,Mahindra
+2016,Audi Q3 35 TDI Premium + Sunroof,2600000,40800,Diesel,Bangalore,Audi
+2018,Hyundai Verna SX (O) AT Anniversary Edition 1.6 VTVT,1125000,40494,Petrol,Bangalore,Hyundai
+2017,Jeep Compass Limited (O) 2.0 Diesel [2017-2020],1500000,38698,Diesel,Bangalore,Jeep
+2013,Maruti Suzuki Ertiga ZDi,625000,69000,Diesel,Bangalore,Maruti Suzuki
+2019,BMW 6 Series 630i Coupe,5900000,18000,Petrol,Bangalore,BMW
+2019,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],675000,10000,Petrol,Bangalore,Hyundai
+2019,Hyundai Creta 1.6 SX Plus Special Edition,1695000,23000,Diesel,Bangalore,Hyundai
+2011,Honda Accord 2.4 AT,895000,86769,Petrol,Bangalore,Honda
+2010,Hyundai i10 Magna,310000,48000,Petrol,Bangalore,Hyundai
+2018,Jaguar F-Pace Prestige,5250000,44500,Diesel,Bangalore,Jaguar
+2013,Toyota Innova 2.5 VX 8 STR BS-IV,1495000,64000,Diesel,Bangalore,Toyota
+2016,Maruti Suzuki Ciaz ZDi+ SHVS,680000,85802,Diesel,Bangalore,Maruti Suzuki
+2016,Maruti Suzuki Vitara Brezza ZDi,890000,44300,Diesel,Bangalore,Maruti Suzuki
+2016,Hyundai Elite i20 Asta 1.2 (O) [2016],625000,74000,Petrol,Bangalore,Hyundai
+2017,Hyundai Elite i20 Sportz 1.2,699000,32186,Petrol,Bangalore,Hyundai
+2009,Fiat 500 Lounge,1075000,36000,Diesel,Bangalore,Fiat
+2018,Hyundai Creta SX 1.6 (O) Petrol,1435000,33000,Petrol,Bangalore,Hyundai
+2017,Skoda Superb L&K TSI AT,2400000,69000,Petrol,Bangalore,Skoda
+2014,Honda City SV,625000,55000,Petrol,Bangalore,Honda
+2017,Mahindra Bolero Power Plus ZLX [2016-2019],875000,56000,Diesel,Bangalore,Mahindra
+2016,Toyota Fortuner 3.0 4x4 AT,2325000,68500,Diesel,Bangalore,Toyota
+2019,Honda WR-V VX MT Diesel,1065000,17064,Diesel,Bangalore,Honda
+2019,Volvo XC40 Inscription,3950000,33000,Diesel,Bangalore,Volvo
+2010,Honda Civic 1.8V MT,485000,99849,Petrol,Bangalore,Honda
+2018,Maruti Suzuki Dzire VXi AMT,700000,128000,Petrol,Bangalore,Maruti Suzuki
+2016,Mercedes-Benz GLA 200 d Sport,2450000,57732,Diesel,Bangalore,Mercedes-Benz
+2015,Hyundai Elite i20 Asta 1.2 (O),625000,63000,Petrol,Bangalore,Hyundai
+2016,BMW 3 Series GT 320d Sport Line [2014-2016],2700000,48692,Diesel,Bangalore,BMW
+2014,Hyundai i10 Sportz 1.1 LPG [2010-2017],450000,25548,LPG,Bangalore,Hyundai
+2015,Maruti Suzuki Ertiga Vxi,700000,66758,Petrol,Bangalore,Maruti Suzuki
+2020,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],18500000,3737,Diesel,Bangalore,Land Rover
+2008,Honda Accord 2.4 iVtec AT,485000,63000,Petrol,Bangalore,Honda
+2016,Volvo V40 Cross Country D3,2100000,34300,Diesel,Bangalore,Volvo
+2009,BMW 3 Series 325i Sedan,1350000,11000,Petrol,Bangalore,BMW
+2015,Toyota Innova 2.5 ZX BS IV 7 STR,1495000,68000,Diesel,Bangalore,Toyota
+2019,Hyundai Verna 1.6 VTVT SX (O),870000,17983,Petrol,Bangalore,Hyundai
+2013,Skoda Rapid Ambition 1.6 TDI CR MT,475000,77000,Diesel,Bangalore,Skoda
+2013,Ford Endeavour 3.0L 4x4 AT,1100000,81337,Diesel,Bangalore,Ford
+2018,Maruti Suzuki Ertiga ZDI SHVS,1035000,16118,Diesel,Bangalore,Maruti Suzuki
+2019,Honda City V,985000,11694,Petrol,Bangalore,Honda
+2016,Mercedes-Benz A-Class A 200d,2150000,17329,Diesel,Bangalore,Mercedes-Benz
+2013,Skoda Rapid Ambition 1.6 TDI CR MT,410000,108024,Diesel,Bangalore,Skoda
+2019,Audi Q5 40 TDI Technology,5800000,15000,Diesel,Bangalore,Audi
+2017,Mercedes-Benz GLA 200 d Sport,2700000,32928,Diesel,Bangalore,Mercedes-Benz
+2014,Skoda Octavia Elegance 2.0 TDI AT,1250000,86000,Diesel,Bangalore,Skoda
+2018,Audi A3 35 TDI Premium + Sunroof,2775000,43000,Diesel,Bangalore,Audi
+2018,Skoda Octavia 2.0 TDI L&K,2095000,68000,Diesel,Bangalore,Skoda
+2019,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],1290000,149313,Diesel,Bangalore,Mahindra
+2011,Skoda Yeti Ambition 2.0 TDI CR 4x4,600000,98456,Diesel,Bangalore,Skoda
+2016,Toyota Innova Crysta 2.4 G 8 STR [2016-2017],1600000,60900,Diesel,Bangalore,Toyota
+2014,Maruti Suzuki Ertiga Vxi CNG,695000,40000,CNG,Pune,Maruti Suzuki
+2014,Honda City S Diesel,549999,92000,Diesel,Pune,Honda
+2020,Skoda Rapid TSI Monte Carlo AT,1250000,2000,Petrol,Pune,Skoda
+2011,Mercedes-Benz C-Class 200 CGI,895000,51000,Petrol,Pune,Mercedes-Benz
+2015,Mercedes-Benz E-Class E 250 CDI Avantgarde,2740000,63000,Diesel,Pune,Mercedes-Benz
+2015,Hyundai Xcent S 1.2,425000,81911,Petrol,Pune,Hyundai
+2005,Maruti Suzuki Zen LXi BS-III,125000,80000,Petrol,Pune,Maruti Suzuki
+2013,Hyundai Verna Fluidic 1.6 CRDi SX Opt,585000,79000,Diesel,Pune,Hyundai
+2016,Maruti Suzuki Swift VDi [2014-2017],535000,110000,Diesel,Pune,Maruti Suzuki
+2018,Ford EcoSport Titanium 1.5 Ti-VCT AT,950000,20000,Petrol,Pune,Ford
+2019,Hyundai Elite i20 Sportz 1.2 [2016-2017],710000,16800,Petrol,Pune,Hyundai
+2016,Volkswagen Polo Comfortline 1.2L (P),525000,36000,Petrol,Pune,Volkswagen
+2018,Honda Amaze 1.2 VX i-VTEC,685000,26000,Petrol,Pune,Honda
+2018,Datsun redi-GO T(O) 1.0 [2017-2019],320000,13000,Petrol,Pune,Datsun
+2018,Maruti Suzuki Wagon R 1.0 VXI,450000,20000,Petrol,Pune,Maruti Suzuki
+2017,Hyundai Elite i20 Sportz 1.2,635000,33000,Petrol,Pune,Hyundai
+2016,Volkswagen Vento Highline Plus 1.2 (P) AT 16 Alloy,725000,71200,Petrol,Pune,Volkswagen
+2016,Maruti Suzuki Baleno Sigma 1.2,510000,29000,Petrol,Pune,Maruti Suzuki
+2015,Tata Safari Storme 2019 2.2 VX 4x2 Varicor400,795000,80496,Diesel,Pune,Tata
+2009,Maruti Suzuki A-Star Vxi,190000,54000,Petrol,Pune,Maruti Suzuki
+2014,Volkswagen Vento Highline Diesel,545000,44342,Diesel,Pune,Volkswagen
+2019,Honda City ZX CVT Petrol [2017-2019],1225000,14335,Petrol,Pune,Honda
+2013,Renault Duster 85 PS RxL Diesel,510000,77114,Diesel,Pune,Renault
+2014,Hyundai i20 Sportz 1.4 CRDI,449999,95000,Diesel,Pune,Hyundai
+2012,Tata Nano LX,90999,88000,Petrol,Pune,Tata
+2008,Honda City ZX GXi,199999,118000,Petrol,Pune,Honda
+2017,Maruti Suzuki Ertiga VDI SHVS,845000,112804,Diesel,Pune,Maruti Suzuki
+2015,Mahindra Thar DI 2WD BS IV,574999,44692,Diesel,Pune,Mahindra
+2015,Maruti Suzuki Swift VDi,564999,108321,Diesel,Pune,Maruti Suzuki
+2008,Maruti Suzuki Swift Dzire ZXi,259999,96000,Petrol,Pune,Maruti Suzuki
+2008,Maruti Suzuki Swift VXi,235000,147000,Petrol,Pune,Maruti Suzuki
+2019,Tata Harrier XZ [2019-2020],1650000,49997,Diesel,Pune,Tata
+2020,Kia Seltos HTX 1.5 Diesel Dual Tone [2019-2020],1575000,15000,Diesel,Pune,Kia
+2016,Maruti Suzuki S-Cross Sigma 1.3,680000,46506,Diesel,Pune,Maruti Suzuki
+2016,Mercedes-Benz GLE 250 d,3900000,93000,Diesel,Pune,Mercedes-Benz
+2014,Honda Amaze 1.5 VX i-DTEC,465000,98000,Diesel,Pune,Honda
+2018,Jaguar F-Pace Prestige,4350000,55200,Diesel,Pune,Jaguar
+2016,Mercedes-Benz GLA 200 d Sport,2200000,71182,Diesel,Pune,Mercedes-Benz
+2010,Maruti Suzuki Ritz VXI BS-IV,255000,72000,Petrol,Pune,Maruti Suzuki
+2014,Maruti Suzuki Celerio VXi CNG [2019-2020],445000,56030,CNG,Pune,Maruti Suzuki
+2018,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2200000,70000,Diesel,Pune,Toyota
+2008,Tata Indica Vista Aura + Quadrajet BS-III,190000,35000,Diesel,Pune,Tata
+2015,Honda Mobilio V Petrol,540000,59000,Petrol,Pune,Honda
+2019,Maruti Suzuki Swift VXi AMT,675000,11233,Petrol,Pune,Maruti Suzuki
+2013,Jaguar F-Type S Convertible,6555255,8940,Petrol,Pune,Jaguar
+2011,Maruti Suzuki Wagon R 1.0 VXi,270000,48000,Petrol,Pune,Maruti Suzuki
+2019,Tata Harrier XZ [2019-2020],1750000,35621,Diesel,Pune,Tata
+2015,Skoda Rapid 1.5 TDI CR Elegance Black Package AT,625000,76000,Diesel,Pune,Skoda
+2018,Maruti Suzuki Dzire ZDi Plus AMT,825000,57000,Diesel,Pune,Maruti Suzuki
+2015,BMW 5 Series 520d Luxury Line,2350000,79000,Diesel,Pune,BMW
+2013,Toyota Fortuner 4x2 AT,1300000,153000,Diesel,Pune,Toyota
+2016,Hyundai Creta 1.6 SX Plus,1050000,75106,Diesel,Pune,Hyundai
+2013,MINI Cooper 1.6,1800000,37000,Petrol,Pune,MINI
+2016,Audi Q3 30 TDI S,1800000,80000,Diesel,Pune,Audi
+2012,Toyota Land Cruiser LC 200 VX,7200000,160000,Diesel,Pune,Toyota
+2015,Maruti Suzuki Alto K10 LXi [2014-2019],205000,53000,Petrol,Pune,Maruti Suzuki
+2018,BMW X3 xDrive 20d Luxury Line [2018-2020],4500000,88000,Diesel,Pune,BMW
+2018,BMW 5 Series 530d M Sport [2013-2017],6000000,9090,Diesel,Pune,BMW
+2012,Audi A4 2.0 TDI Sline,975000,70000,Diesel,Pune,Audi
+2016,BMW X3 xDrive-20d xLine,2800000,68500,Diesel,Pune,BMW
+2015,Audi A3 35 TDI Premium Plus + Sunroof,1800000,71299,Diesel,Pune,Audi
+2015,Ford EcoSport Trend 1.5L TDCi,599999,99499,Diesel,Pune,Ford
+2011,Maruti Suzuki Swift DZire VDI,325000,87000,Diesel,Pune,Maruti Suzuki
+2014,Mercedes-Benz S-Class S 350 CDI,4500000,47000,Diesel,Pune,Mercedes-Benz
+2011,Honda City 1.5 V MT,410000,87041,Petrol,Pune,Honda
+2013,BMW 3 Series 320d Sport Line,1425000,74000,Diesel,Pune,BMW
+2018,Maruti Suzuki Alto K10 VXi AMT [2014-2018],440000,6800,Petrol,Pune,Maruti Suzuki
+2017,Audi A3 35 TDI Premium Plus,2350000,65026,Diesel,Pune,Audi
+2015,Maruti Suzuki Swift VXi,510000,30000,Petrol,Pune,Maruti Suzuki
+2017,Hyundai Creta SX Plus 1.6 AT CRDI,1395000,31028,Diesel,Pune,Hyundai
+2017,Mercedes-Benz S-Class S 350 CDI,6300000,53000,Diesel,Pune,Mercedes-Benz
+2018,Tata Nexon XM,750000,81000,Petrol,Pune,Tata
+2015,Mercedes-Benz S-Class S 63 AMG,13000000,13000,Petrol,Pune,Mercedes-Benz
+2020,Hyundai Tucson 2WD AT GLS Diesel,2600000,10000,Diesel,Pune,Hyundai
+2014,BMW 6 Series Gran Coupe 640d Gran Coupe,4500000,31000,Diesel,Pune,BMW
+2019,Maruti Suzuki Alto 800 Lxi CNG,415000,10300,CNG,Pune,Maruti Suzuki
+2010,Toyota Fortuner 3.0 MT,1075000,141000,Diesel,Pune,Toyota
+2017,Maruti Suzuki Ignis Delta 1.2 MT,490000,69000,Petrol,Pune,Maruti Suzuki
+2007,Hyundai Santro Xing XL eRLX - Euro III,115000,87000,Petrol,Pune,Hyundai
+2017,Mercedes-Benz E-Class E 220 d Avantgarde,4350000,43000,Diesel,Pune,Mercedes-Benz
+2012,Hyundai i20 Sportz 1.4 CRDI,340000,94000,Diesel,Pune,Hyundai
+2020,Mercedes-Benz C-Class C 200 Progressive [2018-2020],4500000,2100,Petrol,Pune,Mercedes-Benz
+2013,Maruti Suzuki Swift ZXi,440000,89869,Petrol,Pune,Maruti Suzuki
+2016,Maruti Suzuki Swift VXi ABS,550000,83380,Petrol,Pune,Maruti Suzuki
+2018,Tata Nexon XM Diesel,725000,82169,Diesel,Pune,Tata
+2014,Maruti Suzuki Celerio VXi AMT,375000,41000,Petrol,Pune,Maruti Suzuki
+2016,Maruti Suzuki Celerio VXi,420000,59105,Petrol,Pune,Maruti Suzuki
+2018,MINI Countryman Cooper S [2020-2021],3699000,18000,Petrol,Pune,MINI
+2011,Maruti Suzuki Ritz VXI BS-IV,285000,55000,Petrol,Pune,Maruti Suzuki
+2018,Maruti Suzuki Dzire VDi,750000,83074,Diesel,Pune,Maruti Suzuki
+2015,Maruti Suzuki Swift VXi,510000,26000,Petrol,Pune,Maruti Suzuki
+2011,Hyundai i10 Sportz 1.2 AT Kappa2,290000,49000,Petrol,Pune,Hyundai
+2010,Audi R8 Coupe 4.2 FSI quattro,4500000,20600,Petrol,Pune,Audi
+2010,Maruti Suzuki Wagon R LXi Minor,245000,113000,Petrol,Pune,Maruti Suzuki
+2012,Land Rover Range Rover Sport 3.0 TDV6,3300000,65000,Diesel,Pune,Land Rover
+2020,MG Hector Plus Sharp 1.5 DCT Petrol,1800000,17500,Petrol,Pune,MG
+2015,MINI Countryman Cooper D,2300000,40614,Diesel,Pune,MINI
+2016,MINI Cooper D 5 Door,2500000,15000,Diesel,Pune,MINI
+2016,Mercedes-Benz C-Class C 220 CDI Avantgarde,2700000,54000,Diesel,Pune,Mercedes-Benz
+2018,Isuzu D-Max V-Cross 4x4,1450000,88727,Diesel,Pune,Isuzu
+2012,Volkswagen Vento Highline Petrol,375000,53000,Petrol,Pune,Volkswagen
+2012,Mercedes-Benz E-Class E350,1300000,60000,Petrol,Pune,Mercedes-Benz
+2016,Toyota Etios Liva GD,535000,85000,Diesel,Pune,Toyota
+2015,Volkswagen Polo Highline1.2L (P),525000,40119,Petrol,Pune,Volkswagen
+2016,Land Rover Range Rover Evoque SE Dynamic,3300000,62000,Diesel,Pune,Land Rover
+2015,BMW X3 xDrive 20d Expedition,2400000,85200,Diesel,Pune,BMW
+2011,Bentley Continental GT Coupe,12500000,10500,Petrol,Pune,Bentley
+2018,Audi Q3 30 TDI Premium FWD,2750000,33000,Diesel,Pune,Audi
+2016,Mercedes-Benz E-Class E 250 CDI Avantgarde,2900000,44500,Diesel,Pune,Mercedes-Benz
+2018,Mahindra KUV100 NXT K4 Plus 6 STR [2017-2020],450000,60484,Petrol,Pune,Mahindra
+2018,Honda City ZX Diesel,1150000,40000,Diesel,Pune,Honda
+2016,BMW 5 Series 530d M Sport [2013-2017],3750000,49004,Diesel,Pune,BMW
+2019,Jeep Compass Trailhawk 2.0 4x4,2600000,12000,Diesel,Pune,Jeep
+2019,Maruti Suzuki Ertiga ZXi Plus,1050000,17695,Petrol,Pune,Maruti Suzuki
+2017,Skoda Octavia 1.8 TSI Style Plus AT [2017],1300000,65000,Petrol,Pune,Skoda
+2019,Maruti Suzuki Vitara Brezza ZDi,950000,34000,Diesel,Pune,Maruti Suzuki
+2021,Volkswagen Polo GT TSI,990000,11000,Petrol,Pune,Volkswagen
+2012,Honda Brio V MT,360000,98827,Petrol,Pune,Honda
+2015,BMW X1 sDrive20d,1450000,57000,Diesel,Pune,BMW
+2014,Audi Q7 35 TDI Premium + Sunroof,3200000,44000,Diesel,Pune,Audi
+2013,Volkswagen Vento Highline Petrol,450000,67585,Petrol,Pune,Volkswagen
+2011,Mercedes-Benz C-Class 250 CDI Avantgarde,1300000,80000,Diesel,Pune,Mercedes-Benz
+2015,Mahindra XUV500 W6,825000,62000,Diesel,Pune,Mahindra
+2019,Kia Seltos GTX Plus AT 1.4 [2019-2020],1800000,18000,Petrol,Pune,Kia
+2016,Hyundai i10 Sportz 1.2 Kappa2,490000,48000,Petrol,Pune,Hyundai
+2017,Toyota Innova Crysta 2.7 ZX AT 7 STR,1725000,65000,Petrol,Pune,Toyota
+2017,Hyundai Elite i20 Sportz 1.2,675000,6748,Petrol,Pune,Hyundai
+2013,Audi A4 2.0 TDI (177bhp) Premium Plus,1700000,45477,Diesel,Pune,Audi
+2016,Maruti Suzuki Alto K10 LXi CNG (Airbag) [2014-2019],350000,80000,CNG,Pune,Maruti Suzuki
+2012,Skoda Superb Elegance 2.0 TDI CR AT,750000,110000,Diesel,Pune,Skoda
+2013,Mercedes-Benz E-Class E220 CDI Blue Efficiency,1699000,67000,Diesel,Pune,Mercedes-Benz
+2013,Hyundai i20 Magna 1.4 CRDI,410000,81000,Diesel,Pune,Hyundai
+2016,Renault Kwid 1.0 RXL [2017-2019],300000,41297,Petrol,Pune,Renault
+2014,BMW 1 Series 118d Sport Line [2013-2017],1390000,64000,Diesel,Pune,BMW
+2011,Skoda Laura L&K 2.0 TDI AT,575000,76000,Diesel,Pune,Skoda
+2018,Jaguar F-Pace Prestige,5550250,20518,Diesel,Pune,Jaguar
+2017,Land Rover Discovery Sport HSE,3200000,68700,Diesel,Pune,Land Rover
+2010,Hyundai i10 Asta 1.2 AT with Sunroof,280000,75000,Petrol,Pune,Hyundai
+2017,Toyota Corolla Altis GL,1475000,48000,Diesel,Pune,Toyota
+2015,Tata Nano CNG emax CX,175000,32000,CNG,Pune,Tata
+2012,Mercedes-Benz E-Class E250 CDI BlueEfficiency,1250000,45000,Diesel,Pune,Mercedes-Benz
+2013,Maruti Suzuki Alto K10 VXi,255000,51000,Petrol,Pune,Maruti Suzuki
+2017,Tata Nano Twist XT,230000,41700,Petrol,Pune,Tata
+2014,Audi A6 2.0 TDI Technology Pack,1765000,67000,Diesel,Pune,Audi
+2015,Porsche Cayenne Diesel,5500000,68000,Diesel,Pune,Porsche
+2015,Maruti Suzuki Swift DZire VDI,625000,68000,Diesel,Pune,Maruti Suzuki
+2018,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],580000,9500,Petrol,Pune,Hyundai
+2018,Volkswagen Passat Highline,2700000,36000,Diesel,Pune,Volkswagen
+2016,Hyundai Creta 1.6 SX Plus,1065000,84000,Diesel,Pune,Hyundai
+2013,Hyundai i20 Magna 1.4 CRDI,410000,83000,Diesel,Chennai,Hyundai
+2012,Mahindra Verito 1.5 D6 BS-IV,360000,80000,Diesel,Chennai,Mahindra
+2013,Honda Amaze 1.5 S i-DTEC,425000,100000,Diesel,Chennai,Honda
+2017,Nissan Sunny XV D,650000,70465,Diesel,Chennai,Nissan
+2019,Hyundai Verna EX 1.4 VTVT,925000,24800,Petrol,Chennai,Hyundai
+2013,Ford EcoSport Titanium 1.0 Ecoboost,550000,25000,Petrol,Chennai,Ford
+2019,Jeep Compass Limited Plus Petrol AT [2018-2020],2190000,24000,Petrol,Chennai,Jeep
+2017,Ford Aspire Trend 1.5 TDCi,535000,40981,Diesel,Chennai,Ford
+2019,Honda Jazz VX CVT Petrol,900000,11505,Petrol,Chennai,Honda
+2018,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],2150000,7686,Diesel,Chennai,Toyota
+2019,Honda Jazz VX Petrol,900000,1664,Petrol,Chennai,Honda
+2020,Toyota Innova Crysta 2.4 ZX AT 7 STR,2790000,2762,Diesel,Chennai,Toyota
+2016,Hyundai Creta 1.6 SX,1090000,69138,Diesel,Chennai,Hyundai
+2017,Honda WR-V VX MT Petrol,800000,4593,Petrol,Chennai,Honda
+2015,Maruti Suzuki Ertiga VDi,725000,75000,Diesel,Chennai,Maruti Suzuki
+2013,Toyota Innova 2.5 VX 8 STR BS-III,1100000,107000,Diesel,Chennai,Toyota
+2016,Honda City SV Diesel,810000,62000,Diesel,Chennai,Honda
+2008,Hyundai Santro Xing GLS,170000,63000,Petrol,Chennai,Hyundai
+2014,Renault Duster RXL Petrol,565000,25000,Petrol,Chennai,Renault
+2015,Hyundai i10 Sportz 1.1 iRDE2 [2010--2017],400000,40000,Petrol,Chennai,Hyundai
+2018,Hyundai Verna 1.6 CRDI SX,1025000,40000,Diesel,Chennai,Hyundai
+2016,Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],1545000,72000,Diesel,Chennai,Toyota
+2010,Maruti Suzuki Ritz VXI BS-IV,285000,72000,Petrol,Chennai,Maruti Suzuki
+2015,Volkswagen Vento Highline Diesel,620000,54000,Diesel,Chennai,Volkswagen
+2014,Honda City VX CVT,790000,20000,Petrol,Chennai,Honda
+2014,Mahindra Bolero SLX BS IV,540000,180000,Diesel,Chennai,Mahindra
+2018,Hyundai Creta S 1.6 AT CRDi,1250000,40000,Diesel,Chennai,Hyundai
+2016,Hyundai Elite i20 Asta 1.2 [2016-2017],630000,5700,Petrol,Chennai,Hyundai
+2014,Audi A4 2.0 TDI (177bhp) Premium,1850000,72000,Diesel,Chennai,Audi
+2013,BMW X5 xDrive 30d,2700000,50000,Diesel,Chennai,BMW
+2013,Mercedes-Benz GL 350 CDI,3800000,52800,Diesel,Chennai,Mercedes-Benz
+2019,Hyundai Venue SX 1.0 Petrol [2019-2020],1025000,26000,Petrol,Chennai,Hyundai
+2017,Audi Q3 30 TFSI Premium,2650000,54000,Petrol,Chennai,Audi
+2016,BMW 7 Series 730Ld DPE (CBU),5650000,54000,Diesel,Chennai,BMW
+2019,Mahindra Alturas G4 2WD AT [2018-2020],2600000,30000,Diesel,Chennai,Mahindra
+2013,BMW 6 Series 650i Coupe,4500000,30000,Petrol,Chennai,BMW
+2017,Hyundai Grand i10 Sportz AT 1.2 Kappa VTVT,550000,44000,Petrol,Chennai,Hyundai
+2017,Toyota Fortuner 2.8 4x2 MT [2016-2020],2800000,420000,Diesel,Chennai,Toyota
+2019,Mahindra XUV500 W11(O) [2018-2020],1790000,31800,Diesel,Chennai,Mahindra
+2019,Honda Jazz VX Petrol,790000,11000,Petrol,Chennai,Honda
+2018,Mahindra XUV500 W5 [2018-2020],1290000,29000,Diesel,Chennai,Mahindra
+2019,Mahindra XUV500 W9 1.99,1649900,19900,Diesel,Chennai,Mahindra
+2018,Maruti Suzuki Ciaz Delta Hybrid 1.5 [2018-2020],870000,38000,Petrol,Chennai,Maruti Suzuki
+2015,Hyundai Grand i10 Asta 1.1 CRDi [2013-2016],444999,65000,Diesel,Chennai,Hyundai
+2018,Hyundai Creta SX 1.6 CRDi,1275000,56000,Diesel,Chennai,Hyundai
+2014,Audi A4 35 TDI Premium,2050000,49800,Diesel,Chennai,Audi
+2020,Maruti Suzuki S-Presso Vxi,445000,10000,Petrol,Chennai,Maruti Suzuki
+2014,Audi A4 3.0 TDI quattro Premium,1695000,47100,Diesel,Chennai,Audi
+2016,Hyundai Creta 1.6 SX (O),995000,40000,Diesel,Chennai,Hyundai
+2015,Volkswagen Vento Highline Petrol AT,600000,66000,Petrol,Chennai,Volkswagen
+2019,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2450000,26000,Diesel,Chennai,Toyota
+2012,Toyota Innova 2.5 V 7 STR,1200000,108000,Diesel,Chennai,Toyota
+2019,Mercedes-Benz CLA 200 CDI Style,2850000,39000,Diesel,Chennai,Mercedes-Benz
+2017,Hyundai Elite i20 Sportz 1.2,650000,45000,Petrol,Chennai,Hyundai
+2016,Mercedes-Benz M-Class ML 250 CDI,3500000,54555,Diesel,Chennai,Mercedes-Benz
+2017,Honda City V Petrol [2017-2019],850000,53803,Petrol,Chennai,Honda
+2014,BMW 3 Series 320d Sport Line,2250000,55000,Diesel,Chennai,BMW
+2017,Mercedes-Benz E-Class E 220 d Avantgarde,4500000,17000,Diesel,Chennai,Mercedes-Benz
+2019,Volkswagen Passat Highline,2850000,25000,Diesel,Chennai,Volkswagen
+2016,Ford EcoSport Titanium 1.5L TDCi,750000,34000,Diesel,Chennai,Ford
+2016,Honda City V,790000,45000,Petrol,Chennai,Honda
+2013,Skoda Laura Ambition 1.8 TSI,625000,106000,Petrol,Chennai,Skoda
+2019,BMW 5 Series 520d Luxury Line [2017-2019],5190000,53000,Diesel,Chennai,BMW
+2016,Audi A6 35 TDI Matrix,2500000,74000,Diesel,Chennai,Audi
+2016,BMW X1 sDrive20d xLine,2600000,37000,Diesel,Chennai,BMW
+2014,Honda City VX (O) MT,785000,20000,Petrol,Chennai,Honda
+2018,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],2050000,41000,Diesel,Chennai,Toyota
+2017,Audi Q3 30 TDI Premium FWD,2700000,73000,Diesel,Chennai,Audi
+2009,Audi Q7 3.0 TDI quattro,1399999,129999,Diesel,Chennai,Audi
+2015,Hyundai Elite i20 Sportz 1.2,575000,39000,Petrol,Chennai,Hyundai
+2013,Toyota Etios G,480000,58000,Petrol,Chennai,Toyota
+2013,Audi Q7 35 TDI Premium Plus + Sunroof,2095000,85000,Diesel,Chennai,Audi
+2012,Toyota Fortuner 3.0 4x2 AT,1349900,109000,Diesel,Chennai,Toyota
+2014,Ford EcoSport Titanium 1.5 TDCi,625000,46000,Diesel,Chennai,Ford
+2009,Mitsubishi Outlander 2.4 MIVEC 7 STR,550000,65000,Petrol,Chennai,Mitsubishi
+2019,Hyundai Elite i20 Magna Plus 1.2 [2019-2020],625000,33000,Petrol,Chennai,Hyundai
+2014,Mercedes-Benz GLA 200 Sport,1750000,65360,Petrol,Chennai,Mercedes-Benz
+2016,Hyundai Elite i20 Asta 1.2 [2016-2017],630000,57000,Petrol,Chennai,Hyundai
+2012,Mercedes-Benz C-Class 250 CDI Elegance,1450000,48000,Diesel,Chennai,Mercedes-Benz
+2019,BMW X1 sDrive20d xLine,3590000,52000,Diesel,Chennai,BMW
+2017,Maruti Suzuki S-Cross Delta 1.6,795000,45000,Diesel,Chennai,Maruti Suzuki
+2013,BMW 7 Series 730Ld Sedan,3190000,100000,Diesel,Chennai,BMW
+2020,BMW X4 M [2019],6800000,20000,Petrol,Chennai,BMW
+2017,Mercedes-Benz GLS 350 d,4950000,124000,Diesel,Chennai,Mercedes-Benz
+2019,Mahindra Alturas G4 2WD AT [2018-2020],2700000,30000,Diesel,Chennai,Mahindra
+2019,Maruti Suzuki Swift Dzire LDI,600000,62000,Diesel,Chennai,Maruti Suzuki
+2013,Audi Q3 2.0 TDI quattro Premium,1530000,62500,Diesel,Chennai,Audi
+2014,BMW 3 Series 320d Luxury Line,2250000,55000,Diesel,Chennai,BMW
+2009,Hyundai Getz Prime 1.1 GLE,149999,75000,Petrol,Chennai,Hyundai
+2018,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2300000,40000,Diesel,Chennai,Toyota
+2017,Hyundai Verna SX (O) 1.6 CRDi,940000,30000,Diesel,Chennai,Hyundai
+2017,Hyundai Verna 1.6 VTVT SX (O),875000,28000,Petrol,Chennai,Hyundai
+2013,Mercedes-Benz C-Class 250 CDI Classic,1450000,74000,Diesel,Chennai,Mercedes-Benz
+2018,Mercedes-Benz C-Class C 220 CDI Style,3500000,40000,Diesel,Chennai,Mercedes-Benz
+2017,Tata Indica V2 LS,220000,43240,Diesel,Chennai,Tata
+2011,Toyota Innova 2.5 VX 8 STR BS-IV,870000,120000,Diesel,Chennai,Toyota
+2017,Volkswagen Ameo Highline1.5L (D) [2016-2018],574999,55000,Diesel,Chennai,Volkswagen
+2016,Mercedes-Benz GLC 220 d Sport,3490000,38000,Diesel,Chennai,Mercedes-Benz
+2016,Volkswagen Ameo Highline1.5L (D) [2016-2018],610000,59000,Diesel,Chennai,Volkswagen
+2010,Mercedes-Benz S-Class 350 CDI L,2400000,57000,Diesel,Chennai,Mercedes-Benz
+2020,Renault Kwid 1.0 RXT Opt [2016-2019],475000,6000,Petrol,Chennai,Renault
+2016,Mercedes-Benz S-Class S 350 CDI,5850000,70000,Diesel,Chennai,Mercedes-Benz
+2016,Ford Endeavour Titanium 3.2 4x4 AT,2190000,69000,Diesel,Chennai,Ford
+2019,MG Hector Sharp 1.5 DCT Petrol [2019-2020],1800000,12000,Petrol,Chennai,MG
+2014,Jaguar XF 2.2 Diesel,2200000,78000,Diesel,Chennai,Jaguar
+2016,Mahindra XUV500 W10 AT,1540000,69000,Diesel,Chennai,Mahindra
+2017,Hyundai Grand i10 Asta 1.2 Kappa VTVT,540000,28000,Petrol,Chennai,Hyundai
+2008,Toyota Innova 2.0 V,775000,130000,Petrol,Chennai,Toyota
+2018,Nissan Sunny XV CVT,660000,36000,Petrol,Chennai,Nissan
+2021,Mahindra Thar LX 4-STR Hard Top Diesel AT,1775000,9000,Diesel,Chennai,Mahindra
+2015,Volkswagen Polo Trendline 1.2L (P),450000,41000,Petrol,Chennai,Volkswagen
+2015,Skoda Rapid 1.5 TDI CR Ambition Plus AT,675000,76000,Diesel,Chennai,Skoda
+2014,Mercedes-Benz A-Class A 180 CDI Style,1350000,55000,Diesel,Chennai,Mercedes-Benz
+2018,Honda Jazz V Diesel,750000,29000,Diesel,Chennai,Honda
+2017,Toyota Corolla Altis VL AT Petrol,1600000,19481,Petrol,Chennai,Toyota
+2012,Mahindra Verito 1.5 D6 BS-III,350000,80000,Diesel,Chennai,Mahindra
+2012,Ford Fiesta Style Petrol AT [2012-2014],375000,70000,Petrol,Chennai,Ford
+2019,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,1299900,4000,Petrol,Chennai,Hyundai
+2019,Kia Seltos GTX 1.4 Dual Tone,1590000,7000,Petrol,Chennai,Kia
+2020,Kia Carnival Limousine Plus 7 STR,3600000,9000,Diesel,Chennai,Kia
+2015,BMW 7 Series 730Ld,4400000,30000,Diesel,Chennai,BMW
+2020,Renault Kwid 1.0 RXT AMT Opt [2016-2019],530000,11500,Petrol,Chennai,Renault
+2014,Volkswagen Vento Highline Diesel,575000,86000,Diesel,Chennai,Volkswagen
+2016,Skoda Octavia 2.0 TDI CR Style Plus AT [2017],1450000,104000,Diesel,Chennai,Skoda
+2016,BMW 7 Series 730Ld DPE (CBU),6000000,40000,Diesel,Chennai,BMW
+2015,Audi A3 35 TDI Premium + Sunroof,1850000,58600,Diesel,Chennai,Audi
+2016,Hyundai Elite i20 Magna 1.2 [2016-2017],575000,67000,Petrol,Chennai,Hyundai
+2016,Hyundai Santa Fe 4WD AT [2014-2017],1449000,99900,Diesel,Chennai,Hyundai
+2012,Maruti Suzuki Alto K10 LXi,180000,87471,Petrol,Kolkata,Maruti Suzuki
+2018,Maruti Suzuki Dzire VXi,599001,25131,Petrol,Kolkata,Maruti Suzuki
+2016,Hyundai Elite i20 Magna 1.2 [2016-2017],499000,49685,Petrol,Kolkata,Hyundai
+2018,Honda City V CVT Petrol [2017-2019],885000,7000,Petrol,Kolkata,Honda
+2016,Honda Amaze 1.2 S i-VTEC,399000,33594,Petrol,Kolkata,Honda
+2019,Honda Civic ZX CVT Petrol [2019-2020],1700000,7900,Petrol,Kolkata,Honda
+2017,Honda Amaze 1.5 S i-DTEC,475000,43000,Diesel,Kolkata,Honda
+2017,Maruti Suzuki Swift ZXi [2018-2019],510000,42000,Petrol,Kolkata,Maruti Suzuki
+2017,Honda City SV Petrol [2017-2019],699000,26309,Petrol,Kolkata,Honda
+2018,Hyundai Elite i20 Magna Executive 1.2,579000,12895,Petrol,Kolkata,Hyundai
+2015,Hyundai Xcent SX 1.2,379999,19059,Petrol,Kolkata,Hyundai
+2018,Hyundai Elite i20 Sportz 1.2,599991,13464,Petrol,Kolkata,Hyundai
+2019,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],499999,17916,Petrol,Kolkata,Hyundai
+2017,Hyundai Xcent SX,470000,41283,Petrol,Kolkata,Hyundai
+2019,Maruti Suzuki Alto 800 Vxi,329991,28765,Petrol,Kolkata,Maruti Suzuki
+2017,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2017-2020],439991,30291,Petrol,Kolkata,Hyundai
+2017,Maruti Suzuki Alto K10 VXi [2014-2019],299999,11750,Petrol,Kolkata,Maruti Suzuki
+2013,Chevrolet Enjoy 1.3 LS 8 STR,285000,62000,Diesel,Kolkata,Chevrolet
+2006,Maruti Suzuki Esteem VXi BS-III,135000,72000,Petrol,Kolkata,Maruti Suzuki
+2016,Honda City VX,675000,38000,Petrol,Kolkata,Honda
+2020,Maruti Suzuki Swift LXi,499990,19458,Petrol,Kolkata,Maruti Suzuki
+2008,Honda City ZX GXi,210000,67000,Petrol,Kolkata,Honda
+2010,Maruti Suzuki Eeco 5 STR [2014-2019],180000,62701,Petrol,Kolkata,Maruti Suzuki
+2010,Hyundai i10 Magna 1.2,190000,66337,Petrol,Kolkata,Hyundai
+2012,Hyundai Eon Era +,199000,33902,Petrol,Kolkata,Hyundai
+2010,Hyundai i20 Magna 1.2,240000,44083,Petrol,Kolkata,Hyundai
+2013,Chevrolet Beat LT Opt Diesel,170000,66092,Diesel,Kolkata,Chevrolet
+2018,Hyundai Verna 1.6 VTVT SX,845000,50000,Petrol,Kolkata,Hyundai
+2015,Audi A6 2.0 TDI Premium Plus,2095000,27000,Diesel,Kolkata,Audi
+2015,BMW 3 Series 320d Luxury Line,2075000,29000,Diesel,Kolkata,BMW
+2009,Maruti Suzuki A-Star Zxi,189000,53421,Petrol,Kolkata,Maruti Suzuki
+2015,Volkswagen Polo Highline1.5L (D),435000,35000,Diesel,Kolkata,Volkswagen
+2017,Maruti Suzuki Ignis Sigma 1.2 MT,429000,23724,Petrol,Kolkata,Maruti Suzuki
+2013,Ford EcoSport Titanium 1.5 TDCi,499000,60000,Diesel,Kolkata,Ford
+2015,Maruti Suzuki Alto K10 VXi [2014-2019],285000,14249,Petrol,Kolkata,Maruti Suzuki
+2019,BMW 5 Series 530i M Sport [2019-2019],4650000,13000,Petrol,Kolkata,BMW
+2019,Maruti Suzuki Celerio ZXi AMT [2019-2020],485000,16000,Petrol,Kolkata,Maruti Suzuki
+2015,Nissan Sunny XL,340000,38000,Petrol,Kolkata,Nissan
+2018,Skoda Superb L&K TSI AT,2100000,26100,Petrol,Kolkata,Skoda
+2016,Hyundai Eon 1.0 Kappa Magna + [2014-2016],265000,23001,Petrol,Kolkata,Hyundai
+2017,Maruti Suzuki Ignis Delta 1.2 AMT,399000,24650,Petrol,Kolkata,Maruti Suzuki
+2018,Honda City ZX CVT Petrol [2017-2019],975000,16234,Petrol,Kolkata,Honda
+2018,Audi Q3 35 TDI quattro Premium Plus,2300000,22000,Diesel,Kolkata,Audi
+2016,Toyota Corolla Altis G,799000,51000,Diesel,Kolkata,Toyota
+2012,Volkswagen Polo Highline1.2L D,280000,52000,Diesel,Kolkata,Volkswagen
+2017,Maruti Suzuki Wagon R 1.0 VXI,385000,9705,Petrol,Kolkata,Maruti Suzuki
+2017,Honda City ZX Diesel,850000,38000,Diesel,Kolkata,Honda
+2019,Mercedes-Benz CLA 200 Urban Sport,3099000,7000,Petrol,Kolkata,Mercedes-Benz
+2014,Honda Amaze 1.2 EX i-VTEC,325000,48717,Petrol,Kolkata,Honda
+2015,Honda City VX Diesel,715000,19000,Diesel,Kolkata,Honda
+2017,Maruti Suzuki Ciaz ZDi (O) [2014-2015],595000,44000,Diesel,Kolkata,Maruti Suzuki
+2016,Hyundai Creta 1.4 S Plus,700000,50000,Diesel,Kolkata,Hyundai
+2013,BMW 1 Series 118d Sport Line [2013-2017],1175000,40000,Diesel,Kolkata,BMW
+2016,Mercedes-Benz CLA 200 CDI Sport (CBU),1799000,31000,Diesel,Kolkata,Mercedes-Benz
+2017,Ford EcoSport Titanium+ 1.5L TDCi,590000,44000,Diesel,Kolkata,Ford
+2018,Honda Jazz S MT [2015-2016],525000,16415,Petrol,Kolkata,Honda
+2011,Audi A6 2.7 TDI,1125000,54000,Diesel,Kolkata,Audi
+2016,BMW X1 sDrive20d Expedition,1750000,37000,Diesel,Kolkata,BMW
+2017,Hyundai Elite i20 Sportz 1.2,524900,27941,Petrol,Kolkata,Hyundai
+2010,Tata Manza Aura (ABS) Safire BS-IV,100000,50000,Petrol,Kolkata,Tata
+2012,Nissan Sunny XV Diesel,299000,61000,Diesel,Kolkata,Nissan
+2020,Maruti Suzuki Eeco 7 STR [2019-2020],425000,2000,Petrol,Kolkata,Maruti Suzuki
+2016,Honda BR-V S Petrol,675000,2000,Petrol,Kolkata,Honda
+2015,Honda Amaze 1.2 SX i-VTEC,385000,28000,Petrol,Kolkata,Honda
+2017,Volkswagen Ameo Highline1.2L Plus (P) 16 Alloy [2017-2018],415000,8066,Petrol,Kolkata,Volkswagen
+2016,Honda Jazz VX Petrol,475000,32000,Petrol,Kolkata,Honda
+2018,Jeep Compass Limited 2.0 Diesel 4x4 [2017-2020],1450000,40000,Diesel,Kolkata,Jeep
+2018,Maruti Suzuki Ertiga ZDI + SHVS,850000,75000,Diesel,Kolkata,Maruti Suzuki
+2017,Mahindra Scorpio S4 Plus 1.99 [2016-2017],850000,72000,Diesel,Kolkata,Mahindra
+2019,Hyundai Creta SX 1.6 Petrol,1265000,18000,Petrol,Kolkata,Hyundai
+2015,Maruti Suzuki Ciaz VXi+,475000,65000,Petrol,Kolkata,Maruti Suzuki
+2015,Mercedes-Benz GLA 200 CDI Sport,2475000,28000,Diesel,Hyderabad,Mercedes-Benz
+2016,Maruti Suzuki Baleno Zeta 1.3,680000,93525,Diesel,Hyderabad,Maruti Suzuki
+2014,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],480000,57349,Petrol,Hyderabad,Hyundai
+2007,Maruti Suzuki Estilo LXi,230000,83163,Petrol,Hyderabad,Maruti Suzuki
+2011,Skoda Laura L&K 2.0 TDI AT,500000,78000,Diesel,Hyderabad,Skoda
+2014,BMW 3 Series GT 320d Luxury Line [2014-2016],2400000,67000,Diesel,Hyderabad,BMW
+2019,Skoda Rapid Monte Carlo 1.6 MPI AT,1135000,29867,Petrol,Hyderabad,Skoda
+2015,Honda Jazz V Petrol,540000,33400,Petrol,Hyderabad,Honda
+2017,Volkswagen Tiguan - 2020 Highline TDI,2500000,52984,Diesel,Hyderabad,Volkswagen
+2018,Maruti Suzuki Swift VDi,760000,57441,Diesel,Hyderabad,Maruti Suzuki
+2016,Ford EcoSport Titanium 1.5L Ti-VCT AT,750000,75507,Petrol,Hyderabad,Ford
+2019,Ford EcoSport Titanium 1.5L TDCi Black Edition,1120000,32675,Diesel,Hyderabad,Ford
+2018,Toyota Fortuner 2.8 4x2 MT [2016-2020],3150000,85588,Diesel,Hyderabad,Toyota
+2016,Skoda Rapid 1.5 TDI CR Style Plus AT,950000,42282,Diesel,Hyderabad,Skoda
+2014,Maruti Suzuki Swift VDi,590000,33184,Diesel,Hyderabad,Maruti Suzuki
+2017,Maruti Suzuki Wagon R 1.0 VXI AMT,520000,40904,Petrol,Hyderabad,Maruti Suzuki
+2018,Maruti Suzuki Ciaz Zeta 1.4 AT,980000,18178,Petrol,Hyderabad,Maruti Suzuki
+2016,Mahindra XUV500 W8 [2015-2017],1200000,75441,Diesel,Hyderabad,Mahindra
+2018,Maruti Suzuki Vitara Brezza ZDi Plus Dual Tone AGS,1080000,44083,Diesel,Hyderabad,Maruti Suzuki
+2012,Maruti Suzuki Swift VDi,480000,72255,Diesel,Hyderabad,Maruti Suzuki
+2019,Maruti Suzuki Ertiga ZDI + SHVS,1350000,48528,Diesel,Hyderabad,Maruti Suzuki
+2011,Maruti Suzuki Swift ZXi,450000,34854,Petrol,Hyderabad,Maruti Suzuki
+2012,Maruti Suzuki Wagon R 1.0 VXi,325000,75545,Petrol,Hyderabad,Maruti Suzuki
+2004,Maruti Suzuki Wagon R VXI,145000,97329,Petrol,Hyderabad,Maruti Suzuki
+2011,Toyota Fortuner 3.0 MT,1241000,133862,Diesel,Hyderabad,Toyota
+2013,Volkswagen Polo Highline1.5L (D),450000,108002,Diesel,Hyderabad,Volkswagen
+2014,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],430000,86273,Petrol,Hyderabad,Hyundai
+2019,Hyundai Elite i20 Magna 1.2 [2016-2017],725000,17820,Petrol,Hyderabad,Hyundai
+2014,Maruti Suzuki Wagon R 1.0 VXI,385000,75287,Petrol,Hyderabad,Maruti Suzuki
+2018,Mahindra XUV500 W7 [2018-2020],1450000,70841,Diesel,Hyderabad,Mahindra
+2017,Maruti Suzuki Baleno Delta 1.3,690000,56890,Diesel,Hyderabad,Maruti Suzuki
+2016,Jaguar XJ L 3.0 V6 Portfolio,5600000,31000,Diesel,Hyderabad,Jaguar
+2015,Honda Amaze 1.2 S i-VTEC,465000,40000,Petrol,Hyderabad,Honda
+2016,Toyota Innova Crysta 2.5 VX BS-III,1675000,80000,Diesel,Hyderabad,Toyota
+2014,Volvo S60 Kinetic D4,1700000,51000,Diesel,Hyderabad,Volvo
+2018,Maruti Suzuki Dzire VXi AMT,745000,30100,Petrol,Hyderabad,Maruti Suzuki
+2016,Skoda Rapid 1.6 MPI Style Plus,659000,38500,Petrol,Hyderabad,Skoda
+2017,Maruti Suzuki Alto 800 Lxi,370000,28192,Petrol,Hyderabad,Maruti Suzuki
+2009,Hyundai i10 Era,280000,83175,Petrol,Hyderabad,Hyundai
+2018,BMW 5 Series 520d Luxury Line [2017-2019],4900000,20000,Diesel,Hyderabad,BMW
+2012,Maruti Suzuki Alto LXi CNG,245000,62308,CNG,Hyderabad,Maruti Suzuki
+2016,Maruti Suzuki Omni E 8 STR BS-IV,290000,37909,Petrol,Hyderabad,Maruti Suzuki
+2015,Ford Figo Titanium1.5 TDCi,470000,44051,Diesel,Hyderabad,Ford
+2018,Hyundai Creta 1.6 SX Plus AT,1250000,110681,Diesel,Hyderabad,Hyundai
+2015,Hyundai Grand i10 Asta 1.1 CRDi [2013-2016],450000,103542,Diesel,Hyderabad,Hyundai
+2020,Mercedes-Benz GLC Coupe 300d 4MATIC,6900000,1825,Diesel,Hyderabad,Mercedes-Benz
+2010,BMW X5 M 50d,1850000,120000,Diesel,Hyderabad,BMW
+2021,Mahindra XUV500 W11 AT,2100000,15000,Diesel,Hyderabad,Mahindra
+2014,Maruti Suzuki Swift VDi,525000,85427,Diesel,Hyderabad,Maruti Suzuki
+2019,Honda BR-V VX Diesel,1075000,55000,Diesel,Hyderabad,Honda
+2020,Tata Nexon XZ Plus,850000,36213,Petrol,Hyderabad,Tata
+2010,Hyundai Santro Xing GLS,248400,88290,Petrol,Hyderabad,Hyundai
+2016,Maruti Suzuki Alto K10 VXi [2014-2019],325000,51000,Petrol,Hyderabad,Maruti Suzuki
+2013,Volkswagen Vento Highline Diesel,530000,59282,Diesel,Hyderabad,Volkswagen
+2014,Maruti Suzuki Celerio VXi AMT,415000,76000,Petrol,Hyderabad,Maruti Suzuki
+2011,Hyundai Verna Fluidic 1.4 VTVT,435000,67528,Petrol,Hyderabad,Hyundai
+2016,Hyundai Elite i20 Asta 1.4 CRDI [2016-2017],745200,68151,Diesel,Hyderabad,Hyundai
+2016,Honda City VX (O) MT Diesel,785000,64554,Diesel,Hyderabad,Honda
+2016,Mahindra TUV300 T6 Plus,625000,138768,Diesel,Hyderabad,Mahindra
+2006,Toyota Innova 2.5 V 7 STR,560000,190417,Diesel,Hyderabad,Toyota
+2010,Maruti Suzuki Swift Dzire VDi,360000,90000,Diesel,Hyderabad,Maruti Suzuki
+2011,Mercedes-Benz E-Class E250 CDI BlueEfficiency,1475000,65000,Diesel,Hyderabad,Mercedes-Benz
+2013,Land Rover Range Rover Evoque Pure SD4,2450000,82321,Diesel,Hyderabad,Land Rover
+2018,Jaguar XE Prestige Diesel,3930000,25600,Diesel,Hyderabad,Jaguar
+2007,Toyota Innova 2.5 G 7 STR BS-IV,360000,209893,Diesel,Hyderabad,Toyota
+2009,Hyundai i10 Sportz 1.2,265000,29000,Petrol,Hyderabad,Hyundai
+2010,Hyundai Verna VGT CRDi SX,350000,105440,Diesel,Hyderabad,Hyundai
+2019,Jaguar F-Pace Prestige,5900000,20763,Diesel,Hyderabad,Jaguar
+2005,Hyundai Terracan CRDi,465000,120000,Diesel,Hyderabad,Hyundai
+2015,Mahindra TUV300 T6 Plus,590000,1,Diesel,Hyderabad,Mahindra
+2018,Maruti Suzuki Baleno Alpha 1.3,690000,72000,Diesel,Hyderabad,Maruti Suzuki
+2013,Jaguar XF 2.2 Diesel Luxury,2300000,83308,Diesel,Hyderabad,Jaguar
+2017,Honda WR-V S MT Petrol,775000,39000,Petrol,Hyderabad,Honda
+2011,Ford Fiesta EXi 1.4 TDCi Ltd,235000,99937,Diesel,Hyderabad,Ford
+2010,Maruti Suzuki Wagon R LXi Minor,175000,44000,Petrol,Hyderabad,Maruti Suzuki
+2014,Toyota Corolla Altis 1.8 VL AT,1150000,57609,Petrol,Hyderabad,Toyota
+2021,Mahindra Thar LX 4-STR Hard Top Petrol AT,2300000,6000,Petrol,Hyderabad,Mahindra
+2014,Mahindra Bolero Power Plus ZLX [2016-2019],565000,95247,Diesel,Hyderabad,Mahindra
+2011,Honda City 1.5 V AT,575000,51000,Petrol,Hyderabad,Honda
+2013,Mahindra XUV500 W8 [2015-2017],665000,177649,Diesel,Hyderabad,Mahindra
+2019,Lexus LS 500h Ultra Luxury [2018-2020],16900000,4000,Hybrid,Hyderabad,Lexus
+2017,Maruti Suzuki Swift Dzire VDI,745000,40000,Diesel,Hyderabad,Maruti Suzuki
+2017,Hyundai Creta 1.6 SX Plus AT Petrol,1245000,24250,Petrol,Hyderabad,Hyundai
+2013,Mercedes-Benz E-Class E250 CDI Avantgarde,1850000,89000,Diesel,Hyderabad,Mercedes-Benz
+2012,BMW X1 sDrive20d,1350000,71874,Diesel,Hyderabad,BMW
+2018,Land Rover Range Rover Sport SDV6 SE,11500000,50486,Diesel,Hyderabad,Land Rover
+2017,Audi Q3 30 TDI Premium FWD,2400000,100568,Diesel,Hyderabad,Audi
+2017,Mercedes-Benz S-Class S 350 CDI,8999000,8000,Diesel,Hyderabad,Mercedes-Benz
+2017,Mercedes-Benz GLA 200 d Sport,2450000,61000,Diesel,Hyderabad,Mercedes-Benz
+2014,Mahindra Quanto C8,435000,134000,Diesel,Hyderabad,Mahindra
+2015,Volvo XC90 Inscription Luxury [2015-2020],4700000,63895,Diesel,Hyderabad,Volvo
+2009,Honda City 1.5 S MT,385000,121580,Petrol,Hyderabad,Honda
+2018,Hyundai Creta SX 1.6 AT CRDi,1500000,22000,Diesel,Hyderabad,Hyundai
+2015,Maruti Suzuki Swift VXi,540000,63000,Petrol,Hyderabad,Maruti Suzuki
+2019,Ford EcoSport Titanium 1.5L TDCi,1050000,15250,Diesel,Hyderabad,Ford
+2017,Toyota Etios GD,723600,66812,Diesel,Hyderabad,Toyota
+2013,Volkswagen Vento Comfortline Diesel,445000,77000,Diesel,Hyderabad,Volkswagen
+2016,Ford EcoSport Titanium 1.5L TDCi,745000,46816,Diesel,Hyderabad,Ford
+2012,Mahindra XUV500 W8,625000,122833,Diesel,Hyderabad,Mahindra
+2012,Tata Indica Vista LX TDI BS-III,255000,75000,Diesel,Hyderabad,Tata
+2010,Honda City 1.5 V MT,355000,75000,Petrol,Hyderabad,Honda
+2009,Maruti Suzuki Swift Dzire VXi,351000,132582,Petrol,Hyderabad,Maruti Suzuki
+2015,Maruti Suzuki Swift LXi,449000,40800,Petrol,Hyderabad,Maruti Suzuki
+2015,Audi Q3 35 TDI Technology,2200000,45000,Diesel,Hyderabad,Audi
+2015,Skoda Rapid 1.5 TDI CR Elegance,520000,130000,Diesel,Hyderabad,Skoda
+2014,Maruti Suzuki Ciaz VDi + [2014-2015],600000,67000,Diesel,Hyderabad,Maruti Suzuki
+2015,Toyota Innova 2.5 ZX BS III 7 STR,1100000,191460,Diesel,Hyderabad,Toyota
+2020,Maruti Suzuki Ertiga ZXI+,1035000,23465,Petrol,Hyderabad,Maruti Suzuki
+2014,Mercedes-Benz GLA 200 CDI Sport,1875000,76000,Diesel,Hyderabad,Mercedes-Benz
+2015,Volkswagen Vento Highline Petrol AT,700000,77000,Petrol,Hyderabad,Volkswagen
+2013,Toyota Innova 2.5 GX 7 STR BS-III,980000,147000,Diesel,Hyderabad,Toyota
+2016,Mahindra TUV300 T6 Plus,590000,147500,Diesel,Hyderabad,Mahindra
+2014,Mercedes-Benz GLA 200 CDI Style,1700000,38000,Diesel,Hyderabad,Mercedes-Benz
+2019,Toyota Land Cruiser Prado VX L,8800000,34000,Diesel,Hyderabad,Toyota
+2018,Honda Amaze 1.2 VX i-VTEC,820000,17774,Petrol,Hyderabad,Honda
+2018,BMW 5 Series 520d M Sport,5400000,51000,Diesel,Hyderabad,BMW
+2018,Maruti Suzuki Vitara Brezza ZDi,1040000,36000,Diesel,Hyderabad,Maruti Suzuki
+2008,Maruti Suzuki Wagon R LXi Minor,160000,81882,Petrol,Hyderabad,Maruti Suzuki
+2009,Maruti Suzuki Swift VDi,345000,92000,Diesel,Hyderabad,Maruti Suzuki
+2016,Maruti Suzuki Ertiga ZDI SHVS,750000,10500,Diesel,Hyderabad,Maruti Suzuki
+2015,Toyota Fortuner 3.0 4x4 AT,1850000,142312,Diesel,Hyderabad,Toyota
+2019,Maruti Suzuki Dzire ZDi Plus,890000,37752,Diesel,Hyderabad,Maruti Suzuki
+2018,Ford Endeavour Titanium 2.2 4x2 AT,2800000,94473,Diesel,Hyderabad,Ford
+2018,Mahindra XUV500 W11(O) [2018-2020],1595000,76700,Diesel,Hyderabad,Mahindra
+2016,Honda City V,745000,62500,Petrol,Hyderabad,Honda
+2018,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],1030000,44000,Diesel,Hyderabad,Maruti Suzuki
+2014,Mahindra Quanto C8,390000,137000,Diesel,Hyderabad,Mahindra
+2012,Toyota Innova 2.5 G4 8 STR,800000,69000,Diesel,Hyderabad,Toyota
+2010,Hyundai Verna CRDI VGT 1.5,390000,75000,Diesel,Hyderabad,Hyundai
+2011,Hyundai Santro Xing GLS,255000,61786,Petrol,Hyderabad,Hyundai
+2012,Hyundai Verna Fluidic 1.6 CRDi SX,475000,141907,Diesel,Hyderabad,Hyundai
+2015,Hyundai Elite i20 Asta 1.2,525000,129804,Petrol,Hyderabad,Hyundai
+2006,Toyota Innova 2.5 E,385000,208866,Diesel,Hyderabad,Toyota
+2007,Maruti Suzuki Swift VDi,245000,158024,Diesel,Hyderabad,Maruti Suzuki
+2011,Maruti Suzuki Omni E 8 STR BS-IV,210000,78000,Petrol,Hyderabad,Maruti Suzuki
+2020,Honda Jazz ZX CVT,1080000,6390,Petrol,Hyderabad,Honda
+2017,Honda City V Petrol [2017-2019],825000,58589,Petrol,Ahmedabad,Honda
+2015,Maruti Suzuki Ciaz ZXi  AT,675000,38000,Petrol,Ahmedabad,Maruti Suzuki
+2021,Mercedes-Benz E-Class E 220d Exclusive [2019-2019],7100000,300,Diesel,Ahmedabad,Mercedes-Benz
+2016,Honda Jazz VX Petrol,600000,72822,Petrol,Ahmedabad,Honda
+2018,Audi Q3 30 TDI Premium FWD,2850000,25000,Diesel,Ahmedabad,Audi
+2017,Maruti Suzuki Ertiga VDI SHVS,750000,67829,Diesel,Ahmedabad,Maruti Suzuki
+2019,Land Rover Range Rover Sport SDV6 HSE,8250000,55000,Diesel,Ahmedabad,Land Rover
+2011,BMW X1 sDrive20d,870000,82000,Diesel,Ahmedabad,BMW
+2017,Ford EcoSport Trend 1.5L TDCi,620000,100000,Diesel,Ahmedabad,Ford
+2013,Mercedes-Benz B-Class B180 Sports,990000,57000,Petrol,Ahmedabad,Mercedes-Benz
+2010,Mercedes-Benz C-Class 200 CGI Avantgarde,790000,85000,Petrol,Ahmedabad,Mercedes-Benz
+2020,BMW 3 Series 320d Luxury Line,3900000,14000,Diesel,Ahmedabad,BMW
+2018,MINI Countryman Cooper S JCW Inspired,3650000,11000,Petrol,Ahmedabad,MINI
+2012,Mahindra XUV500 W8,550000,91000,Diesel,Ahmedabad,Mahindra
+2016,Mercedes-Benz C-Class 220 CDI AT,2750000,52000,Diesel,Ahmedabad,Mercedes-Benz
+2014,Jaguar XF 2.2 Diesel Luxury,1890000,57000,Diesel,Ahmedabad,Jaguar
+2015,Honda Amaze 1.2 VX AT i-VTEC,540000,35500,Petrol,Ahmedabad,Honda
+2008,Toyota Innova 2.5 V 8 STR,390000,85700,Diesel,Ahmedabad,Toyota
+2021,Honda Jazz VX CVT Petrol,950000,20000,Petrol,Ahmedabad,Honda
+2016,Hyundai Eon Era +,310000,27000,Petrol,Ahmedabad,Hyundai
+2015,Hyundai Creta 1.6 SX,865000,58000,Diesel,Ahmedabad,Hyundai
+2021,Kia Seltos GTX Plus AT 1.4 [2019-2020],1875000,7000,Petrol,Ahmedabad,Kia
+2011,BMW X1 sDrive20d,900000,75000,Diesel,Ahmedabad,BMW
+2019,Mercedes-Benz E-Class E 220 d Avantgarde,5500000,9000,Diesel,Ahmedabad,Mercedes-Benz
+2019,Mercedes-Benz GLS 350 d,7500000,41000,Diesel,Ahmedabad,Mercedes-Benz
+2013,Volkswagen Polo Highline1.2L (D),400000,55000,Diesel,Ahmedabad,Volkswagen
+2016,Honda City SV Diesel,650000,72000,Diesel,Ahmedabad,Honda
+2017,Mahindra KUV100 K6 D 6 STR,390000,45000,Diesel,Ahmedabad,Mahindra
+2011,Hyundai Verna Fluidic 1.6 CRDi,395000,56000,Diesel,Ahmedabad,Hyundai
+2011,Honda City 1.5 V AT,490000,56000,Petrol,Ahmedabad,Honda
+2018,Volkswagen Tiguan - 2020 Highline TDI,2250000,109000,Diesel,Ahmedabad,Volkswagen
+2019,Ford EcoSport Titanium 1.5L TDCi,1025000,22000,Diesel,Ahmedabad,Ford
+2014,Hyundai i20 Sportz 1.4 CRDI,475000,38000,Diesel,Ahmedabad,Hyundai
+2017,Ford EcoSport Trend+ 1.0L EcoBoost,520000,53000,Petrol,Ahmedabad,Ford
+2014,Jaguar XF 2.2 Diesel,2091000,56200,Diesel,Ahmedabad,Jaguar
+2008,Maruti Suzuki SX4 VXi,250000,540000,Petrol,Ahmedabad,Maruti Suzuki
+2009,Hyundai i10 Sportz 1.2,240000,65000,Petrol,Ahmedabad,Hyundai
+2015,Mahindra XUV500 W10,975000,70000,Diesel,Ahmedabad,Mahindra
+2019,Volkswagen Ameo Highline1.2L Plus (P) 16 Alloy [2017-2018],690000,24000,Petrol,Ahmedabad,Volkswagen
+2017,Mercedes-Benz GLA 200 CDI Sport,2700000,28000,Diesel,Ahmedabad,Mercedes-Benz
+2012,Hyundai i20 Magna 1.4 CRDI,365000,62000,Diesel,Ahmedabad,Hyundai
+2019,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],635000,59000,Petrol,Ahmedabad,Hyundai
+2012,Honda City 1.5 S MT,525000,72000,Petrol,Ahmedabad,Honda
+2017,Jeep Compass Limited 2.0 Diesel [2017-2020],1290000,62000,Diesel,Ahmedabad,Jeep
+2010,Hyundai i10 Magna 1.2,250000,61000,Petrol,Ahmedabad,Hyundai
+2019,Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,725000,13643,Petrol,Ahmedabad,Hyundai
+2015,Maruti Suzuki Celerio VXi AMT ABS,415000,44000,Petrol,Ahmedabad,Maruti Suzuki
+2019,Maruti Suzuki Celerio LXi [2019-2020],375000,50000,Petrol,Ahmedabad,Maruti Suzuki
+2012,Toyota Etios GD,345000,62266,Diesel,Ahmedabad,Toyota
+2013,Renault Scala RxL Diesel,325000,83000,Diesel,Ahmedabad,Renault
+2015,Honda Jazz SV Diesel,475000,62139,Diesel,Ahmedabad,Honda
+2016,Audi Q3 35 TDI Premium + Sunroof,2250000,57000,Diesel,Ahmedabad,Audi
+2016,Maruti Suzuki Ciaz VDi+ SHVS,575000,63000,Diesel,Ahmedabad,Maruti Suzuki
+2015,Maruti Suzuki Ertiga VDi,635000,74000,Diesel,Ahmedabad,Maruti Suzuki
+2014,MINI Cooper Countryman Cooper D,1790000,21000,Diesel,Ahmedabad,MINI
+2012,BMW 5 Series 520d Sedan,1050000,82967,Diesel,Ahmedabad,BMW
+2011,Ford Figo Duratec Petrol EXI 1.2,211000,74000,Petrol,Ahmedabad,Ford
+2014,Hyundai Verna Fluidic 1.6 CRDi,525000,97328,Diesel,Ahmedabad,Hyundai
+2019,Mercedes-Benz E-Class E 220d Expression [2019-2019],5300000,19000,Diesel,Ahmedabad,Mercedes-Benz
+2014,Mercedes-Benz C-Class 220 BlueEfficiency,1490000,99452,Diesel,Ahmedabad,Mercedes-Benz
+2017,Honda Jazz V Diesel,535000,67000,Diesel,Ahmedabad,Honda
+2015,Hyundai Xcent S 1.2,500000,20000,Petrol,Ahmedabad,Hyundai
+2017,Hyundai Grand i10 Asta U2 1.2 CRDi,475000,54000,Diesel,Ahmedabad,Hyundai
+2014,Hyundai Verna Fluidic 1.6 CRDi SX AT,531000,50573,Diesel,Ahmedabad,Hyundai
+2011,Chevrolet Cruze LT,375000,131000,Diesel,Ahmedabad,Chevrolet
+2019,Maruti Suzuki Eeco 5 STR [2019-2020],475000,40300,Petrol,Ahmedabad,Maruti Suzuki
+2017,Hyundai Eon D-Lite +,335000,37000,Petrol,Ahmedabad,Hyundai
+2016,Honda Jazz V Diesel,575000,66000,Diesel,Ahmedabad,Honda
+2018,Ford EcoSport Titanium+ 1.5L TDCi Black Edition,841000,79536,Diesel,Ahmedabad,Ford
+2018,Hyundai Creta SX 1.6 CRDi,1200000,80000,Diesel,Ahmedabad,Hyundai
+2013,Audi Q7 3.0 TDI quattro Premium,2550000,87000,Diesel,Ahmedabad,Audi
+2018,Volvo XC90 Momentum Luxury [2015-2020],5600000,36299,Diesel,Ahmedabad,Volvo
+2021,Hyundai Verna SX 1.5 VTVT,1170000,7254,Petrol,Ahmedabad,Hyundai
+2019,Renault Duster 85 PS RXS 4X2 MT Diesel,850000,42000,Diesel,Ahmedabad,Renault
+2015,Audi A3 35 TDI Attraction,1400000,48000,Diesel,Ahmedabad,Audi
+2013,Hyundai Eon Era +,245000,40000,Petrol,Ahmedabad,Hyundai
+2016,Toyota Innova Crysta 2.4 GX 8 STR [2016-2020],1211000,95000,Diesel,Ahmedabad,Toyota
+2019,MG Hector Sharp 1.5 DCT Petrol [2019-2020],1551000,27288,Petrol,Ahmedabad,MG
+2017,Skoda Kodiaq Style 2.0 TDI 4x4 AT,2551000,107000,Diesel,Ahmedabad,Skoda
+2014,Honda Mobilio V Petrol,575000,45000,Petrol,Ahmedabad,Honda
+2015,Ford EcoSport Titanium 1.5 TDCi,550000,55000,Diesel,Ahmedabad,Ford
+2014,Skoda Rapid 1.5 TDI CR Elegance Plus Black Package,525000,52000,Diesel,Ahmedabad,Skoda
+2016,Audi Q3 35 TDI Premium + Sunroof,1950000,60000,Diesel,Ahmedabad,Audi
+2018,Mahindra TUV300 T10 Dual Tone,770000,57000,Diesel,Ahmedabad,Mahindra
+2015,Hyundai Verna SX Plus 1.6 CRDi AT,600000,69000,Diesel,Ahmedabad,Hyundai
+2017,Maruti Suzuki Ciaz ZXI+,750000,50000,Petrol,Ahmedabad,Maruti Suzuki
+2014,Skoda Octavia Ambition 2.0 TDI,1250000,63000,Diesel,Ahmedabad,Skoda
+2015,Maruti Suzuki Ciaz VXi+,590000,50000,Petrol,Ahmedabad,Maruti Suzuki
+2021,Mahindra Thar LX 4-STR Convertible Diesel MT,1625000,8000,Diesel,Ahmedabad,Mahindra
+2018,Maruti Suzuki Vitara Brezza ZDi Plus AGS,865000,32000,Diesel,Lucknow,Maruti Suzuki
+2011,Hyundai i10 Sportz 1.2 Kappa2,265000,65981,Petrol,Lucknow,Hyundai
+2011,Maruti Suzuki Wagon R 1.0 VXi,255000,67000,Petrol,Lucknow,Maruti Suzuki
+2012,Toyota Innova Aero Ltd 7 STR BS III,650000,86000,Diesel,Lucknow,Toyota
+2018,Mahindra Thar CRDe 4x4 AC,850000,48000,Diesel,Lucknow,Mahindra
+2016,Hyundai Verna 1.6 VTVT SX,650000,57200,Petrol,Lucknow,Hyundai
+2013,Maruti Suzuki Wagon R 1.0 VXi,280000,74000,Petrol,Lucknow,Maruti Suzuki
+2014,Hyundai Santro Xing GL Plus,225000,62000,Petrol,Lucknow,Hyundai
+2011,Maruti Suzuki Alto K10 VXi,225000,36000,Petrol,Lucknow,Maruti Suzuki
+2009,Maruti Suzuki Alto LXi BS-III,145000,52000,Petrol,Lucknow,Maruti Suzuki
+2013,Hyundai i10 Sportz 1.2 Kappa2 (O),305000,55000,Petrol,Lucknow,Hyundai
+2016,Tata Tiago Revotorq XT [2016-2019],355000,62000,Diesel,Lucknow,Tata
+2018,Tata Tiago Revotron XT [2016-2019],395000,60000,Petrol,Lucknow,Tata
+2007,Maruti Suzuki SX4 VXI BS-IV,195000,71000,Petrol,Lucknow,Maruti Suzuki
+2011,Hyundai Santro Xing GLS LPG,185000,51000,LPG,Lucknow,Hyundai
+2017,Tata Tiago Revotorq XE [2016-2019],355000,58000,Diesel,Lucknow,Tata
+2004,Maruti Suzuki Alto LXI,115000,60000,Petrol,Lucknow,Maruti Suzuki
+2007,Maruti Suzuki Alto LXi BS-III,138000,34000,Petrol,Lucknow,Maruti Suzuki
+2014,Maruti Suzuki Alto K10 LXi,252000,48000,Petrol,Lucknow,Maruti Suzuki
+2015,Hyundai i10 1.1L iRDE Magna Special Edition,325000,45000,Petrol,Lucknow,Hyundai
+2016,Maruti Suzuki Celerio VDi [2015-2017],345000,36000,Diesel,Lucknow,Maruti Suzuki
+2018,Maruti Suzuki Dzire VDi,715000,65000,Diesel,Lucknow,Maruti Suzuki
+2012,Maruti Suzuki Alto K10 VXi,225000,48000,Petrol,Lucknow,Maruti Suzuki
+2014,Maruti Suzuki Alto K10 VXi,265000,66000,Petrol,Lucknow,Maruti Suzuki
+2013,Hyundai Eon Era +,225000,52000,Petrol,Lucknow,Hyundai
+2009,Maruti Suzuki Estilo LXi,165000,62000,Petrol,Lucknow,Maruti Suzuki
+2011,Hyundai Verna Fluidic 1.6 CRDi SX,390000,61000,Diesel,Lucknow,Hyundai
+2014,Maruti Suzuki Alto 800 Lxi,240000,47000,Petrol,Lucknow,Maruti Suzuki
+2015,Hyundai Xcent S 1.1 CRDi,395000,92000,Diesel,Lucknow,Hyundai
+2016,Maruti Suzuki Swift Dzire VDI,575000,45000,Diesel,Lucknow,Maruti Suzuki
+2014,Mahindra XUV500 W8,675000,72000,Diesel,Lucknow,Mahindra
+2015,Honda City V Diesel,635000,95000,Diesel,Lucknow,Honda
+2016,Maruti Suzuki Alto 800 Lxi,225000,77000,Petrol,Lucknow,Maruti Suzuki
+2015,Toyota Innova 2.5 GX BS IV 7 STR,930000,135000,Diesel,Lucknow,Toyota
+2015,Mahindra Scorpio S8,960000,94985,Diesel,Lucknow,Mahindra
+2011,Hyundai Eon Era [2011-2012],185000,72000,Petrol,Lucknow,Hyundai
+2016,Toyota Fortuner 2.8 4x2 MT [2016-2020],2450000,100000,Diesel,Lucknow,Toyota
+2018,Hyundai Elite i20 Sportz 1.4 CRDi,699000,79000,Diesel,Lucknow,Hyundai
+2020,Kia Seltos HTK Plus 1.5 [2019-2020],1085000,11000,Petrol,Lucknow,Kia
+2010,Maruti Suzuki Wagon R 1.0 VXi,205000,75000,Petrol,Lucknow,Maruti Suzuki
+2008,Hyundai i10 Magna,145000,88000,Petrol,Lucknow,Hyundai
+2016,Maruti Suzuki Wagon R 1.0 VXI AMT,415000,36000,Petrol,Lucknow,Maruti Suzuki
+2015,Maruti Suzuki Alto K10 VXi AMT [2014-2018],275000,74600,Petrol,Lucknow,Maruti Suzuki
+2018,Maruti Suzuki Vitara Brezza VDi,800000,66800,Diesel,Lucknow,Maruti Suzuki
+2017,Toyota Fortuner 2.8 4x4 MT [2016-2020],2850000,52000,Diesel,Lucknow,Toyota
+2018,Maruti Suzuki Alto K10 VXi AMT [2014-2018],380000,14946,Petrol,Lucknow,Maruti Suzuki
+2018,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],490000,56000,Petrol,Lucknow,Hyundai
+2012,Audi Q3 2.0 TDI quattro Premium,1450000,100000,Diesel,Lucknow,Audi
+2010,Hyundai i10 Magna 1.2,195000,42000,Petrol,Lucknow,Hyundai
+2020,Maruti Suzuki Swift LXi,585000,40500,Petrol,Lucknow,Maruti Suzuki
+2016,Hyundai i20 Active 1.4 S,550000,68000,Diesel,Lucknow,Hyundai
+2017,Mercedes-Benz GLS 350 d,6500000,57000,Diesel,Lucknow,Mercedes-Benz
+2008,Maruti Suzuki Alto LX BS-III,105000,72230,Petrol,Lucknow,Maruti Suzuki
+2013,Hyundai Eon D-Lite,290000,60,Petrol,Lucknow,Hyundai
+2011,Mahindra Scorpio LX BS-III,465000,87612,Diesel,Lucknow,Mahindra
+2007,Mahindra Scorpio 2.6 Turbo 7 Str,260000,83000,Diesel,Lucknow,Mahindra
+2017,Maruti Suzuki Swift VDi,550001,45010,Diesel,Lucknow,Maruti Suzuki
+2020,MG Hector Plus Sharp 1.5 DCT Petrol,1785000,12567,Petrol,Lucknow,MG
+2016,Maruti Suzuki Ertiga ZDI + SHVS,775000,55000,Diesel,Lucknow,Maruti Suzuki
+2017,Maruti Suzuki Alto 800 Vxi,220000,67125,Petrol,Lucknow,Maruti Suzuki
+2015,Maruti Suzuki Alto K10 VXi [2014-2019],265000,33214,Petrol,Lucknow,Maruti Suzuki
+2013,Tata Safari 4x2 EX DiCOR 2.2 VTT,275000,93000,Diesel,Lucknow,Tata
+2019,Toyota Etios GD,625000,57000,Diesel,Lucknow,Toyota
+2017,Maruti Suzuki Swift VXi ABS,520000,12795,Petrol,Lucknow,Maruti Suzuki
+2019,Mahindra Scorpio S11 2WD 7 STR,1625000,25000,Diesel,Lucknow,Mahindra
+2014,Mahindra Bolero EX AC BS IV,440000,68000,Diesel,Lucknow,Mahindra
+2015,Mercedes-Benz CLA 200 CDI Sport,2450000,34000,Diesel,Lucknow,Mercedes-Benz
+2018,Tata Nexon XZ Plus Diesel Dual Tone,780000,66321,Diesel,Lucknow,Tata
+2016,Honda Amaze 1.5 S i-DTEC,375000,55000,Diesel,Lucknow,Honda
+2018,Tata Nexon XZ Plus,790000,24343,Petrol,Lucknow,Tata
+2016,Ford Endeavour Trend 2.2 4x2 AT,2050000,126400,Diesel,Lucknow,Ford
+2013,Honda Brio S MT,350000,52000,Petrol,Lucknow,Honda
+2005,Maruti Suzuki Wagon R VXI,125000,45000,Petrol,Lucknow,Maruti Suzuki
+2018,Land Rover Discovery Sport HSE,4850000,58000,Diesel,Lucknow,Land Rover
+2014,Hyundai i10 Magna 1.2 Kappa2,320000,66000,Petrol,Lucknow,Hyundai
+2015,Maruti Suzuki Swift DZire VDI,510000,67000,Diesel,Lucknow,Maruti Suzuki
+2015,Hyundai i20 Active 1.4 SX,595000,62000,Diesel,Lucknow,Hyundai
+2016,Mahindra Scorpio S4 Plus,850000,83000,Diesel,Lucknow,Mahindra
+2018,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],890000,48000,Diesel,Lucknow,Maruti Suzuki
+2015,Hyundai Creta 1.4 S,780000,80000,Diesel,Lucknow,Hyundai
+2016,Toyota Etios GD,435000,58000,Diesel,Lucknow,Toyota
+2008,Maruti Suzuki Wagon R VXi Minor,175000,72000,Petrol,Lucknow,Maruti Suzuki
+2011,Toyota Fortuner 3.0 MT,951000,87645,Diesel,Lucknow,Toyota
+2015,Hyundai Elite i20 Asta 1.4 (O) CRDi,545000,57000,Diesel,Lucknow,Hyundai
+2016,Mahindra Scorpio S10,1035000,97000,Diesel,Lucknow,Mahindra
+2015,Tata Zest XT Petrol,285000,27000,Petrol,Lucknow,Tata
+2015,Mahindra Bolero SLE BS III,595001,40000,Diesel,Lucknow,Mahindra
+2016,Toyota Etios GD,485000,66570,Diesel,Lucknow,Toyota
+2011,Ford Figo Duratorq Diesel Titanium 1.4,175001,65001,Diesel,Lucknow,Ford
+2018,Mercedes-Benz GLA 220 d 4MATIC,2850000,55000,Diesel,Lucknow,Mercedes-Benz
+2014,Hyundai Eon 1.0 Kappa Magna + [2014-2016],225000,53000,Petrol,Lucknow,Hyundai
+2018,Mahindra Scorpio S3 2WD 7 STR,875000,66000,Diesel,Lucknow,Mahindra
+2014,Maruti Suzuki Ertiga VDi,550000,98500,Diesel,Lucknow,Maruti Suzuki
+2014,Toyota Innova 2.5 GX 7 STR BS-III,770000,187593,Diesel,Lucknow,Toyota
+2015,Hyundai i20 Active 1.4 S,500000,80000,Diesel,Lucknow,Hyundai
